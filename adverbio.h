@@ -14,7 +14,7 @@ class Adverbio
 	public:
 		Adverbio(string);
 		~Adverbio();
-		bool openFile();
+		void openFile();
 		string getNameFile();
 		int getNumLines();
 		void printBuffer();

@@ -9,7 +9,7 @@ Adverbio::Adverbio(string name)
 
 Adverbio::~Adverbio(){}
 
-bool Adverbio::openFile()
+void Adverbio::openFile()
 {
 	if(file.is_open())
 	{
