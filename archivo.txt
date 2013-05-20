@@ -1,23 +1,147 @@
-http://www.vultaire.net/blog/2011/05/26/google-chrome-and-flash-on-debian-squeeze-64-bit/
+Una de mis mayores inquietudes durante muchos años ha sido cómo
+podría la gente evitar que una dictadura se estableciera y cómo
+destruirla. Esto se ha nutrido en parte por la convicción de que los
+seres humanos no deben ser ni dominados ni destruidos por
+semejantes regímenes. Esta creencia se ha fortalecido con lecturas
+sobre la importancia de la libertad humana y la naturaleza de las
+dictaduras (desde Aristóteles hasta los analistas del totalitarismo) y
+la historia de las dictaduras (especialmente en los sistemas nazi y
+comunista).
+     A través de los años, he tenido la oportunidad de conocer per-
+sonas que vivieron y padecieron bajo el régimen nazi, algunos in-
+clusive que sobrevivieron los campos de concentración. En Noruega,
+encontré algunos que habían trabajado en la resistencia al régimen
+fascista y que habían sobrevivido, y oí hablar de los que habían
+perecido. Hablé con judíos que se habían escapado de las garras de
+los nazis y con personas que habían ayudado a éstos a salvarse.
+     Sobre el terror en los regímenes comunistas de los diversos
+países he sabido más por libros que por contactos personales. El
+terror en estos sistemas me ha parecido más agudo, ya que estos
+regímenes se impusieron en nombre de liberación de la opresión y
+de la explotación.
+     En décadas más recientes, la realidad acerca de las dictaduras
+de hoy se me ha hecho más patente por la visita de personas que
+vienen de países gobernados por dictaduras, tales como Panamá,
+Polonia, Chile, el Tíbet o Birmania. De los tibetanos que pelearon
+contra la agresión del régimen comunista chino, de los rusos que en
+agosto de 1991 le cerraron el paso al golpe de estado de línea dura, o
+de los trabajadores tailandeses que con prácticas noviolentas
+impidieron el retorno del régimen militar, he ido adquiriendo puntos
+de vista perturbadores sobre la pérfida naturaleza de las dictaduras.
+     Mi sentimiento de tribulación y ultraje frente a la bestialidad
+impuesta, así como mi admiración ante el sereno heroísmo de
+hombres y mujeres increíblemente valientes, a veces se fortaleció
+cuando visité lugares donde el peligro aún era muy grande y, a pesar
+de ello, el valor de la gente se empeñaba en desafiarlo. Esto ocurría
+en el Panamá de Noriega, en Vilnius, Lituania, bajo la continua
+represión soviética; en Beijing, en la plaza de Tiananmen, tanto du-
+rante la manifestación festiva por la libertad como cuando los
+transportes del primer contingente armado entraron en la noche fa-
+tal; y en los cuarteles de la oposición democrática, en Manerplaw,
+en la "Birmania liberada".
+      En ocasiones visité el lugar de los caídos, tales como la torre de
+televisión y el cementerio de Vilnius, el parque público en Riga donde
+la población había sido ametrallada, el centro de Ferrara, al norte de
+Italia, donde los fascistas pararon en fila a los de la resistencia y los
+fusilaron, y hasta un sencillo cementerio en Manerplaw repleto de
+cadáveres de los que habían muerto aún demasiado jóvenes. Es
+triste advertir cómo cada dictadura deja tras de sí una larga secuela
+de muerte y destrucción.
+      De estas experiencias y consideraciones me fue creciendo una
+esperanza muy firme de que sí podía impedirse el establecimiento
+de las dictaduras, que se podía llevar a cabo una lucha victoriosa
+contra ellas sin provocar una carnicería masiva, que sí se podían
+destruir las dictaduras y evitar que surgieran otras nuevas de sus
+propias cenizas.
+      He tratado de pensar minuciosamente acerca de los métodos
+más efectivos para desintegrarlas con éxito y con el menor costo
+posible en vidas y sufrimientos. Para ello he repasado mis estudios
+de muchos años sobre las dictaduras, los movimientos de resistencia,
+las revoluciones, el pensamiento político, los sistemas de gobierno
+y, especialmente, sobre la auténtica lucha noviolenta.
+      El resultado de todo eso es esta publicación. Estoy seguro que
+dista mucho de ser perfecta. Pero quizás ofrece alguna orientación
+que apoye tanto el pensamiento como la planificación tendientes a
+producir movimientos de liberación que resulten más poderosos y
+eficaces de lo que serían de haber sido otro el caso.
+      Tanto por necesidad como por opción libre, este ensayo enfoca
+el problema genérico de cómo destruir una dictadura y cómo impedir
+el surgimiento de una nueva. No puedo realizar un análisis detallado
+y dar una recomendación precisa en cuanto a un país determinado.
+Sin embargo, espero que este análisis genérico sea útil a los pueblos
+que, desafortunadamente, todavía en demasiados lugares tienen que
+enfrentarse con las realidades de un régimen dictatorial. Necesitarán
+ examinar la validez de este texto en cuanto a su situación específica
+y determinar hasta qué punto las principales recomendaciones son
+aplicables, o si puede hacerse que lo sean, para su lucha de liberación.
+      He incurrido en varias deudas de gratitud durante la redacción
+de este ensayo. Bruce Jenkins, mi ayudante especial, ha hecho una
+contribución inestimable al identificar los problemas en cuanto a su
+contenido y presentación, y, mediante sus agudas sugerencias, en
+cuanto a una exposición más clara y rigurosa de las ideas más difíciles
+(en especial en lo tocante a estrategia), a la reorganización estructural
+del texto y al mejoramiento de la edición. Estoy también muy
+agradecido a Stephen Cody por su asistencia editorial. El Dr. Chris-
+topher Kruegler y el Sr. Robert Helvey me brindaron su importante
+crítica y consejo. Las Dras. Hazel McFerson y Patricia Parkman me
+suministraron información sobre las luchas en Africa y América
+Latina respectivamente. Aunque este trabajo se ha beneficiado por
+un tan noble y generoso apoyo, únicamente yo soy responsable del
+análisis y las conclusiones que contiene.
+      En ningún lugar de este trabajo asumo que el desafío contra los
+dictadores será una empresa fácil y poco costosa. Todas las formas
+de lucha tienen sus complicaciones y costos. El combate contra los
+dictadores por supuesto causará bajas. Sin embargo, espero que este
+análisis estimulará a los líderes de la resistencia a considerar
+estrategias que puedan incrementar su poder efectivo y al mismo
+tiempo reducir el nivel relativo de bajas.
+      Tampoco se interprete este análisis como que cuando se acabe
+con una dictadura específica todos los demás problemas habrán
+desaparecido. La caída de un régimen no trae por consecuencia una
+utopía. Más bien abre el camino a un trabajo ingente y a esfuerzos
+denodados a fin de construir unas relaciones políticas, económicas
+y sociales más justas y erradicar otras formas de injusticia y opresión.
+Es mi esperanza que este breve examen de cómo puede desintegrarse
+una dictadura sea útil en cualquier lugar donde la gente vive
+dominada y desea ser libre.
+                                      UNO
+  ENFRENTANDO LA REALIDAD DE LAS DICTADURAS
+En años recientes, diversas dictaduras—de origen tanto interno como
+externo—han caído o se han tambaleado cuando se les ha enfrentado
+una población desafiante y movilizada. Aunque a menudo se las ve
+como firmemente afianzadas e inexpugnables, algunas de estas
+dictaduras demostraron ser incapaces de soportar el desafío
+concertado del pueblo en lo político, lo económico y lo social.
+        A partir de 1980, las dictaduras han caído ante un desafío
+predominantemente noviolento del pueblo en Estonia, Latvia y
+Lituania, Polonia, Alemania Oriental, Checoslovaquia y Eslovenia,
+Madagascar, Mali, Bolivia y las Filipinas. La resistencia noviolenta
+ha hecho avanzar el movimiento por la democratización en Nepal,
+Zambia, Corea del Sur, Chile, Argentina, Haití, Brasil, Uruguay,
+Malawi, Tailandia, Bulgaria, Hungría, Zaire, Nigeria y en varias
+partes de la antigua Unión Soviética (llegando a jugar un papel
+significativo en la derrota del intento de golpe de estado de línea
+dura de agosto de 1991).
+        Mas aún, el desafío político masivo1 se ha hecho presente en
+China, Birmania y el Tíbet en años recientes. Aún cuando estas luchas
+no han destruido a las dictaduras ni le han puesto fin a la ocupación
+territorial impuesta, sí han puesto al descubierto ante la comunidad
+mundial la naturaleza brutal de esos regímenes represivos, y han
+1
+  El término "desafío político masivo", que se usa en este contexto, lo introdujo Ro-
+bert Helvey. El "desafío político" es una confrontación noviolenta (protesta,
+nocolaboración e intervención) que se lleva a cabo de manera desafiante y activa,
+con fines políticos. El término se originó en respuesta a la confusión y distorsión
+creadas cuando se daban por iguales la 'lucha noviolenta' con el "pacifismo" o la
+'noviolencia reIigiosa'. La palabra "desafío" denota una deliberada provocación a
+la autoridad mediante la desobediencia, y no deja lugar para la sumisión. El término
+'desafío político' describe el entorno en el cual se emplea la acción (político), así
+como el objetivo (eI poder político). Se usa principalmente para describir la acción
+realizada por la población para retomar de manos de la dictadura el control de las
+instituciones gubernamentales mediante el constante ataque a las fuentes de poder
+y el uso deliberado de la planificación estratégica y de las operaciones para
+alcanzarlo. En este sentido, "desafío político", "resistencia noviolenta" y "lucha
+noviolenta" se usarán aquí como sinónimos intercambiables, aunque los dos últimos
+términos, por lo general, se refieren a las luchas que persiguen una gama más amplia
+de objetivos (sociales, económicos, sicológicos, etc.).
 
-http://www-rohan.sdsu.edu/doc/debian/index.html#contents
-
-Instalar Java
-http://unbrutocondebian.blogspot.mx/2012/07/instalar-java-7-desde-repositorios.html
-
-http://www.descargasnsn.com/cursos/video2brain/17029-video2brain-todo-photoshop-cs6-2012-combinaciun-de-cursos-espasol.html
-
-simpledesktops
-
-Don't You Worry Child
-by Swedish House Mafia
-on Don't You Worry Child (Rad
-
-
-Im Yours / Somewhere Over The Rainbow
-by Straight No Chaser
-on With A Twist
-
-The Middle
-by Jimmy Eat World
-on Bleed America

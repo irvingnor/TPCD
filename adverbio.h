@@ -5,6 +5,7 @@
 #include<fstream>
 #include<string>
 #include<map>
+#include<vector>
 #define MAXELEMENTOS 500
 
 using namespace std;
@@ -23,8 +24,9 @@ class Adverbio
 		ifstream file;
 		string nameFile;
 		int numLines;
+		int numWords;
 		string buffer[MAXELEMENTOS];
-		map<string,int> dictionaryFile;
+		map<string,int> dFile;
 };
 
 #endif
