@@ -3,7 +3,7 @@
 Adverbio::Adverbio(string name)
 {
 	nameFile = name;
-	file.open(nameFile.c_str());
+	//file.open(nameFile.c_str());
 	numLines = numWords = 0;
 }
 
@@ -11,6 +11,7 @@ Adverbio::~Adverbio(){}
 
 void Adverbio::openFile()
 {
+	file.open(nameFile.c_str());
 	if(file.is_open())
 	{
 		while(!file.eof())
@@ -18,6 +19,37 @@ void Adverbio::openFile()
 			getline(file,buffer[numLines++]);
 		}
 	}
+	file.close();
+}
+
+void Adverbio::loadAdverbs()
+{
+	string nameTmp = "adverbis.lst";
+	
+	listAdverbios.open(nameTmp.c_str());
+	
+	if(listAdverbios.is_open())
+	{
+		while(!listAdverbios.eof())
+		{
+			string tmp = "";
+			getline(listAdverbios,tmp);
+			cout<<tmp<<endl;
+			int tipo = tmp[1] - '0';
+			int size = tmp.size();
+			for(int i=4;i<size-1;i++)
+			{
+				string word = "";
+				while(tmp[i] !=',' && i<size-1)
+				{
+					word += tmp[i++];
+				}
+				cout<<word<<endl;
+			}
+		}
+	}
+	
+	listAdverbios.close();
 }
 
 string Adverbio::getNameFile()
@@ -30,7 +62,7 @@ int Adverbio::getNumLines()
 	return numLines;
 }
 
-void Adverbio::printBuffer()
+void Adverbio::start()
 {
 	vector<string> palabras;
 	for(int i=0;i<numLines;i++)

@@ -1,0 +1,4836 @@
+William Shakespeare
+HAMLET
+
+DRAMATIS PERSONAE
+
+El ESPECTRO
+HAMLET, 		Principe de Dinamarca
+El REY 			Claudio, hermano del difunto Rey Hamlet
+La PEINA 			Gertrudis, viuda del difunto Rey Hamlet y esposa del Rey Claudio
+POLONIO, 		dignatario de la corte danesa
+OFELIA, 			hija de Polonio
+LAERTES, 		hijo de Polonio
+REINALDO, 		criado de Polonio
+HORACIO			amigos de Hamlet
+ROSENCRANTZ 	amigos de Hamlet
+GUILDENSTERN	amigos de Hamlet
+VOLTEMAND		cortesanos
+CORNELIO		cortesanos
+OSRIC			cortesanos
+FRANCISCO		soldados
+BERNARDO		soldados
+MARCELO		soldados
+FORTINBRaS, 	Principe de Noruega
+Un CAPITaN 		del ejercito noruego
+El ENTERRADOR
+SU COMPAnERO
+Un SACERDOTE
+ACTORES
+MARINEROS
+SECUACES de Laertes
+EMBAJADORES de Inglaterra
+Cortesanos, mensajeros, criados, guardias, soldados, acompanamiento.
+
+
+LA TRAGEDIA DE HAMLET, 
+PRiNCIPE DE DINAMARCA
+
+I.i Entran BERNARDO y FRANCISCO, dos centinelas.
+
+BERNARDO
+¿Quien va? 
+FRANCISCO
+¡Contestad vos! ¡Alto, daos a conocer! 
+BERNARDO
+¡Viva el rey! 
+FRANCISCO
+¿Bernardo? 
+BERNARDO
+El mismo. 
+FRANCISCO
+Llegas con gran puntualidad. 
+BERNARDO
+Ya han dado las doce: acuestate, Francisco. 
+FRANCISCO
+Gracias por el relevo. Hace un frio ingrato, y estoy abatido. 
+BERNARDO
+¿Todo en calma?
+FRANCISCO
+No se ha oido un raton. 
+BERNARDO
+Muy bien, buenas noches.
+Si ves a Horacio y a Marcelo,
+mis companeros de guardia, dales prisa.
+
+Entran HORACIO y MARCELO.
+
+FRANCISCO
+Creo que los oigo. ¡Alto! ¿Quien va? 
+HORACIO
+Amigos de esta tierra. 
+MARCELO
+Y vasallos del rey danes. 
+FRANCISCO
+Adios, buenas noches. 
+MARCELO
+Adios, buen soldado. ¿Quien te releva? 
+FRANCISCO
+Bernardo. Quedad con Dios.
+
+Sale.
+
+MARCELO
+¡Eh, Bernardo! 
+BERNARDO
+¡Eh! Oye, ¿esta ahi Horacio? 
+HORACIO
+Parte de el. 
+BERNARDO
+Bienvenido, Horacio. Bienvenido, Marcelo. 
+MARCELO
+¿Se ha vuelto a aparecer eso esta noche? 
+BERNARDO
+Yo no he visto nada. 
+MARCELO
+Dice Horacio que es una fantasia,
+y se resiste a creer en la espantosa 
+figura que hemos visto ya dos veces. 
+Por eso le he rogado que vigile 
+con nosotros el paso de la noche, 
+para que, si vuelve ese aparecido, 
+confirme que lo vimos y le hable. 
+HORACIO 
+¡Bah! No vendra. 
+BERNARDO 
+Sientate un rato 
+y deja que asediemos tus oidos, 
+tan escudados contra nuestra historia, 
+diciendote lo que hemos visto estas dos noches 
+HORACIO
+Muy bien, sentemonos 
+y oigamos lo que cuenta Bernardo. 
+BERNARDO 
+Anoche mismo, cuando esa estrella 
+que hay al oeste de la polar se movia 
+iluminando la parte del cielo 
+en que ahora brilla, Marcelo y yo, 
+con el reloj dando la una...
+
+Entra el ESPECTRO.
+
+MARCELO
+¡Chsss! No sigas: mira, ahi viene. 
+BERNARDO
+La misma figura; igual que el rey muerto. 
+MARCELO
+Tu tienes estudios: hablale, Horacio. 
+BERNARDO
+¿No se parece al rey? Fijate, Horacio. 
+HORACIO
+Muchisimo. Me sobrecoge y angustia. 
+BERNARDO
+Quiere que le hablen.
+MARCELO
+	Preguntale, Horacio.
+HORACIO
+	¿Quien eres, que usurpas esta hora de la noche
+	y la forma intrepida y marcial
+del que en vida fue rey de Dinamarca?
+	Por el cielo, te conjuro que hables.
+MARCELO
+	Se ha ofendido.
+BERNARDO
+	Mira, se aleja solemne.
+HORACIO
+Espera, habla, habla. Te conjuro que hables.
+
+Sale el ESPECTRO.
+
+MARCELO 
+Se fue sin contestar. 
+BERNARDO 
+Bueno, Horacio. Estas temblando y palideces. 
+¿No es esto algo mas que una ilusion? 
+¿Que opinas? 
+HORACIO
+Por Dios, que no lo habria creido 
+sin la prueba real y terminante 
+de mis ojos. 
+MARCELO 
+¿Verdad que se parece al rey? 
+HORACIO 
+Como tu a ti mismo. 
+Tal era la armadura que llevaba 
+cuando combatio al ambicioso rey noruego. 
+Tal su ceno cuando, tras fiera discusion, 
+a los polacos aplasto en sus trineos 
+sobre el hielo. Es asombroso. 
+MARCELO 
+Con paso tan marcial ha cruzado ya dos veces 
+nuestro puesto a esta hora cerrada de la noche.
+HORACIO
+No puedo interpretarlo exactamente, 
+pero, en lo que se me alcanza, creo que esto 
+presagia conmocion en nuestro estado. 
+MARCELO 
+Bueno, sentaos, y digame quien lo sepa 
+por que se exige cada noche al ciudadano 
+tan estricta y rigurosa vigilancia; 
+por que tanto fundir canones dia tras dia 
+y comprar armamento al extranjero; 
+por que se reclutan calafates, cuyo esfuerzo 
+no distingue el domingo en la semana. 
+¿Que ejercito amenaza para que prisa y sudor 
+hagan companeros de trabajo al dia y a la noche? 
+¿Quien puede informarme? 
+HORACIO 
+Yo puedo. Al menos, el rumor 
+que corre es este: nuestro difunto rey, 
+cuya imagen se nos ha aparecido ahora, 
+sabeis que fue retado por Fortinbras 
+de Noruega, que se crecia en su afan 
+de emulacion. Nuestro valiente Hamlet, 
+pues tal era su fama en el mundo conocido, 
+mato a Fortinbras, quien, segun pacto sellado, 
+con refrendo de las leyes de la caballeria, 
+con su vida entrego a su vencedor 
+todas las tierras de que era propietario: 
+nuestro rey habia puesto en juego 
+una parte equivalente, que habria recaido 
+en Fortinbras, de haber triunfado este; 
+de igual modo que la suya, segun 
+lo previsto y pactado en el acuerdo, 
+paso a Hamlet. Pues bien, Fortinbras el joven, 
+rebosante de impetu y ardor, 
+por los confines de Noruega ha reclutado
+una partida de aventureros sin tierras, 
+carne de canon para un empeno 
+de coraje, que no es mas, 
+como han visto muy bien en el gobierno, 
+que arrebatarnos por la fuerza 
+y el peso de las armas esas tierras 
+perdidas por su padre. Creo que esta es 
+la causa principal de los aprestos, 
+la razon de nuestra guardia, la fuente 
+del trafago y actividad en nuestro reino.
+
+Vuelve a entrar el ESPECTRO.
+
+Pero, ¡alto, mirad! ¡Ahi vuelve! Le saldre 
+al paso, aunque me fulmine. ¡Detente, ilusion!
+
+El ESPECTRO abre los brazos.
+
+Si hay en ti voz o sonido, hablame. 
+Si hay que hacer alguna buena obra 
+que te depare alivio y a mi, gracia, hablame. 
+Si sabes de peligros que amenacen 
+a tu patria y puedan evitarse, hablame. 
+O, si escondes en el vientre de la tierra 
+tesoros en vida mal ganados, lo cual, 
+segun se cree, os hace a los espiritus 
+vagar en vuestra muerte, hablame. ¡Detente y habla!
+
+Canta el gallo.
+
+¡Detenlo tu, Marcelo!
+MARCELO 
+¿Le doy con mi alabarda? 
+HORACIO 
+Si no se para, dale. 
+BERNARDO 
+¡Esta aqui! 
+HORACIO
+¡Aqui!
+
+Sale el ESPECRRO.
+
+MARCELO 
+Se ha ido. 
+Hicimos mal en usar la violencia 
+con un ser de tanta majestad, 
+pues es invulnerable como el aire 
+y pretender agredirle es una burla. 
+BERNARDO 
+Iba a hablar cuando canto el gallo. 
+HORACIO 
+Y se sobresalto como un culpable 
+citado por el juez. He oido decir 
+que el gallo, clarin de la manana, 
+despierta con su voz altiva y penetrante 
+al dios del dia y que, alertados, 
+en tierra o aire, mar o fuego, 
+los espiritus errantes en seguida 
+se recluyen: de que es verdad 
+ha dado prueba este aparecido. 
+MARCELO 
+Se esfumo al cantar el gallo. 
+Dicen que en los dias anteriores 
+al del nacimiento de nuestro Salvador 
+el ave de la aurora canta toda la noche; 
+entonces, dicen, no vagan los espiritus, 
+las noches son puras, los astros no danan, 
+las hadas no embrujan, las brujas no hechizan: 
+tan santo y tan bendito es este tiempo.
+
+HORACIO
+Eso he oido, y lo creo en parte. Mas mirad: 
+con manto cobrizo, el alba camina 
+sobre el rocio de esa cumbre del oriente. 
+Dejemos la guardia y, si os parece, 
+vamos a contar al joven Hamlet 
+lo que hemos visto esta noche, pues, por mi vida, 
+que el espectro, mudo con nosotros, le hablara. 
+¿Estais de acuerdo en que debemos informarle, 
+como exigen la amistad y nuestro deber? 
+MARCELO 
+Si, vamos, que se donde podemos 
+hallarle facilmente esta manana.
+
+Salen.
+
+I.ii	Entran Claudio, REY de Dinamarca, la REINA Gertrudis, HAMLET, POLONIO, LAERTES y su hermana OFELIA, senores y acompanamiento.
+
+REY 
+Aunque la muerte de mi amado hermano Hamlet 
+sigue viva en el recuerdo, y procedia 
+sumirse en el dolor y fundirse todo el reino 
+en un solo semblante de tristeza, 
+no obstante, tanto han combatido la cordura 
+y el afecto, que ahora le lloro con buen juicio 
+sin haber olvidado mi persona. 
+Por eso, a quien fuera mi cunada, hoy mi reina, 
+viuda corregente de nuestra guerrera nacion, 
+con, por asi decir, la dicha ensombrecida, 
+con un ojo radiante y el otro desolado, 
+con gozo en las exequias y duelo en nuestra boda, 
+equilibrando el jubilo y el luto, 
+la he tomado por esposa. Y no he desestimado 
+vuestro buen criterio, que siempre prodigasteis 
+en el curso de este asunto. Por todo ello, gracias.
+Ahora sabed que Fortinbras el joven, 
+juzgando mal nuestra valia o creyendo 
+que, tras la muerte de mi amado hermano, 
+la nacion esta descoyuntada y en desorden, 
+y movido por suenos de ventaja, 
+no ha dejado de asediarme con mensajes 
+que reclaman la entrega de las tierras 
+perdidas por su padre y en buena ley ganadas 
+por mi valiente hermano. Esto, en cuanto a el.
+
+Entran VOLTEMAND y CORNELIO.
+
+Respecto a mi y a la presente reunion, 
+el caso es como sigue: he escrito esta carta 
+al rey noruego, tio de Fortinbras el joven, 
+quien, sin fuerzas y postrado, apenas sabe 
+la intencion de su sobrino, pidiendole 
+que detenga su avance, ya que toda 
+la tropa reclutada se compone 
+de subditos suyos. Y asi os envio, 
+queridos Cornelio y Voltemand, 
+como portadores de mi saludo al viejo rey, 
+sin daros mas poder personal 
+para negociar con el noruego que el fijado 
+ampliamente en estas clausulas. Adios, 
+y que vuestra rapidez sea prueba de lealtad. 
+VOLTEMAND 
+En esto como en todo vereis nuestra lealtad. 
+REY 
+No puedo dudarlo. Cordialmente, adios.
+
+Salen VOLTEMAND y CORNELIO.
+
+Bien, Laertes, ¿que hay de nuevo? 
+Me hablaste de una suplica. ¿Cual es, Laertes? 
+Al rey danes nada que sea de razon 
+le pediras en vano. ¿Que solicitas, Laertes, 
+que no pueda ser mi ofrecimiento, y no tu ruego?
+La cabeza no sera tan afin al corazon, 
+ni la mano diligente con la boca 
+como el trono de Dinamarca con tu padre. 
+¿Que deseas, Laertes? 
+LAERTES 
+Augusto senor, la merced 
+de vuestra venia para regresar a Francia, 
+pues, aunque vine a Dinamarca de buen grado 
+a mostraros mi lealtad en vuestra coronacion, 
+ahora confieso que, cumplido mi deber, 
+mis pensamientos y deseos miran a Francia 
+y se inclinan en demanda de permiso. 
+REY 
+¿Tienes la venia de tu padre? ¿Que dice Polonio? 
+POLONIO 
+Si, mi senor. 
+Os suplico que le deis vuestra licencia. 
+REY 
+Disfruta de tus anos, Laertes; tuyo sea el tiempo 
+y emplea tus buenas prendas a tu gusto. –
+Y ahora, sobrino Hamlet e hijo mio... 
+HAMLET 
+Mas en familia y menos familiar. 
+REY 
+¿Como es que estas siempre tan sombrio? 
+HAMLET 
+No, mi senor: es que me da mucho el sol. 
+REINA 
+Querido Hamlet, sal de tu penumbra 
+y mira a Dinamarca con ojos de afecto. 
+No quieras estar siempre, con parpado abatido, 
+buscando en el polvo a tu noble padre.
+Sabes que es ley comun: lo que vive, morira, 
+pasando por la vida hacia la eternidad. 
+HAMLET 
+Si, senora, es ley comun. 
+REINA 
+Si lo es, ¿por que parece para ti tan singular? 
+HAMLET 
+¿Parece, senora? No: es. En mi no hay «parecer». 
+No es mi capa negra, buena madre, 
+ni mi constante luto riguroso, 
+ni suspiros de un aliento entrecortado, 
+no, ni rios que manan de los ojos, 
+ni expresion decaida de la cara, 
+con todos los modos, formas y muestras de dolor, 
+lo que puede retratarme; todo eso es «parecer», 
+pues son gestos que se pueden simular. 
+Lo que yo llevo dentro no se expresa; 
+lo demas es ropaje de la pena. 
+REY 
+Es bueno y digno de alabanza, Hamlet, 
+que llores a tu padre tan fielmente, 
+pero sabes que tu padre perdio un padre, 
+y ese padre perdio al suyo; y que el deber filial 
+obligaba al hijo por un tiempo 
+a guardar luto. Pero aferrarse 
+a un duelo pertinaz es conducta 
+impia y obstinada, dolor poco viril, 
+y muestra voluntad contraria al cielo, 
+animo debil, alma impaciente, 
+entendimiento ignorante e inmaduro. 
+Pues, sabiendo que hay algo inevitable 
+y tan comun como la cosa mas normal, 
+¿por que hemos de tomarlo tan a pecho 
+en necia oposicion? ¡Vamos! Es una ofensa al cielo, 
+ofensa al muerto, ofensa a la realidad 
+y hostil a la razon, cuya platica perpetua 
+es la muerte de los padres, y que siempre,
+desde el primer cadaver hasta el ultimo, 
+ha proclamado: «Asi ha de ser.» Te ruego 
+que entierres esa pena infructuosa y que veas 
+en mi a un padre, pues sepa el mundo 
+que tu eres el mas proximo a mi trono, 
+y que pienso prodigarte un genero de afecto 
+en nada inferior al que el mas tierno padre 
+profese a su hijo. Respecto a tu proposito 
+de volver a la universidad de Wittenberg ,
+no podria ser mas contrario a mi deseo, 
+y te suplico que accedas a quedarte, 
+ante el gozo y alegria de mis ojos, 
+cual cortesano principal, sobrino e hijo mio. 
+REINA 
+Que tu madre no te ruegue en vano, Hamlet: 
+quedate con nosotros, no vayas a Wittenberg. 
+HAMLET 
+Hare cuanto pueda por obedeceros, senora. 
+REY 
+Una respuesta grata y carinosa. 
+Se como yo mismo en Dinamarca.  Venid, senora. 
+El libre y gentil asentimiento de Hamlet 
+sonrie a mi corazon; en gratitud 
+el rey no brindara en este dia 
+sin que el canon a las nubes lo proclame 
+y mi brindis retumbe por el cielo, 
+repitiendo el trueno de la tierra. Vamos.
+
+Salen todos menos HAMLET.
+
+HAMLET
+¡Ojala que esta carne tan firme, tan solida, 
+se fundiera y derritiera hecha rocio, 
+o el Eterno no hubiera promulgado 
+una ley contra el suicidio! ¡Ah, Dios, Dios, 
+que enojosos, rancios, inutiles e inertes 
+me parecen los habitos del mundo! 
+¡Me repugna! Es un jardin sin cuidar, 
+echado a perder: invadido hasta los bordes 
+por hierbas infectas. ¡Haber llegado a esto! 
+Muerto hace dos meses... No, ni dos; no tanto. 
+Un rey tan admirable, un Hiperion 
+al lado de este satiro, tan tierno con mi madre 
+que nunca permitia que los vientos del cielo 
+le hiriesen la cara. ¡Cielo y tierra! 
+¿He de recordarlo? Y ella se le abrazaba 
+como si el alimento le excitase 
+el apetito; pero luego, al mes escaso... 
+¡Que no lo piense! Flaqueza, te llamas mujer. 
+Al mes apenas, antes que gastase los zapatos 
+con los que acompano el cadaver de mi padre 
+como Niobe, toda llanto, ella, ella 
+(¡Dios mio, una bestia sin uso de razon 
+le habria llorado mas!) se casa con mi tio, 
+hermano de mi padre, y a el tan semejante 
+como yo a Hercules; al mes escaso, 
+antes que la sal de sus lagrimas bastardas 
+dejara de irritarle los ojos, 
+vuelve a casarse. ¡Ah, malvada prontitud, 
+saltar con tal viveza al lecho incestuoso!
+Ni esta bien, ni puede traer nada bueno.
+Pero estalla, corazon, porque yo debo callar.
+
+Entran HORACIO, BERNARDO y MARCELO.
+
+HORACIO
+	Salud a Vuestra Alteza.
+HAMLET
+	Me alegro de veros...
+	¡Horacio, o no se quien soy!
+HORACIO
+	El mismo, senor, y vuestro humilde servidor.
+HAMLET
+Mi buen amigo, y yo servidor tuyo.
+¿Que te trae de Wittenberg, Horacio? 
+	¡Marcelo!
+MARCELO [saludando]
+	Mi senor...
+HAMLET
+Me alegro de verte. [A BERNARDO] Buenas tardes. 
+	Pero, ¿que te trae de Wittenberg, Horacio?
+HORACIO
+	Mi aficion a la vagancia, senor.
+HAMLET
+	Que no me lo diga tu enemigo,
+	ni tu ofendas mis oidos confiandoles
+una imagen tan adversa de ti mismo.
+Se que no eres ningun vago.
+Dime, ¿que estas haciendo en Elsenor?
+	Te ensenaremos a beber a gusto antes de irte.
+HORACIO
+Senor, he venido al funeral de vuestro padre.
+HAMLET 
+Companero, no te burles, te lo ruego: 
+di mas bien a la boda de mi madre. 
+HORACIO 
+La verdad es que vinieron muy seguidos. 
+HAMLET 
+Ahorro, Horacio, ahorro: los pasteles funerarios 
+han sido el plato frio de la boda. 
+Antes encontrar en el cielo a mi peor enemigo 
+que haber visto ese dia, Horacio. 
+Mi padre... Creo que veo a mi padre. 
+HORACIO 
+¿Donde, senor? 
+HAMLET 
+En mi pensamiento, Horacio. 
+HORACIO 
+Yo le vi una vez: era un rey admirable. 
+HAMLET 
+Era un hombre, perfecto en todo y por todo; 
+ya nunca vere su igual. 
+HORACIO 
+Senor, creo que le vi anoche. 
+HAMLET 
+¿Viste? ¿A quien? 
+HORACIO 
+Senor, a vuestro padre el rey. 
+HAMLET 
+¡A mi padre el rey! 
+HORACIO 
+Templad por un instante vuestro asombro 
+y escuchad con atencion la maravilla 
+que voy a relataros, con estos dos 
+senores por testigos. 
+HAMLET 
+¡Por Dios santo, cuentame! 
+HORACIO 
+Dos noches seguidas, a estos dos senores, 
+Marcelo y Bernardo, haciendo guardia
+en el vacio sepulcral de media noche, 
+se les ha aparecido una figura 
+igual que vuestro padre, armada de pies a cabeza, 
+que ante ellos camina solemne, 
+con paso lento y grave. Tres veces anduvo 
+ante sus ojos aterrados y suspensos, 
+a la distancia de su baston de mando, 
+mientras ellos, encogidos de pavor, 
+se quedaban mudos sin hablarle. A mi 
+me lo contaron con miedo y sigilo, 
+y la tercera noche yo vele con ellos; 
+y alli, tal como dijeron, la hora, 
+la figura, hasta la ultima silaba, 
+llego el aparecido. Era vuestro padre, 
+como iguales son mis manos. 
+HAMLET 
+Pero, ¿donde fue eso? 
+MARCELO 
+Senor, en la explanada donde haciamos la guardia. 
+HAMLET 
+¿Y no le hablaste? 
+HORACIO
+Le hable, senor, pero el no contesto; 
+aunque una vez, alzando la cabeza, 
+se movio como si fuese a hablar, 
+pero entonces canto fuerte el gallo mananero 
+y, al oirlo, el espectro se esfumo 
+y desaparecio de nuestra vista. 
+HAMLET 
+Asombroso. 
+HORACIO 
+Alteza, por mi vida que es verdad; 
+pensamos que era nuestra obligacion 
+haceroslo saber. 
+HAMLET 
+Si, si, claro; pero me inquieta. –
+¿Haceis guardia esta noche?
+BERNARDO y MARCELO
+Si, senor.
+HAMLET
+¿Decis que armado?
+BERNARDO y MARCELO
+Armado, senor.
+HAMLET
+¿De pies a cabeza?
+BERNARDO Y MARCELO
+Senor, de la cabeza a los pies.
+HAMLET
+Entonces no le visteis la cara.
+HORACIO
+Si, senor: la visera estaba en alto.
+HAMLET
+¿Tenia mirada fiera?
+HORACIO
+Un semblante de pesar mas que de ira.
+HAMLET
+¿Palido o encendido?
+HORACIO
+No, muy palido.
+HAMLET
+¿Y te miraba de frente?
+HORACIO
+Con la vista clavada.
+HAMLET
+¡Quien hubiera estado alli!
+HORACIO
+Os habria aterrado.
+HAMLET
+Si, seguramente. ¿Se quedo mucho tiempo?
+HORACIO
+Lo que se tarda en contar cien sin mucha prisa.
+BERNARDO y MARCELO
+Mas tiempo, mas.
+HORACIO
+Cuando yo le vi, no.
+HAMLET 
+Tenia la barba cana, ¿o no? 
+HORACIO
+La tenia igual que en vida: 
+de un negro plateado. 
+HAMLET 
+Esta noche velare. 
+Quiza vuelva a aparecerse. 
+HORACIO 
+Seguro que vuelve. 
+HAMLET 
+Si adopta la figura de mi noble padre 
+le hablare, aunque se abra la boca del infierno 
+y me mande callar. Os lo suplico, 
+si no habeis revelado aun la aparicion, 
+seguid manteniendola en secreto, 
+y a lo que vaya a suceder en esta noche 
+podeis darle sentido, mas no lengua. 
+Premiare vuestra amistad. Y ahora, adios: 
+en la explanada, entre las once y las doce, 
+me reunire con vosotros. 
+LOS TRES 
+Nuestra lealtad a Vuestra Alteza. 
+HAMLET 
+Decid afecto y recibid el mio. Adios.
+
+Salen [todos menos HAMLET].
+
+¿El espectro de mi padre en armas? Algo pasa. 
+Sospecho una traicion. ¡Ojala fuese de noche! 
+Mientras, alma mia, aguarda: la ruindad, 
+por mas que la entierren, se descubrira.
+
+Sale.
+
+I.iii Entran LAERTES y OFELIA.
+
+LAERTES 
+Mi equipaje esta embarcado. Adios. 
+Hermana, siempre que el viento sea provido 
+y zarpe algun barco, no descanses 
+hasta haberme escrito.
+OFELIA 
+¿Lo dudas?
+LAERTES 
+	Respecto a Hamlet y su vano galanteo, 
+tenlo por capricho e impulsiva liviandad, 
+por violeta de su joven primavera: 
+precoz, mas transitoria; grata, mas huidiza; 
+perfume y pasatiempo de un minuto, nada mas.
+OFELIA 
+	¿Nada mas?
+LAERTES 
+Seguro que nada mas. 
+No crecemos solamente en tamano 
+y en vigor, sino que con nuestro cuerpo 
+aumenta la eficacia de la mente 
+y el espiritu. Tal vez te quiera ahora 
+y no haya mancha ni doblez que empane 
+sus nobles intenciones. Mas desconfia: 
+su grandeza le impide su deseo 
+y su regia cuna le somete. 
+el no puede hacer su voluntad 
+como la gente sin rango, pues de su eleccion 
+depende el bienestar de todo el reino, 
+y por eso su eleccion se supedita 
+al voto y aquiescencia de ese cuerpo 
+del cual el es cabeza. Si te dice que te quiere,
+podra creerlo tu prudencia en la medida 
+en que el, por su altura y posicion, 
+pueda cumplirlo, es decir, no mas alla 
+del sentir general de Dinamarca. 
+Asi que considera tu deshonra 
+si, credula, escuchas su cantar, 
+le das tu corazon o le abres 
+tu casto tesoro a su empeno inmoderado. 
+Cuidado, Ofelia, ten cuidado, hermana mia; 
+mantente en retaguardia del carino, 
+no te expongas al peligro del deseo. 
+La mas recatada se prodiga 
+si a la luna revela su belleza. 
+Ni la virtud escapa a la calumnia. 
+El gusano estraga los renuevos 
+antes que florezcan, y en la aurora 
+y el fresco rocio de nuestros anos 
+es cuando las plagas mas corrompen. 
+Guardate; el temor es la mejor defensa: 
+la sangre joven, sin tentarla, se subleva. 
+OFELIA 
+El sentido de tu buena leccion 
+sera el guardian de mi pecho. Mas, hermano, 
+no me ensenes, como el mal sacerdote, 
+la espinosa pendiente del cielo 
+mientras tu, cual fatuo libertino, 
+sigues la senda florida del placer 
+y no tus propios consejos. 
+LAERTES 
+No temas por mi.
+
+Entra POLONIO.
+
+Me estoy demorando. Aqui esta nuestro padre. 
+Doble bendicion es doble fortuna: 
+feliz ocasion para otra despedida. 
+POLONIO 
+¿Aun aqui, Laertes? ¡Por Dios, a bordo, a bordo! 
+El viento ya ha hinchado tus velas, y estan 
+esperandote. Llevate mi bendicion 
+y graba en tu memoria estos principios: 
+no le prestes lengua al pensamiento, 
+ni lo pongas por obra si es impropio. 
+Se sociable, pero no con todos. 
+Al amigo que te pruebe su amistad 
+sujetalo al alma con aros de acero, 
+pero no embotes tu mano agasajando 
+al primer conocido que te llegue. 
+Guardate de rinas, pero, si peleas, 
+haz que tu adversario se guarde de ti. 
+A todos presta oidos; tu voz, a pocos. 
+Escucha el juicio de todos, y guardate el tuyo. 
+Viste cuan fino permita tu bolsa, 
+mas no estrafalario; elegante, no chillon, 
+pues el traje suele revelar al hombre, 
+y los franceses de rango y calidad 
+son de suma distincion a este respecto. 
+Ni tomes ni des prestado, pues dando 
+se suele perder prestamo y amigo, 
+y tomando se vicia la buena economia. 
+Y, sobre todo, se fiel a ti mismo, 
+pues de ello se sigue, como el dia a la noche, 
+que no podras ser falso con nadie. 
+Adios. Mi bendicion madure esto en ti. 
+LAERTES 
+Humildemente de vos me despido. 
+POLONIO 
+El tiempo te llama. Corre, los criados esperan. 
+LAERTES 
+Adios, Ofelia, y recuerda bien 
+lo que te he dicho.
+OFELIA
+Lo he encerrado en la memoria, 
+y tu guardaras la llave. 
+LAERTES 
+Adios.
+
+Sale.
+
+POLONIO
+		¿Que es lo que te ha dicho, Ofelia?
+OFELIA
+		Con permiso, una cosa del Principe Hamlet
+POLONIO
+Vaya, ha hecho bien. 
+Me han dicho que ultimamente te dedica 
+mucho tiempo y que tu le dispensas 
+tu atencion con gran esplendidez. 
+Si es asi, como me han insinuado 
+a modo de aviso, debo decirte 
+que no pareces comprender con claridad 
+tu lugar como hija mia ni tu honra. 
+¿Que hay entre vosotros? Dime la verdad. 
+OFELIA 
+Senor, ultimamente me ha dado 
+muchas muestras de su afecto. 
+POLONIO 
+¿Afecto? ¡Bah! Veo que estas verde 
+e inexperta en cuestion tan peligrosa. 
+¿Crees en sus muestras, como tu las llamas? 
+OFELIA 
+Senor, no se que pensar. 
+POLONIO 
+Pues yo te ensenare. Considerate una nina 
+al haber dado por valiosas unas muestras 
+que no son de ley. Muestrate mas cauta 
+o, por no agotar el termino acosandolo, 
+haras que yo sea muestra de idiotez.
+OFELIA
+Senor, me ha galanteado 
+de un modo decoroso. 
+POLONIO 
+Ya, a modo de capricho. ¡Vamos, vamos! 
+OFELIA 
+Y me ha corroborado sus palabras 
+con todos los divinos juramentos. 
+POLONIO 
+Si, cepos para pajaros. Se bien 
+que, cuando arde la sangre, el alma se prodiga 
+en juramentos. Hija, esas llamaradas, 
+que dan mas luz que calor y se extinguen 
+cuando parece que prometen, 
+no las tomes por fuego. Desde ahora, hija, 
+escatima un poco mas tu virginal presencia, 
+haz que tus encuentros exijan algo mas 
+que la orden de acudir. Respecto a Hamlet, 
+creele en la medida en que es joven, 
+y piensa que el ronzal con que se mueve 
+es mucho mas largo que el tuyo. En suma, Ofelia, 
+no creas sus juramentos, pues son intermediarios 
+de distinto color del que los viste, 
+abogados de causas impias, que se expresan 
+como santos y piadosos alcahuetes 
+para seducirte mejor. No lo repetire: 
+hablando claro, no quiero que en adelante 
+deshonres ni un momento de tu ocio 
+conversando con el Principe Hamlet. 
+Haz lo que te digo. Vamos, ven. 
+OFELIA 
+Os obedecere, senor.
+
+Salen.
+
+I.iv Entran HAMLET, HORACIO y MARCELO.
+
+HAMLET 
+El viento corta implacable. Hace mucho frio. 
+HORACIO 
+Este viento hiela y te traspasa. 
+HAMLET 
+¿Que hora es? 
+HORACIO
+Creo que casi las doce. 
+MARCELO 
+No, ya las han dado. 
+HORACIO 
+¿Ah, si? No he oido nada. 
+Entonces se acerca la hora 
+en que el espectro acostumbra a vagar.
+
+Toque de trompetas y dos salvas.
+
+¿Que significa esto, senor? 
+HAMLET 
+El rey trasnocha y alza el codo, 
+esta de borrachera, baila como un remolino 
+y, cada vez que se atiza su vino del Rin, 
+rebuznan las trompetas y timbales 
+celebrando su brindis. 
+HORACIO
+¿Es la costumbre? 
+HAMLET 
+Vaya que si. 
+Pero, a mi juicio y aunque vine al mundo aqui 
+y estoy hecho a ella, es una costumbre 
+que mas honra perder que conservar.
+
+Entra el ESPECTRO.
+
+HORACIO
+¡Mirad, senor, ahi viene! 
+HAMLET 
+¡Los angeles del cielo nos protejan! 
+Seas espiritu del bien o genio maldito, 
+traigas auras celestiales o rachas del infierno, 
+sean tus propositos malvados o benignos, 
+tu aspecto tanto mueve a preguntar 
+que voy a hablarte. Te llamare Hamlet, 
+rey, padre, excelso danes. ¡Ah, contesta! 
+No me dejes que estalle en la ignorancia, 
+sino dime por que tus restos consagrados 
+han roto su mortaja, por que el sepulcro 
+al que en calma descendiste abre ahora 
+sus pesadas mandibulas de marmol 
+para arrojarte de si. ¿Que puede suceder 
+para que tu, estando muerto, bajo la tenue luna 
+aparezcas otra vez revestido de acero, 
+llenando la noche de espanto, y a nosotros, 
+juguetes de la vida, nos perturbes 
+con pensamientos que rebasan nuestra mente? 
+¿Por que? Di. ¿Por que razon? ¿Que hemos de hacer?
+
+El ESPECTRO le hace senas.
+
+HORACIO
+	Os llama para que le sigais,
+	como si quisiera haceros una confidencia.
+MARCELO
+	Mirad, con un gesto cortes
+os llama a un lugar mas apartado.
+	¡No vayais!
+HORACIO
+	No, de ningun modo.
+HAMLET
+	Se niega a hablar. Tengo que seguirle.
+HORACIO
+¡Senor, no!
+HAMLET 
+Pero, ¿a que viene el miedo? 
+Mi vida no vale para mi ni un alfiler 
+y, en cuanto a mi alma, ¿que puede el hacerle 
+si es tan inmortal como el mismo? 
+Me vuelve a llamar. Voy a seguirle. 
+HORACIO
+Senor, ¿y si os condujese hacia las aguas 
+o a la espantosa cima de la roca 
+que se descuelga amenazante sobre el mar 
+y adoptase alguna forma aterradora 
+que os privara del poder de la razon 
+y os llevase a la locura? Pensadlo bien.
+HAMLET 
+Me sigue llamando.   Ya voy, te sigo. 
+MARCELO 
+No debeis ir, senor. 
+HAMLET 
+¡Quitame las manos! 
+HORACIO 
+Hacednos caso, no vayais. 
+HAMLET 
+Me llama el destino, y la mas fina 
+arteria de este cuerpo es tan potente 
+cual las fibras del leon de Nemea. 
+Aun me hace senas. ¡Soltadme, senores! 
+Por Dios, que a quien me pare volvere un espectro. 
+¡Fuera ya!   Vamos, te sigo.
+
+Salen el ESPECTRO y HAMLET.
+
+HORACIO
+	Sus fantasias le trastornan.
+MARCELO
+Sigamosle. No conviene obedecerle.
+HORACIO
+Vamos tras el. ¿Adonde puede llevar esto? 
+MARCELO
+Algo podrido hay en Dinamarca. 
+HORACIO
+El cielo dispondra. 
+MARCELO
+Nosotros sigamosle.
+
+Salen.
+
+I.v Entran el ESPECTRO y HAMLET.
+
+HAMLET
+¿Adonde me llevas? No pienso seguir.
+ESPECTRO
+Escuchame.
+HAMLET
+Habla.
+ESPECTRO
+	Se acerca la hora en que he de entregarme
+al tormento de las llamas sulfureas.
+HAMLET
+¡Ah, pobre anima!
+ESPECRRO
+	No me compadezcas, sino presta
+oido atento a lo que voy a revelarte.
+HAMLET
+Habla, he de oirte.
+ESPECTRO
+Y habras de vengarme cuando oigas.
+HAMLET
+¿Que?
+ESPECTRO
+	Soy el alma de tu padre,
+	condenada por un tiempo a vagar en la noche
+	y a ayunar en el fuego por el dia
+mientras no se consuman y purguen los graves 
+pecados que en vida cometi. Si no me hubieran 
+prohibido revelar los secretos de mi carcel, 
+oirias una historia cuya mas leve palabra 
+desgarraria tu alma, te helaria la sangre, 
+como estrellas te haria saltar los ojos 
+de sus orbitas, y erizaria tu liso cabello, 
+poniendo de punta cada pelo, 
+como puas de aterrado puercoespin. 
+Pero esta proclamacion del mas alla 
+no es para oidos de mortales. ¡Ah, Hamlet, escucha! 
+Si alguna vez quisiste a tu padre... 
+HAMLET 
+¡Santo Dios! 
+ESPECTRO
+ ... venga su inmundo y monstruoso asesinato. 
+HAMLET 
+¡Asesinato! 
+ESPECTRO 
+Inmundo asesinato como todos, pero este 
+harto inmundo, inusitado y monstruoso. 
+HAMLET 
+Vamos, cuentamelo ya y, con alas tan veloces 
+como el meditar o el amoroso pensamiento, 
+correre a la venganza. 
+ESPECTRO
+ 	Te veo dispuesto; si no reaccionases, 
+serias mas insensible que la planta 
+que languida se pudre en la inaccion 
+a orillas del Leteo. oyeme, Hamlet. 
+Propagaron que, durmiendo en el jardin, 
+me mordio una serpiente: con una historia falsa 
+de mi muerte burdamente han enganado 
+a toda Dinamarca. Mas atiende, noble hijo:
+la serpiente que arranco la vida de tu padre 
+lleva ahora su corona. 
+HAMLET 
+¡Ah, mi alma profetica! ¿Mi tio? 
+ESPECTRO 
+Si, esa bestia incestuosa, ese adultero, 
+con su astuta brujeria y sus perfidas prendas 
+(¡ah, astucia que dana, prendas que seducen!) 
+se atrajo a su lascivia ignominiosa 
+el deseo de una reina honesta en apariencia. 
+¡Oh, Hamlet, que deslealtad! Conmigo, 
+cuyo amor fue siempre tan perfecto 
+que iba en armonia con las promesas 
+que le hice al desposarla, para hundirse 
+con un misero cuyas dotes naturales 
+eran pobres al lado de las mias. 
+Pero si la virtud no se deja seducir 
+aunque el vicio la tiente bajo forma divina, 
+la lujuria, aunque unida a un angel radiante, 
+se sacia en un lecho celestial 
+y se ceba en la inmundicia. 
+Espera. Creo que siento el olor de la manana. 
+He de ser breve. Durmiendo en el jardin, 
+como era mi costumbre por la tarde, tu tio, 
+a esa hora insospechada, se acerco sigiloso 
+con un frasco de esencia ponzonosa 
+y vertio en los portales de mi oido 
+el tosigo ulcerante, cuyo efecto 
+a la sangre del hombre es tan hostil 
+que al punto recorre como azogue 
+las venas y conductos corporales 
+y con subito poder cuaja y coagula, 
+como gotas de acido en la leche, 
+la sangre mas fluida y saludable. Lo hizo con la mia 
+y al instante me vi como un leproso, 
+mi piel lisa arrugada en una costra 
+infecta y repugnante. 
+Asi, mientras dormia, el acto de un hermano
+de un golpe me arranco vida, corona, esposa, 
+me sego en la flor de mis pecados, 
+sin viatico, asistencia, extremauncion 
+y, mis cuentas sin rendir, me envio a juicio 
+con todas mis imperfecciones sobre mi. 
+¡Fue horrendo, horrendo, harto horrendo! 
+Si tienes sentimientos, no lo sufras; 
+no consientas que el talamo real de Dinamarca 
+sea lecho de lujuria y vil incesto. 
+Mas, cualquiera que sea tu proceder, 
+no ensucies tu alma, ni acometas 
+ninguna accion contra tu madre. Dejala al cielo 
+y a las espinas que, clavadas, le hieren 
+su propio corazon. Adios ya. 
+La luciernaga anuncia la manana: 
+su llama mortecina palidece. 
+Adios, adios, Hamlet. Acuerdate de mi.
+
+Sale.
+
+HAMLET 
+¡Ah, legiones celestiales! ¡Ah, tierra!   ¿Que mas? 
+¿Afiado el infierno? ¡No!   Resiste, corazon, 
+y vosotras, mis fibras, no envejezcais 
+y mantenedme firme. ¿Acordarme de ti? 
+Si, pobre anima, mientras resida memoria 
+en mi turbada cabeza. ¿Acordarme de ti? 
+Si, de la tabla del recuerdo borrare 
+toda anotacion ligera y trivial, 
+maximas de libros, impresiones, imagenes 
+que en ella escribieron juventud y observacion, 
+y solo tus mandatos viviran 
+en mi libro del cerebro, sin mezcla 
+de asuntos menos dignos. ¡Si, si, por el cielo! 
+¡Ah, perversa mujer! 
+¡Ah, infame, infame, maldito infame sonriente! 
+Mi cuaderno, mi cuaderno; he de anotarlo: 
+uno puede sonreir y sonreir, siendo un infame.
+Al menos, seguro que es posible en Dinamarca.
+Bueno, tio, ahi tienes. Y ahora, mi consigna:
+«Adios, adios, acuerdate de mi.»
+Lo he jurado. 
+HORACIO y MARCELO [dentro]
+¡Senor, senor!
+
+Entran HORACIO y MARCELO.
+
+MARCELO
+¡Principe Hamlet! 
+HORACIO
+
+Que Dios le proteja. 
+HAMLET
+Asi sea. 
+HORACIO
+¡Eh oh! ¡Eh oh, senor! 
+HAMLET
+¡Hucho, hucho ho! ¡Vuelve, pajaro!. 
+MARCELO
+¿Como estais, noble senor? 
+HORACIO
+¿Que ha ocurrido, senor? 
+HAMLET
+¡Ah, que prodigio! 
+HORACIO
+Mi buen senor, contadlo. 
+HAMLET
+No, que lo divulgareis. 
+HORACIO
+Yo no, senor, por el cielo. 
+MARCELO
+Ni yo, senor.
+HAMLET 
+¿Que me decis? ¿Quien pensaria que ... ? 
+¿Guardareis el secreto? 
+HORACIO y MARCELO
+Si, por el cielo. 
+HAMLET 
+No hay un solo canalla en Dinamarca 
+que no sea un pillo redomado. 
+HORACIO 
+Senor, para oir eso no hace falta 
+que salga de la tumba espectro alguno. 
+HAMLET 
+Si, claro, desde luego. 
+Entonces, sin mas ceremonia, es mejor 
+que nos demos la mano y nos vayamos: vosotros, 
+adonde os lleven vuestros asuntos y deseos, 
+pues cada cual tiene sus asuntos y deseos, 
+los que sean; en cuanto a mi, ¿sabeis?, 
+me voy a rezar. 
+HORACIO
+Senor, hablais sin orden ni medida. 
+HAMLET 
+Siento haberte ofendido, de veras, 
+lo siento de veras. 
+HORACIO
+No hay ofensa, senor. 
+HAMLET 
+Por San Patricio, si que hay ofensa, Horacio, 
+y mucha. En cuanto a esta aparicion, 
+es un espectro de verdad, os lo aseguro. 
+Por lo que hace a vuestro deseo de saber 
+lo que me ha dicho, dominadlo. Y ahora, 
+pues sois amigos y hombres de armas y letras, 
+concededme un humilde favor. 
+HORACIO 
+Si, senor. ¿Cual? 
+HAMLET 
+No revelar lo que habeis visto esta noche.
+HORACIO y MARCELO
+No lo haremos, senor. 
+HAMLET
+Pues juradlo. 
+HORACIO
+Juro que no, senor. 
+MARCELO
+Juro que no, senor. 
+HAMLET
+Sobre mi espada. 
+MARCELO
+Senor, ya hemos jurado. 
+HAMLET
+Vamos, sobre mi espada. Vamos.
+
+Grita el ESPECTRO bajo el escenario.
+
+ESPECTRO
+¡Jurad! 
+HAMLET
+¡Aja, muchacho! ¿Tu tambien? ¿Estas ahi,
+buen hombre?   Vamos, ya ois al del sotano
+Prestaos a jurar. 
+HORACIO
+Proponed el juramento, senor. 
+HAMLET
+No decir jamas lo que habeis visto.
+Jurad sobre mi espada. 
+ESPECTRO
+¡Jurad!
+
+[Juran.]
+
+HAMLET 
+Hic et ubique ?. Pues cambiemos de sitio. 
+Venid, senores y volved a poner vuestras manos en mi espada: 
+no decir jamas lo que habeis oido. 
+Jurad sobre mi espada. 
+ESPECTRO 
+¡Jurad!
+
+[Juran.]
+
+HAMLET 
+Muy bien, viejo topo. ¡Que rapido escarbas! 
+¡Vaya zapador!   Cambiemos de nuevo, amigos. 
+HORACIO
+¡Dia y noche, esto es harto extrano! 
+HAMLET 
+Pues igual que al extrano, acogelo bien. 
+Hay mas cosas en el cielo y en la tierra, Horacio, 
+de las que suena nuestra filosofia. Vamos, 
+como antes: jurad que nunca, Dios mediante, 
+por rara o extrana que sea mi conducta 
+(pues tal vez desde ahora crea conveniente 
+adoptar un talante estrafalario), 
+si me veis en tal tesitura, jamas, 
+doblando asi los brazos, meneando la cabeza 
+o diciendo expresiones equivocas, como 
+«Nosotros lo sabemos», o «Queriendo, podriamos»,
+o «Si fuesemos a hablar» o «Los hay que si pudieran», 
+mostrando con frases tan ambiguas 
+que sabeis algo de mi... Jurad 
+que, Dios mediante y toda la gracia divina, 
+no hareis nada de eso. 
+ESPECTRO 
+¡Jurad!
+
+[Juran.]
+
+HAMLET 
+¡Descansa, anima inquieta!   Senores, 
+de corazon a vosotros me encomiendo; 
+y todo lo que un ser tan humilde como Hamlet 
+pueda hacer por demostraros su estima, 
+si Dios quiere, nunca faltara. Entremos todos. 
+Y, os lo ruego, el dedo siempre en el labio. 
+Los tiempos se han dislocado. ¡Cruel conflicto, 
+venir yo a este mundo para corregirlos! 
+Venid. Vamos todos.
+
+Salen.
+
+II.i Entran POLONIO y REINALDO.
+
+POLONIO 
+Dale este dinero y estas notas, Reinaldo. 
+REINALDO 
+Si, senor. 
+POLONIO 
+Obraras con prudencia, buen Reinaldo, 
+si, antes de visitarle, te informas 
+de su genero de vida. 
+REINALDO 
+Senor, es lo que iba a hacer.
+POLONIO
+Estupendo, estupendo. Atiende: primero 
+averigua cuantos daneses hay en Paris, 
+y como, quien, que medios, donde viven, 
+sus companias, sus gastos; y asi, 
+con estos rodeos y preambulos, cuando veas 
+que conocen a mi hijo, mas cerca estaras 
+que si preguntas por el directamente. 
+Finge, es un decir, que le conoces a lo vago, 
+diciendo: «Conozco a su padre y a los suyos, 
+y un poco a el.» ¿Te fijas, Reinaldo? 
+REINALDO 
+Perfectamente, senor. 
+POLONIO 
+«Y un poco a el, pero», y anades, «no mucho, 
+aunque si es el que pienso, es un juerguista, 
+muy dado a esto y aquello». Entonces le imputas 
+los cuentos que te plazcan. Bueno, no tan graves 
+que puedan deshonrarle, de eso guardate; 
+solo los deslices bulliciosos y alocados 
+que notoria y comunmente se asocian 
+con la libre juventud. 
+REINALDO 
+¿Como el juego, sefior? 
+POLONIO 
+Si, o la bebida, la esgrima, la blasfemia, 
+las peleas, las rameras... Hasta ahi. 
+REINALDO 
+Senor, eso le deshonraria. 
+POLONIO 
+Pues no, mientras moderes los cargos. 
+No le hagas imputaciones de otro modo, 
+diciendo que es muy dado al desenfreno, 
+eso no: tu habla de sus faltas con tal arte
+que parezcan las lacras de su libertad, 
+el estallido de un animo fogoso, 
+la braveza de una sangre indomita 
+que a todos les asalta. 
+REINALDO 
+Pero, senor... 
+POLONIO 
+¿Por que todo esto? 
+REINALDO 
+Si, senor. Desearia saberlo. 
+POLONIO 
+Pues, mira, te explico mi intencion, 
+y entiendo que la mana es legitima. 
+Achacandole a mi hijo esas leves faltas 
+como si fueran polvo del camino, 
+fijate, si aquel a quien pretendes sondear 
+ha visto que el joven de quien hablas 
+es culpable de las lacras antedichas, 
+seguro que concuerda contigo como sigue: 
+«Senor» o algo asi, «amigo», o «caballero», 
+con arreglo a la expresion y el titulo 
+de la persona y el pais. 
+REINALDO 
+Entendido, sefior. 
+POLONIO 
+Y entonces el va y... el va y... ¿Que iba yo a decirte? Por 
+la misa, que iba a decir algo. ¿Donde me he quedado? 
+REINALDO 
+En «concuerda como sigue», en «amigo o algo asi», en «caballero». 
+POLONIO 
+En «concuerda como sigue». ¡Eso es! 
+el concuerda diciendote: «Conozco al caballero, 
+le vi ayer, o el otro dia, el otro 
+o el otro, con este y aquel, y, como decis, 
+estaba jugando, o inundado de bebida,
+o discutiendo en el tenis»; o te dice: 
+«Le vi entrar en tal casa de trato», 
+es decir, un burdel, y asi. 
+¿Te das cuenta? Con un cebo 
+de mentiras pescas el pez de la verdad. 
+Asi es como los hombres prudentes y capaces, 
+con rodeos y requilorios, 
+desviandonos damos con la via. 
+Y tu, siguiendo mi ensenanza y mi consejo, 
+lo lograras con mi hijo. ¿Entendido?
+REINALDO
+Perfectamente, senor.
+POLONIO
+Entonces, ve con Dios.
+REINALDO [despidiendose]
+	Mi senor...
+POLONIO
+Observa tu mismo su conducta.
+REINALDO
+Si, senor.
+POLONIO
+Y que siga con su musica.
+REINALDO
+Muy bien, senor.
+
+Sale. 
+Entra OFELIA.
+
+POLONIO
+Adios.   ¿Que hay, Ofelia? ¿Que pasa?
+OFELIA
+¡Ah, seiior, me he asustado tanto!
+POLONIO
+Por Dios, ¿como ha sido?
+OFELIA
+Senor, mientras cosia en mi aposento, 
+aparece ante mi el Principe Hamlet 
+con el jubon desabrochado, sin sombrero
+con las calzas sucias y caidas, como argollas 
+al tobillo, mas palido que el lino, 
+temblando las rodillas, y el semblante 
+tan triste en su expresion que parecia 
+huido del infierno para hablar de espantos. 
+POLONIO 
+¿Esta loco por ti? 
+OFELIA 
+Senor, no lo se, pero lo temo. 
+POLONIO 
+¿Que te dijo? 
+OFELIA 
+Me agarro de la muneca y me apreto. 
+Entonces extendio todo su brazo 
+y con la otra mano haciendo de visera 
+se puso a escudrinarme la cara, 
+cual si fuera a dibujarla. Asi, un buen rato. 
+Al final, sacudiendome el brazo levemente 
+y alzando y bajando asi tres veces la cabeza, 
+lanzo un suspiro tan profundo y lastimero 
+que parecio destrozarle todo el cuerpo 
+y acabar con su existencia. Entonces me solto 
+y, vuelta la cabeza sobre el hombro, 
+parece que encontro el camino sin mirar, 
+pues salio sin ayuda de los ojos 
+y los tuvo en mi clavados hasta el fin. 
+POLONIO 
+Anda, ven conmigo. Voy a ver al rey. 
+Eso es el delirio del amor, 
+que por su propia violencia se aniquila
+y lleva a las acciones mas desesperadas, 
+como sucede cada vez con las pasiones 
+que tanto nos afligen. Siento... 
+¿Le has hablado con dureza ultimamente? 
+OFELIA 
+No, senor. Solo cumpli vuestras ordenes: 
+le devolvi sus cartas y rechace su presencia. 
+POLONIO 
+Eso le ha enloquecido. Siento 
+no haber acertado al observarle. 
+Pense que jugaba contigo y que seria 
+tu perdicion. ¡Malditos mis recelos! 
+Parece natural en la vejez 
+excedernos en la desconfianza, 
+igual que es propio de los jovenes 
+andar escasos de juicio. Ven, vamos con el rey. 
+Esto ha de saberse, que obrar con sigilo 
+traera mas desgracia que enojo el decirlo.
+
+Salen.
+
+II.ii	Entran el REY, la REINA, ROSENCRANTZ, GUILDENSTERN y otros.
+
+REY
+Bienvenidos, Rosencrantz y Guildenstern. 
+Ademas de lo mucho que ansiabamos veros, 
+os mandamos llamar a toda prisa 
+porque os necesitabamos. Habeis oido hablar 
+de la transformacion de Hamlet: la llamo asi 
+puesto que no parece el mismo, 
+ni por fuera ni por dentro. Que pueda ser, 
+si no es la muerte de su padre, 
+lo que le tiene tan fuera de si, 
+no acierto a imaginarlo. Os ruego a los dos 
+que, habiendoos criado con el desde la infancia
+y conociendo tan de cerca su caracter, 
+accedais a quedaros en la corte 
+por un tiempo, de modo que vuestra compania 
+le aporte distraccion y permita averiguar, 
+mediando ocasiones favorables, 
+si algo ignorado le perturba 
+que, descubierto, podamos remediar. 
+REINA 
+Caballeros, el ha hablado mticho de vosotros 
+y me consta que no hay dos en todo el mundo 
+a quien tenga mas afecto. Si os complace 
+mostrar la cortesia y gentileza 
+de pasar algun tiempo con nosotros 
+en ayuda y cumplimiento de nuestra esperanza, 
+vuestra visita recibira la gratitud 
+que a la real largueza corresponde. 
+ROSENCRANTZ 
+El poder soberano de Vuestras Majestades 
+puede hacernos cumplir vuestros augustos deseos 
+sin tener que suplicarnos. 
+GUILDENSTERN 
+Con todo, obedecemos 
+y nos brindamos con toda nuestra entrega, 
+poniendo a vuestros pies nuestros servicios 
+y aguardando vuestras ordenes. 
+REY 
+Gracias, Rosencrantz y noble Guildenstern. 
+REINA 
+Gracias, Guildenstern y noble Rosencrantz. 
+Os suplico que al instante visiteis 
+a mi hijo, ahora tan cambiado.   Que uno de vosotros 
+lleve a estos senores donde este Hamlet. 
+GUILDENSTERN 
+¡Quiera Dios que nuestra presencia y nuestro esfuerzo 
+le sirvan de alivio y ayuda! 
+REINA 
+Asi sea.
+
+Salen ROSENCRANTZ y GUILDENSTERN [con un criado]. 
+Entra POLONIO.
+
+POLONIO
+Senor, nuestros embajadores 
+han vuelto felizmente de Noruega. 
+REY 
+Siempre fuisteis portador de buenas nuevas. 
+POLONIO 
+¿Lo creeis, senor? Os aseguro, Majestad, 
+que tanto mi lealtad como mi alma 
+estan al servicio de Dios y de mi rey. 
+Y creo, a no ser que este mi cerebro 
+ya no siga el rastro de la astucia 
+tan bien como solia, que he encontrado 
+la causa de la insania de Hamlet. 
+REY 
+Decidmela, que ansio conocerla. 
+POLONIO 
+Primero, recibid a los embajadores. 
+Mi noticia sera el postre del banquete. 
+REY 
+Pues honrad los entrantes y traedlos.
+
+[Sale POLONIO.]
+
+Mi reina, dice que ya ha averiguado 
+la causa del trastorno de tu hijo. 
+REINA 
+Temo que ya la conozcamos: la muerte 
+de su padre y nuestra boda apresurada. 
+REY 
+Bien, le sondearemos.
+
+Entran POLONIO, VOLTEMAND y CORNELIO.
+
+Bienvenidos, amigos. ¿Que hay 
+de nuestro hermano el noruego? 
+VOLTEMAND 
+Os devuelve complacido deseos y saludos. 
+Asi que nos oyo, ordeno que detuviesen 
+las levas del sobrino, que el habia tomado 
+por un reclutamiento contra el rey de Polonia, 
+pero que, tras indagaciones, resulto 
+que apuntaban contra Vuestra Majestad. 
+Asi, dolido al ver que se habian aprovechado 
+de su afeccion, vejez y decaimiento, 
+ordeno a Fortinbras que desistiera. 
+este al punto obedecio, fue reprimido 
+por el rey, y al final le hizo promesa 
+de no volver a tomar armas contra vos, 
+ante lo cual, lleno de gozo, el rey noruego 
+le dio una anualidad de tres mil coronas 
+y permiso para usar sus tropas reclutadas 
+contra el rey de Polonia, con el ruego, 
+consignado en este documento, 
+de que os digneis conceder paso franco 
+por vuestros dominios a esta expedicion, 
+con tales garantias y licencias 
+como en el se recogen. 
+REY 
+Me complace, 
+y en tiempo conveniente he de leer, 
+contestar y ponderar todo este asunto. 
+Mientras, gracias por empresa tan lograda. 
+Id a descansar; por la noche, venid al festin. 
+Sed muy bienvenidos.
+
+Salen los embajadores.
+
+POLONIO
+El asunto acabo bien.
+Mi soberano, mi reina, controvertir
+que pueda ser la majestad, el deber, por que 
+el dia es dia, la noche noche, y el tiempo tiempo, 
+seria perder noche, dia y tiempo. 
+Asi que, pues lo breve es el alma del buen juicio 
+y lo extenso, los miembros y adornos exteriores, 
+sere breve. Vuestro noble hijo esta loco. 
+Digo «loco», pues, para definir la locura, 
+¿no tendria uno que estar loco? 
+Pero dejemos esto. 
+REINA 
+Mas sustancia y menos arte. 
+POLONIO 
+Senora, os juro que hablo sin arte. 
+Que esta loco es cierto; es cierto que es lastima 
+y es lastima que sea cierto... ¡Que torpe figura! 
+Ya basta, que no pienso hablar con arte. 
+Admitamos que esta loco; solo resta 
+averiguar la causa del efecto 
+o, mejor dicho, la causa del defecto, 
+pues el efecto defectivo tiene causa. 
+Por tanto, solo resta... Lo restante, por tanto... 
+Ponderad. Tengo una hija (la tengo mientras sea mia) 
+que, fijaos, en su lealtad y obediencia, 
+me ha entregado esto. Sacad vuestras conclusiones.
+
+[Lee] la carta.
+
+«Al idolo de mi alma, la celestial y hermoseada Ofelia ... » Este termino es horrible, infame; «hermoseada» es un termino infame. Pero escuchad: «... esta carta; a su blanquisimo pecho, esta carta». 
+REINA 
+¿Es Hamlet quien se lo ha escrito? 
+POLONIO
+ 	Tened paciencia, senora. Voy a leerla fielmente.
+
+«Duda que ardan los astros, 
+duda que se mueva el sol 
+duda que haya verdad, 
+mas no dudes de mi amor. 
+¡Ah, querida Ofelia! Los versos se me dan mal. No tengo arte para medir mis lamentos. Pero que te amo mas que a nadie, mucho mas, creelo. Adios.
+Tuyo siempre, queridisima amada 
+mientras mi cuerpo sea mio,
+Hamlet.» 
+Esto me lo ha mostrado mi obediente hija 
+y, ademas, a mi oido ha confiado 
+todos sus galanteos, tal como sucedieron 
+en tiempo, modo y lugar. 
+REY 
+Y ella, ¿como le ha respondido? 
+POLONIO 
+¿Que opinais de mi? 
+REY 
+Que sois hombre leal y de bien. 
+POLONIO 
+Procuro serlo. ¿Que habriais pensado 
+si, cuando vi en accion su amor ardiente 
+(pues yo me percate, tenedlo en cuenta, 
+antes que mi hija me avisara); que habriais pensado 
+vos o mi querida Majestad, la reina, 
+si yo hubiera sido el cuaderno de sus notas, 
+o me hubiera hecho el distraido, 
+o no hubiera dado importancia a estos amores? 
+¿Que habriais pensado? No, yo no perdi el tiempo 
+y le hable a mi jovencita de este modo: 
+«El Principe Hamlet no es de tu esfera; 
+esto se acabo.» Entonces le ordene 
+que si el venia a verla se encerrara, 
+no admitiera sus mensajes, ni recibiera prendas.
+Lo hizo, y mi consejo le dio fruto, 
+pues, para abreviar, al verse por ella rechazado, 
+le entro melancolia, despues inapetencia, 
+despues insomnio, despues debilidad, 
+despues mareos y, siguiendo este declive, 
+la locura que le hace delirar 
+y que todos lamentamos. 
+REY 
+¿Tu crees que es eso? 
+REINA 
+Tal vez. Es Posible. 
+POLONIO 
+Decidme, ¿ha ocurrido alguna vez 
+que yo haya dicho con certeza «Es tal cosa» 
+y me haya equivocado? 
+REY 
+Que yo sepa, no. 
+POLONIO [senalando su cabeza y sus hombros] 
+Separad esta de aqui si me equivoco. 
+Habiendo indicios que me guien, 
+dare con la verdad, aunque se oculte 
+en el centro de la tierra. 
+REY 
+¿Como podemos comprobarlo? 
+POLONIO 
+Sabeis que a veces pasea largo rato 
+por esta galeria. 
+REINA 
+Desde luego. 
+POLONIO 
+La proxima vez, le suelto a mi hija. 
+Vos y yo nos pondremos detras de algun tapiz.
+Observad su encuentro. Si no esta enamorado 
+y por estarlo no ha perdido el juicio, 
+haced que yo cese en mi puesto de gobierno 
+y me ocupe de una granja y de sus cuadras. 
+REY 
+Lo probaremos.
+
+Entra HAMLET leyendo un libro.
+
+REINA
+Mirad que, absorto en su lectura viene el pobre.
+POLONIO
+Retiraos, os lo ruego, retiraos. 
+Voy a hablarle. Con permiso.
+
+Salen el REY y la REINA.
+
+¿Como esta mi Principe Hamlet?
+HAMLET
+Bien, gracias.
+POLONIO
+¿Sabeis quien soy, sefior?
+HAMLET
+Perfectisimamente: sois un pescadero. 
+POLONIO
+¿Yo? No, senor.
+HAMLET
+Pues ojala fueseis tan honrado.
+POLONIO
+¿Honrado, senor?
+HAMLET
+	Claro: tal como va el mundo, ser honrado es ser uno entre diez mil.
+POLONIO
+	Muy cierto, seiior.
+HAMLET
+Pues si el sol cria gusanos en un perro muerto, que es carnaza digna de besar... ¿Teneis una hija?
+POLONIO
+	Si, senor.
+HAMLET
+Que no salga al sol. Concebir es una dicha, mas no como pueda concebirlo vuestra hija. Amigo, cuidado. 
+POLONIO
+[aparte] ¿Que te parece? Siempre con mi hija. Aunque al principio no me conocio: dijo que yo era pescadero. Esta ido, ido. La verdad es que yo, en mi juventud, tambien sufri penas de amor, casi tanto como el. Le hablare otra vez.   ¿Que leeis, senor?
+HAMLET
+	Palabras, palabras, palabras.
+POLONIO
+	¿De que tratan, senor?
+HAMLET
+	¿Tratan, quien?
+POLONIO
+	Quiero decir lo que leeis, senor.
+HAMLET
+Son calumnias, pues el satirico granuja dice aqui que los viejos tienen la barba cana, la cara llena de arrugas, los ojos segregando resina o savia de ciruelo, y que andan escasos de juicio y flojos de muslos. Todo lo cual, senor, aunque lo creo con firmeza y entereza, no me parece correcto escribirlo asi. Vos mismo os volveriais de mi edad si pudierais andar para atras como un cangrejo. 
+POLONIO
+[aparte] Sera locura, pero con logica.   ¿Quereis pasar donde no haga aire?
+HAMLET
+¿A mi tumba?
+POLONIO 
+Ahi si que no hace aire. [Aparte] ¡Que atinadas suelen ser sus respuestas! La locura acierta a veces cuando el juicio y la cordura no dan fruto. Voy a dejarte, y en seguida urdire el modo de que se encuentre con mi hija.   Honorable senor, humildemente pido licencia para retirarme. 
+HAMLET 
+No podeis pedirme nada que yo no os de con mayor gusto; salvo mi vida, mi vida. POLONIO 
+Adios, senor. 
+HAMLET 
+¡Viejos tontos y cargantes!
+
+Entran ROSENCRANTZ y GUILDENSTERN.
+
+POLONIO
+Si buscais al Principe Hamlet, ahi esta. 
+ROSENCRANTZ [a POLONIO] 
+Id con Dios, senor.
+
+[Sale POLONIO.]
+
+GUILDENSTERN
+¡Respetable senor!
+ROSENCRANTZ
+¡Queridisimo senor!
+HAMLET
+¡Mis magnificos amigos! ¿Que tal, Guildenstern? ¡Ah, Rosencrantz! ¿Como estais, muchachos?
+ROSENCRANTZ
+Igual que el comun de los mortales.
+GUILDENSTERN
+Contentos de no pasar de contentos: del gorro de la Fortuna no somos la borla.
+HAMLET
+¿Ni las suelas de sus zapatos?
+ROSENCRANTZ
+Tampoco, senor.
+HAMLET
+Entonces vivis por su cintura o en el centro de sus favores.
+GUILDENSTERN
+En su intimidad.
+HAMLET
+¿Asi que en sus partes? ¡Ah, claro! Es una golfa. ¿Que hay de nuevo?
+ROSENCRANTZ
+Nada, senor: que el mundo se ha vuelto honrado.
+HAMLET
+Estara cerca el Dia del Juicio. No, vuestra noticia no es cierta. Dejad que os pregunte con mas precision. ¿Que habeis hecho, queridos amigos, para que la Fortuna os traiga a esta carcel?
+GUILDENSTERN
+¿Carcel, senor?
+HAMLET
+Dinamarca es una carcel.
+ROSENCRANTZ
+Entonces lo es el mundo.
+HAMLET
+Si, una carcel esplendida, con muchas celdas, encierros y calabozos, y Dinamarca es de los peores.
+ROSENCRANTZ
+No somos de esa opinion, senor.
+HAMLET
+Porque no lo es para vosotros, pues no hay nada bueno ni malo: nuestra opinion le hace serlo. Para mi es una carcel.
+ROSENCRANTZ
+Asi lo ve vuestra ambicion: es poco pais para vuestro animo.
+HAMLET
+¡Dios santo! Encerrado en una cascara de nuez me tendria por rey del espacio infinito, si no fuera porque tengo malos suenos.
+GUILDENSTERN
+Suenos que son ambicion, pues la esencia del ambicioso es la sombra de un sueno.
+HAMLET
+Y un sueno es una sombra.
+ROSENCRANTZ
+Cierto, y considero a la ambicion de sustancia tan eterea que seria la sombra de una sombra.
+HAMLET
+Entonces los mendigos son cuerpos, y los reyes y los heroes engolados, sombras de mendigos. ¿Vamos a la corte? Mas no puedo discurrir. 
+ROSENCRANTZ y GUILDENSTERN 
+Os acompanaremos.
+HAMLET
+De ningun modo. No pienso mezclaros con mis sirvientes, pues, para ser sincero, estoy pesimamente atendido. Pero, pon la franqueza de nuestra amistad, ¿que haceis en Elsenor?
+ROSENCRANTZ
+Visitaros, senor, nada mas.
+HAMLET
+Pobre como soy, no tengo ni gracias para dar. Pero os lo agradezco, aunque mi gratitud no valga un centavo. ¿No os han hecho venir? ¿Fue iniciativa vuestra? ¿Es visita voluntaria? Vamos, sed sinceros conmigo. Venga, vamos, hablad ya.
+GUILDENSTERN
+¿Que vamos a decir, senor?
+HAMLET
+Lo que sea, con tal que haga al caso. Os han hecho venir: hay en vuestra mirada una confesion que vuestro pudor no es capaz de disfrazar. Se que los buenos reyes os han hecho venir.
+ROSENCRANTZ
+¿Con que fin, senor?
+HAMLET
+Eso decidmelo vosotros. Mas permitid que os conjure, por los derechos de nuestro companerismo, por la armonia de nuestros anos mozos, por la obligacion de una amistad tan duradera y por todo lo que otro podria proponer: sed abiertos y sinceros y decidme si os han hecho venir o no.
+ROSENCRANTZ [aparte a GUILDENSTERN] 
+¿Que dices tu?
+HAMLET
+Cuidado, que os vigilo. Si me apreciais, no calleis.
+GUILDENSTERN
+Senor, nos han hecho venir.
+HAMLET
+Yo os dire por que. Me adelantare a lo que vais a revelarme y asi no sufrira menoscabo la discrecion que prometisteis a los reyes. ultimamente, no se por que, he perdido la alegria, he dejado todas mis actividades; y lo cierto es que me veo tan abatido que esta bella estructura que es la tierra me parece un esteril promontorio. Esta regia boveda, el cielo, ¿veis?, este excelso firmamento, este techo majestuoso adornado con fuego de oro, todo esto me parece nada mas que una asamblea de emanaciones pestilentes e inmundas. ¡Que obra maestra es el hombre! ¡Que noble en su raciocinio! ¡Que infinito en sus potencias! ¡Que perfecto y admirable en forma y movimiento! ¡Cuan parecido a un angel en sus actos y a un dios en su entendimiento! ¡La gala del mundo, el arquetipo de criaturas! Y sin embargo, ¿que es para mi esta quintaesencia del polvo? El hombre no me agrada; no, tampoco la mujer, aunque por tus sonrisas pareces creer que si.
+ROSENCRANTZ
+	Senor, no habia en mi tal pensamiento.
+HAMLET
+	Entonces, ¿por que te has reido cuando he dicho que el hombre no me agrada?
+ROSENCRANTZ
+Senor, de pensar en la cuaresma que les vais a dar a los comicos. Los dejamos atras cuando venian hacia aqui a ofreceros sus servicios. 
+HAMLET
+El que haga de rey sera bienvenido; a su majestad le pagare tributo. El caballero andante usara su espada y su rodela, el amante no suspirara en vano, el excentrico acabara su papel en paz, el gracioso hara reir a los que pronto se disparan y la dama hablara sin cortapisas, que, si no, el verso suelto andara cojo. ¿Que comicos son estos? 
+ROSENCRANTZ
+Los que tanto os agradaban: los actores de la ciudad.
+HAMLET
+	¿Como es que viajan? Siendo estables gozaban de mas fama y beneficios.
+ROSENCRANTZ
+Creo que les prohibieron actuar tras el reciente disturbio.
+HAMLET
+¿Y son tan renombrados como cuando yo estaba en la ciudad? ¿Tienen tanto publico?
+ROSENCRANTZ
+No, desde luego que no.
+HAMLET
+¿Como es eso? ¿Es que estan pasados?
+ROSENCRANTZ
+No, se mantienen a su altura. Pero ha nacido una parvada de chiquillos, unos pollitos que chillan a mas no poder y se les aplaude escandalosamente. Estan de moda, y tanto se meten con los teatros populares, como ellos los llaman, que el galan de espada al cinto tiene miedo de la pluma y ya no vuelve a frecuentarlos.
+HAMLET
+¿Asi que chiquillos? ¿Quien los patrocina? ¿Como se mantienen? ¿Seguiran en el oficio cuando muden la voz? Y si luego acaban en los teatros populares, que sera lo mas probable si no hay otra cosa, ¿no diran que sus poetas los malean obligandolos a criticar su propio futuro?
+ROSENCRANTZ
+La verdad es que ha habido mucho ruido en ambas partes, y la gente no ve nada malo en provocarlos al debate. Durante un tiempo no se vendia un argumento en que no se enzarzasen autores contra actores.
+HAMLET
+
+¿Es posible?
+GUILDENSTERN
+Bueno, se ha vertido mucho ingenio.
+HAMLET
+¿Y se llevan la palma los chiquillos?
+ROSENCRANTZ
+Si, senor, y a Hercules mismo con su carga.
+HAMLET 
+Tan extrano no es, pues mi tio es rey de Dinamarca, y los que en vida de mi padre le hacian muecas dan ahora veinte, cuarenta, cincuenta, cien ducados por su retrato en miniatura. Voto a Dios, que hay algo anormal en todo esto, como podria demostrar la filosofia.
+
+Toque de trompetas.
+
+GUILDENSTERN
+Ahi estan los comicos.
+
+HAMLET
+Caballeros, sed bienvenidos a Elsenor. Dadme la mano, vamos. A toda bienvenida corresponde ceremonia y cortesia. Permitid que cumpla con vosotros de este modo, no sea que mi acogida a los actores (que, os lo advierto, sera esplendida) parezca mas calurosa que la vuestra. Bienvenidos. Pero mi tio padre y mi tia madre se equivocan.
+GUILDENSTERN
+¿En que, mi senor?
+HAMLET
+Yo solo estoy loco con el nornoroeste; si el viento es del sur, distingo un pico de una picaza.
+
+Entra POLONIO.
+
+POLONIO
+Mis saludos, caballeros.
+HAMLET
+Escucha, Guildenstern, y tu tambien: a cada oido, un oyente. Esa gran criatura que veis ahi todavia va en panales.
+ROSENCRANTZ
+	Sera la segunda vuelta, pues dicen que el viejo vuelve a ser nino.
+HAMLET
+Profetizo que viene a hablarnos de los comicos. Atended... Teneis razon, pues asi fue el lunes por la manana. 
+POLONIO
+	Senor, tengo noticias para vos.
+HAMLET
+	Y yo noticias para vos. Cuando Roscio era actor en Roma...
+POLONIO
+	Senor, han llegado los actores.
+HAMLET
+	¡Ya, ya!
+POLONIO
+	Os lo juro...
+HAMLET
+	Cada actor llego en su burro.
+POLONIO
+Los mejores actores del mundo, tanto en lo tragico como en lo comico, lo historico, pastoril, comico pastoril,historico pastoril, tragico historico, tragico comico-historico pastoril, la obra unitaria o la pieza libre. Seneca no sera tan grave ni Plauto tan leve. Se observen las reglas o se desatiendan, ellos no tienen igual.
+HAMLET
+	¡Ah, Jefte, juez de Israel, que tesoro tienes!
+POLONIO
+	¿Que tesoro tenia?
+HAMLET
+	Pues,
+				«Hija hermosa, nada mas,
+				y la queria de verdad.»
+POLONIO [aparte]
+	Y dale con mi hija.
+HAMLET
+	¿No estoy en lo cierto, Jefte?
+POLONIO
+	Senor, si me llamais Jefte, si que tengo una hija y la quiero de verdad.
+HAMLET
+	No, eso no se sigue.
+POLONIO
+	Pues, ¿como se sigue?
+HAMLET
+Asi:
+«Por azar, cual Dios dira.»
+Que sabeis que continua:
+				«Sucedio, como se vio ... »
+Lo demas lo teneis en la primera estrofa de la devota cancion, que aqui llegan pasatiempos.
+
+Entran cuatro o cinco ACTORES.
+
+Bienvenidos, senores, bienvenidos todos.   Me alegra verte tan bien.   Bienvenidos, amigos.   ¡Mi viejo amigo! Te ha salido barba desde que te vi. ¿No te subiras a mis barbas aqui, en Dinamarca?   ¡Ah, mi joven senora! Valgame, desde la ultima vez que os vi, vuestra merced se ha acercado al cielo en la altura de un chapin. Dios quiera que no hayas mudado la voz y suene a moneda falsa.   Senores, sed todos bienvenidos. Ahora, a lanzarse contra lo que salga, como cetreros franceses. Anda, a recitar. Venga, una prueba de tus dotes; vamos, un fragmento que conmueva.
+
+ACTOR 1.0
+¿Cual, senor?
+HAMLET
+Te oi una vez recitar un fragmento que nunca se represento; a lo sumo, una sola vez. La obra, lo recuerdo bien, no gusto a la multitud, era caviar para el publico. Pero, en mi sentir y en el de otros cuyo juicio en la materia pesa mas que el mio, era una obra magnifica, bien concertada, y compuesta con tanta mesura como arte. Recuerdo que alguien dijo que no habia pimienta en los versos que los hiciera picantes, ni nada en el lenguaje que pudiera acusar al autor de afectacion, sino que tenia un estilo comedido. En ella me gustaba mas que nada un fragmento, el relato de Eneas a Dido, especialmente la parte que trata de la muerte de Priamo. Si aun vive en tu memoria, empieza donde dice... A ver, a ver:
+«El aspero Pirro, cual la fiera hircana...»
+No, asi, no. Empieza con Pirro: 
+«El aspero Pirro, con sable armadura, 
+negra cual su intento e igual que la noche 
+cuando en el funesto corcel iba oculto, 
+ha untado su negra y horrifica efigie 
+de heraldica infausta. De pies a cabeza 
+vestido de gules, hebras pavorosas 
+de sangre de padres, madres, hijas, hijos, 
+cocida y reseca por calles que abrasan 
+y dan una luz violenta y maldita 
+a su odiosa muerte. Quemado de furia 
+y fuego, cubierto de sangre cuajada, 
+carbunclos sus ojos, Pirro infernal busca 
+al anciano Priamo.»
+	Sigue tu.
+POLONIO
+	Por Dios, que lo habeis dicho muy bien, con buena diccion y gran mesura.
+ACTOR 1.0
+«Al punto le halla 
+en vana ofensiva. Su espada vetusta 
+yace donde cae, hostil a sus ordenes, 
+rebelde a su brazo. En lid desigual 
+Pirro embiste a Priamo y yerra en su rabia, 
+pero con el soplo de su rudo acero 
+el anciano cae. La inanime Ilion, 
+cual sintiendo el golpe, con torres en llamas 
+se viene a tierra, y su horrido estruendo 
+a Pirro suspende: he ahi que su espada,
+en trance de herir la nivea cabeza 
+del viejo patriarca, se paro en el aire. 
+Cual imagen de un tirano quedo Pirro, 
+quien, inmovil entre proposito y acto, 
+no hacia nada. 
+Mas (tal como ocurre ante una tormenta, 
+el cielo callado, las nubes tranquilas, 
+los vientos en calma, y toda la tierra 
+muda cual la muerte), de pronto el trueno 
+estremece el aire; asi, tras la pausa, 
+se excita otra vez la venganza de Pirro; 
+y nunca golpeo el martillo de un ciclope 
+con menos piedad la armadura de Marte, 
+de forja perpetua, que ahora golpea 
+a Priamo el arma sangrienta de Pirro. 
+¡Atras, ramera Fortuna! ¡Oid, dioses! 
+¡En santo concilio quitadle su fuerza, 
+rompedle a su rueda los radios y pinas, 
+haciendo que el cubo ruede desde el cielo 
+y caiga en el tartaro!» 
+POLONIO
+	Demasiado largo.
+HAMLET
+Ira al barbero, junto con tu barba.   Sigue, te lo ruego. este solo quiere mojigangas o cuentos verdes; si no, se duerme. Sigue. Llega a lo de Hecuba. 
+ACTOR 1.0
+«Mas quien a la reina viese en su arrebozo ... »
+HAMLET
+	¿«Arrebozo»?
+POLONIO
+Esta bien; «arrebozo» esta bien.
+ACTOR 1.0
+«... corriendo descalza, un rio de lagrimas 
+conminando al fuego; pano y no corona
+sobre la cabeza; vestido su cuerpo,
+flaco y extenuado de tanto engendrar, 
+con manta cogida en la prisa del miedo... 
+Quien todo esto viese, con voz venenosa 
+contra el poder de Fortuna se alzaria. 
+Hubieranla visto entonces los dioses, 
+cuando ella vio a Pirro en cruel pasatiempo 
+cortando a su esposo en tristes pedazos, 
+a no ser que lo mortal no los conmueva, 
+el mero estallido de pena y dolor
+habria hecho llorar a los ojos del cielo 
+y sufrir a los dioses».
+
+POLONIO
+Mirad: se le altera el semblante y le brotan las lagrimas.   No sigas, te lo ruego.
+HAMLET
+Ya basta. Pronto declamaras el resto.   Mi buen senor, ¿quereis cuidaros de hospedar bien a los actores? Oidme: que sean bien tratados, pues son el compendio y la cronica del mundo. Mas os vale un mal epitafio a vuestra muerte que sufrir en vida su censura.
+POLONIO
+Senor, los tratare como se merecen.
+HAMLET
+¡Cuerpo de Dios, mucho mejor! Tratad a cada uno como se merece y, ¿quien escapa al latigo? Tratadlos segun vuestro honor y dignidad: cuanto menos merezcan, mas merito tendra vuestra largueza. Acompanadlos. 
+POLONIO 
+Venid, senores.
+
+Sale con [todos] los ACTORES [menos el primero].
+
+HAMLET
+Seguidle, amigos. Manana habra funcion.   Oye, amigo, ¿podeis representar «El asesinato de Gonzago»? 
+ACTOR 1.0
+Si, mi senor. 
+HAMLET 
+Sera para manana noche. Si es preciso, ¿podrias aprenderte de memoria un fragmento de doce a dieciseis versos que yo puedo escribir e intercalar? 
+ACTOR 1.0
+Si, mi senor. 
+HAMLET 
+Muy bien. Sigue al caballero y no te burles de el.
+
+[Sale el ACTOR I.0]
+
+Mis buenos amigos, hasta la noche. Sed bienvenidos a Elsenor.
+ROSENCRANTZ [despidiendose] 
+Mi senor...
+
+Salen ROSENCRANTZ y GUILDENSTERN.
+
+HAMLET
+Quedad con Dios.   Ahora ya estoy solo. 
+¡Ah, que innoble soy, que misero canalla! 
+¿No afea mi conducta el que este actor, 
+en su fabula, fingiendo sentimiento, 
+acomode su alma a una imagen 
+al punto que su rostro palidezca, 
+le broten lagrimas, el semblante se le mude, 
+la voz se le entrecorte, y que aplique todo el cuerpo 
+a la expresion de su imagen? Y todo por nada. 
+¿Por Hecuba? 
+¿Quien es Hecuba para el, o el para Hecuba, 
+que le hace llorar? ¿Que haria si tuviese 
+el motivo y la llamada al sentimiento 
+que yo tengo? Ahogar el teatro con sus lagrimas, 
+atronar con su clamor los oidos del publico, 
+enloquecer al culpable y aterrar al inocente, 
+pasmar al ignorante y suspender 
+los sentidos de la vista y el oido. Mas yo, 
+vil desganado, me arrastro en la apatia 
+como un sonador, impasible ante mi causa 
+y sin decir palabra; no, ni por un rey 
+cuya vida, su bien mas preciado, 
+fue ruinmente aniquilada. ¿Soy un cobarde? 
+¿Quien me llama infame, me da en la cabeza, 
+me arranca la barba y me la sopla a la cara, 
+me tira de la nariz, me acusa de embustero 
+en cuerpo y alma? ¿Quien? 
+¡Voto a ... ! Lo sufriria. Pues seguro 
+que soy dulce cual paloma y no tengo la hiel 
+que encona los agravios, que, si no, 
+ya habria cebado a los milanos del cielo 
+con la asadura de este ruin. ¡Canalla inhumano 
+rijoso, sensual, desleal, desnaturalizado! 
+¡Oh, venganza! 
+¡Ah, que torpe soy! Si. ¡Buen lucimiento! 
+Yo, hijo de un padre querido al que asesinan, 
+movido a la venganza por cielo e infierno, 
+como una puta me desfogo con palabras 
+y me pongo a maldecir como una golfa 
+o vil fregona. ¡Ah, que vergüenza! 
+Actua, cerebro. He oido decir 
+que unos culpables que asistian al teatro 
+se han impresionado a tal extremo 
+con el arte de la escena que al instante 
+han confesado sus delitos; pues el crimen, 
+aunque es mudo, al final habla 
+con lengua milagrosa. Hare que estos actores 
+reciten algo como el crimen de mi padre 
+en presencia de mi tio. Observare sus gestos, 
+le hurgare la herida. Al menor sobresalto 
+ya se que hacer. El espiritu que he visto 
+quiza sea el demonio, cuyo poder le permite 
+adoptar una forma atrayente; si, y tal vez 
+por mi debilidad y melancolia, 
+pues es poderoso con tales estados, 
+me engana para condenarme. Quiero pruebas 
+concluyentes: el teatro es la red 
+que atrapara la conciencia de este rey.
+
+Sale.
+
+III.I Entran el REY, la REINA, POLONIO, OFELIA, ROSENCRANTZ y
+   GUILDENSTERN.
+
+REY
+¿Y a traves de circunloquios no podeis 
+averiguar por que afecta ese trastorno 
+y se crispa el sosiego a tal extremo 
+con su demencia destemplada y peligrosa? 
+ROSENCRANTZ 
+Reconoce que se siente perturbado, 
+mas no hay modo de que diga por que causa. 
+GUILDENSTERN 
+Ni parece que se deje sondear: 
+cuando queremos llevarle a que revele 
+su estado verdadero, rehuye la ocasion 
+con su locura fingida. 
+REINA 
+¿Os acogio bien? 
+ROSENCRANTZ 
+Como todo un caballero. 
+GUILDENSTERN 
+Y, sin embargo, muy forzado. 
+ROSENCRANTZ 
+Se resistia a conversar, mas respondio a nuestras preguntas sin reservas. 
+REINA 
+¿Le animasteis con alguna distraccion?
+ROSENCRANTZ
+Senora, sucedio que, de camino, 
+dejamos atras a unos actores. Le hablamos de ellos 
+y, por lo visto, se alegro con la noticia. 
+Ahora ya se encuentran en la corte 
+y creo que tienen el encargo 
+de actuar esta noche en su presencia. 
+POLONIO 
+Muy cierto, y me ha rogado 
+que suplique a Vuestras Majestades 
+que asistais a la funcion. 
+REY 
+Con toda el alma, y me complace sumamente 
+que este con ese animo.   Caballeros, 
+alentadle un poco mas y seguid 
+llevandole hacia estas diversiones. 
+ROSENCRANTZ 
+Si, Majestad.
+
+Salen ROSENCRANTZ y GUILDENSTERN.
+
+REY
+Querida Gertrudis, dejanos tu tambien, 
+pues hemos planeado que venga aqui Hamlet 
+para que pueda encontrarse con Ofelia 
+como por azar. 
+Su padre y yo mismo, legitimos espias, 
+haremos de tal modo que, viendo sin ser vistos, 
+podamos juzgar el encuentro con certeza 
+y deducir de su conducta 
+si lo que tanto le aqueja es realmente 
+una afeccion amorosa. 
+REINA 
+Te obedezco. 
+ En cuanto a ti, Ofelia, me alegraria 
+que la causa de la insania de Hamlet 
+fueran tus encantos, como espero 
+que, por el bien de los dos, tus virtudes 
+le devuelvan al camino acostumbrado.
+OFELIA
+Asi lo espero, senora.
+
+[Sale la REINA.]
+
+POLONIO
+Ofelia, pasea por aqui.   Majestad, si os place, 
+vamos a ocultarnos.   Tu lee este libro: 
+tal muestra de recogimiento explicara 
+tu soledad.   En esto no obramos bien: 
+como prueba la experiencia, con el rostro devoto 
+y el acto piadoso hacemos atrayente 
+al propio diablo. 
+REY [aparte] 
+¡Gran verdad! 
+¡Que duro latigazo a mi conciencia! 
+La cara de una golfa, repintada de color, 
+no es mas fea con el afeite que se aplica 
+que mis actos con mis falsas palabras. 
+¡Ah, que pesada carga! 
+POLONIO 
+Ya viene; retiremonos, senor.
+
+Salen [el REY y POLONIO]. 
+Entra HAMLET.
+
+HAMLET
+Ser o no ser, esa es la cuestion:
+si es mas noble para el alma soportar
+las flechas y pedradas de la aspera Fortuna
+o armarse contra un mar de adversidades
+y darles fin en el encuentro. Morir: dormir, 
+nada mas. Y si durmiendo terminaran 
+las angustias y los mil ataques naturales 
+herencia de la carne, seria una conclusion 
+seriamente deseable. Morir, dormir: 
+dormir, tal vez sonar. Si, ese es el estorbo; 
+pues que podriamos sonar en nuestro sueno eterno 
+ya libres del agobio terrenal, 
+es una consideracion que frena el juicio 
+y da tan larga vida a la desgracia. Pues, ¿quien 
+soportaria los azotes e injurias de este mundo, 
+el desman del tirano, la afrenta del soberbio, 
+las penas del amor menospreciado, 
+la tardanza de la ley, la arrogancia del cargo, 
+los insultos que sufre la paciencia, 
+pudiendo cerrar cuentas uno mismo 
+con un simple punal? ¿Quien lleva esas cargas, 
+gimiendo y sudando bajo el peso de esta vida, 
+si no es porque el temor al mas alla, 
+la tierra inexplorada de cuyas fronteras 
+ningun viajero vuelve, detiene los sentidos 
+y nos hace soportar los males que tenemos 
+antes que huir hacia otros que ignoramos? 
+La conciencia nos vuelve unos cobardes, 
+el color natural de nuestro animo 
+se mustia con el palido matiz del pensamiento, 
+y empresas de gran peso y entidad 
+por tal motivo se desvian de su curso 
+y ya no son accion.   Pero, alto: 
+la bella Ofelia. Hermosa, en tus plegarias 
+recuerda mis pecados. 
+OFELIA 
+Mi senor, ¿como ha estado Vuestra Alteza 
+todos estos dias? 
+HAMLET 
+Con humildad os lo agradezco: bien, bien, bien. 
+OFELIA 
+Senor, aqui tengo recuerdos que me disteis
+y que hace tiempo pensaba devolveros. 
+Os lo suplico, tomadlos. 
+HAMLET 
+No, no. Yo nunca os di nada. 
+OFELIA 
+Mi senor, sabeis muy bien que si, 
+y con ellos palabras de aliento tan dulce 
+que les daban mas valor. Perdida su fragancia, 
+tomad vuestros presentes: para el animo noble, 
+cuando olvida el donante se empobrecen sus dones. 
+Tomad, senor. 
+HAMLET 
+¡Aja! ¿Eres honesta? 
+OFELIA 
+¡Senor! 
+HAMLET 
+¿Eres bella? 
+OFELIA 
+¿Que quereis decir? 
+HAMLET 
+Que si eres honesta y bella, tu honestidad no debe permitir el trato con tu belleza. OFELIA 
+¿Puede haber mejor comercio, senor, que el de honestidad y belleza? 
+HAMLET 
+Pues si, porque la belleza puede transformar la honestidad en alcahueta antes que la honestidad vuelva honesta a la belleza. Antiguamente esto era un absurdo, pero ahora los tiempos lo confirman. Antes te amaba. 
+OFELIA 
+Senor, me lo hicisteis creer. 
+HAMLET 
+No debias haberme creido, pues la virtud no se puede injertar en nuestro viejo tronco sin que quede algun resabio. Asi que no te amaba. 
+OFELIA 
+Mas me engane.
+HAMLET
+¡Vete a un convento! ¿Es que quieres criar pecadores? Yo soy bastante decente, pero puedo acusarme de cosas tales que mas valdria que mi madre no me hubiese engendrado. Soy muy orgulloso, vengador, ambicioso, con mas disposicion para hacer dano que ideas para concebirlo, imaginacion para plasmarlo o tiempo para cumplirlo. ¿Por que gente como yo ha de arrastrarse entre la tierra y el cielo? Todos somos unos miserables: no nos creas a ninguno. Venga, vete a un convento. ¿Donde esta tu padre?.
+OFELIA
+En casa, senor.
+HAMLET
+Cerrad bien las puertas, que solo haga el bobo alli dentro. Adios.
+OFELIA
+¡El cielo le asista!
+HAMLET
+Si te casas, sea mi dote esta maldicion: seras mas casta que el hielo y mas pura que la nieve, y no podras evitar la calumnia. Vete a un convento, anda, adios. O si es que has de casarte, casate con un tonto, pues el listo sabe bien los cuernos que poneis, A un convento, vamos, deprisa. Adios.
+OFELIA
+¡Santos del cielo, curadle!
+HAMLET
+Se muy bien lo de vuestros afeites. Dios os da una cara y vosotras os haceis otra. Andais a saltitos o pausado, gangueando bautizais todo lo creado, y haceis pasar por inocencia vuestros dengues. Muy bien, se acabo; me ha vuelto loco. Ya no habra mas matrimonios. De los que ya estan casados viviran todos menos uno. Los demas, que sigan como estan. ¡A un convento, vamos!
+
+Sale.
+
+OFELIA
+¡Ah, que noble inteligencia destruida! 
+Del cortesano, el sabio y el soldado, 
+el ojo, la lengua, la espada. Esperanza y flor 
+de nuestro reino, espejo de elegancia 
+y modelo de conducta, blanco de observantes, 
+y ahora destrozado. Y yo, la mujer mas abatida, 
+que gozo de la miel de sus promesas, 
+veo ese noble y soberano entendimiento 
+destemplado cual campanas que disuenan, 
+esa estampa sin par de perfecta juventud 
+perdida en el delirio. ¡Pobre de mi! 
+Tener que ver esto, y no lo que vi.
+
+Entran el REY y POLONIO.
+
+REY
+¿Amor? No, por ahi no se encamina 
+y, aunque fuera algo confuso, lo que ha dicho 
+no es indicio de locura. Algo lleva en el alma 
+que su melancolia esta incubando 
+y temo que al romperse el cascaron 
+habra peligro. Para evitarlo, 
+como medida inmediata he decidido 
+que parta sin demora hacia Inglaterra 
+a reclamar el tributo que nos debe. 
+Quiza la travesia, el cambio de pais 
+y de escenario consigan arrancarle 
+de su pecho la inquietud tan arraigada, 
+que no deja reposo a su cerebro 
+y le saca de si mismo. ¿Que os parece?
+
+POLONIO
+Le hara bien. Aunque yo sigo creyendo 
+que la causa y fundamento de su mal 
+es amor desestimado.   ¿Que hay, Ofelia? 
+No nos cuentes lo del Principe Hamlet: 
+lo hemos oido todo.   Senor, obrad como gusteis, 
+mas, si os parece, despues de la funcion, 
+permitid que su madre la reina le inste a solas 
+a que revele sus penas. Que sea clara con el. 
+Yo, con vuestra venia, pondre mi oido 
+al alcance de su platica. Si nada descubre, 
+mandadle a Inglaterra o recluidle 
+donde juzgueis conveniente. 
+REY
+Vigiladle. 
+La locura de un grande no debe descuidarse.
+
+Salen.
+
+III.ii Entran HAMLET y dos o tres ACTORES.
+
+HAMLET
+Te lo ruego, di el fragmento como te lo he recitado, con soltura de lengua. Mas si voceas, como hacen tantos comicos, me dara igual que mis versos los diga el pregonero. Y no cortes mucho el aire con la mano, asi; hazlo todo con mesura, pues en un torrente, tempestad y, por asi decir, torbellino de emocion has de adquirir la sobriedad que le pueda dar fluidez. Me exaspera ver como un escandaloso con peluca desgarra y hace trizas la emocion de un recitado atronando los oidos del vulgo, que, en su mayor parte, solo aprecia el ruido y las pantomimas mas absurdas. Haria azotar a ese por inflar a Termagante: eso es mas herodista que Herodes. Te lo ruego, evitalo.
+ACTOR 1.0
+Este segura Vuestra Alteza. 
+HAMLET
+Tampoco seas muy tibio: tu deja que te guie la prudencia. Amolda el gesto a la palabra y la palabra al gesto, cuidando sobre todo de no exceder la naturalidad, pues lo que se exagera se opone al fin de la actuacion, cuyo objeto ha sido y sigue siendo poner un espejo ante la vida: mostrar la faz de la virtud, el semblante del vicio y la forma y caracter de toda epoca y momento. Si esto se agiganta o no se alcanza, aunque haga reir al profano, disgustara al juicioso, cuya sola opinion debeis valorar mucho mas que un teatro lleno de ignorantes. No quiero ser irreverente, pero he visto actores (elogiados por otros en extremo) que, no teniendo acento de cristiano, ni andares de cristiano, pagano u hombre alguno, se contonean y braman; de tal modo que parece que los hombres fuesen obra de aprendices de la Naturaleza, viendo lo vilmente que imitan a la humanidad. 
+ACTOR 1.0
+Senor, espero que eso lo tengamos bastante dominado. 
+HAMLET
+Dominadlo del todo. Y que el gracioso no se salga de su texto, pues los hay que se rien para hacer reir a un grupo de pasmados, aunque sea en algun momento critico del drama. Eso es infame, y demuestra una ambicion muy lamentable en el gracioso. Anda, preparaos.
+
+Salen los ACTORES.
+Entran POLONIO, ROSENCRANTZ y GUILDENSTERN.
+
+¿Que hay, senor? ¿Va a asistir el rey a la funcion?
+POLONIO
+	Con la reina, y en seguida.
+HAMLET
+Apremiad a los actores.
+
+Sale POLONIO.
+
+	¿Quereis ayudarle a darles prisa?
+ROSENCRANTZ y GUILDENSTERN
+Si, Alteza.
+
+Salen. 
+Entra HORACIO.
+
+HAMLET 
+¡Eh, Horacio! 
+HORACIO 
+Aqui estoy, mi senor, a vuestras ordenes. 
+HAMLET 
+Horacio, eres el mas ponderado de cuantos hombres haya conocido. 
+HORACIO 
+Querido senor... 
+HAMLET 
+No, no pienses que te adulo. 
+¿Que ventaja podria yo esperar de ti,
+que no tienes mas renta para comer y vestirte 
+que tus propias cualidades? ¿A que adular al pobre? 
+No, que la lengua melosa endulce vanidades 
+y se doblen las solicitas rodillas 
+si el halago rinde beneficio. Escucha. 
+Desde que mi persona aprendio a escoger 
+y supo distinguir, su eleccion 
+recayo en ti. Tu has sido como aquel 
+que, sufriendolo todo, nada sufre; 
+un hombre que, sereno, recibe por igual 
+reveses y favores de Fortuna. Dichoso 
+el que armoniza pasion y buen sentido 
+y no es flauta al servicio de Fortuna 
+por sonar como le plazca. Dame un hombre 
+que no sea esclavo de emociones, y le llevare 
+en mi corazon; si, en el corazon del corazon, 
+como yo a ti. Pero ya basta. 
+Esta noche actuan ante el rey. 
+Las circunstancias de una escena se aproximan 
+a las que ya te dije de la muerte de mi padre. 
+Te lo ruego, cuando presenten el hecho 
+observa a mi tio con la maxima atencion 
+que te de el alma. Si durante un fragmento 
+no sale a la luz su escondida culpa, 
+el espectro que hemos visto esta maldito 
+y mis figuraciones son inmundas 
+cual la fragua de Vulcano. Fijate en el; 
+yo pienso clavarle mis ojos en su cara. 
+Despues uniremos pareceres 
+cuando juzguemos su reaccion. 
+HORACIO 
+Si, Alteza. Si durante la comedia 
+hurta algo a mi atencion y se me escapa, 
+yo pagare el robo. 
+HAMLET 
+Ya vienen a la funcion. Me hare el loco. 
+Buscate un sitio.
+
+Marcha danesa. Toque de clarines. Entran el REY, la REINA, POLONIO, OFELIA, ROSENCRANTZ, GUILDENSTERN y NOBLES del sequito, con la Guardia Real llevando antorchas.
+
+REY
+¿Como lo pasa mi sobrino Hamlet?
+HAMLET
+Pues muy bien; con el yantar camaleonico: vivo del aire, relleno de promesas. Ni el capon se ceba asi.
+REY
+¡No entiendo tus palabras, Hamlet. A mi no me responden.
+HAMLET
+Ni a mi tampoco. [A POLONIO] Senor, actuasteis una vez en la universidad, ¿no es asi?
+POLONIO
+Si, Alteza, y me tenian por buen actor.
+HAMLET
+¿Y que papel representasteis?
+POLONIO
+El de Julio Cesar. Me mataron en el Capitolio. Me mato Bruto.
+HAMLET
+Bruto capital tenia que ser para matar a ese cabestro.
+  ¿Estan listos los comicos?
+ROSENCRANTZ
+Si, Alteza. Esperan vuestra orden.
+REINA
+Mi buen Hamlet, ven; sientate a mi lado.
+HAMLET
+No, buena madre; aqui hay un iman mas atrayente.
+POLONIO [al REY]
+¡Vaya! ¿Habeis oido?
+HAMLET
+Senora, ¿puedo echarme en vuestra falda?
+OFELIA
+No, mi senor.
+HAMLET
+Quiero decir apoyando la cabeza.
+OFELIA
+Si, mi senor.
+HAMLET
+¿Creeis que pensaba en el asunto?
+OFELIA
+No creo nada, senor.
+HAMLET
+No esta mal lo de echarse entre las piernas de una dama. 
+OFELIA 
+¿Como, senor? 
+HAMLET 
+Nada. 
+OFELIA 
+Estais alegre, senor. 
+HAMLET
+¿Quien, yo?
+OFELIA
+Si, Alteza.
+HAMLET
+¡Vaya por Dios! ¡Vuestro autor de mojigangas! Pero, ¿que puede hacer uno sino estar alegre? Mirad lo contenta que esta mi madre, y mi padre murio hace menos de dos horas.
+OFELIA
+No, hace dos veces dos meses.
+HAMLET
+¿Tanto? Entonces al diablo estas ropas, que mi luto sera fastuoso. ¡Por Dios! ¡Muerto hace dos meses y aun no olvidado! Entonces hay esperanza de que el recuerdo de un gran hombre le sobreviva seis meses. ¡Por la Virgen! Tendra que construir iglesias o soportar el olvido, igual que el caballito, cuyo epitafio reza: «¡Que pecado! Al caballito olvidaron.»
+
+Suenan oboes. Se inicia la pantomima.
+Entran un rey y una reina, abrazandose con gran ternura. La reina se arrodilla y con gestos le asegura su amor. El rey la levanta, le pone la cabeza sobre el hombro y se tiende sobre un lecho de flores. Ella, al verle dormido, se aleja. Pronto entra un hombre, que le quita la corona, la besa, vierte veneno en los oidos del rey y sale. Vuelve la reina, le ve muerto y hace gestos de dolor. El envenenador, con dos o tres comparsas, vuelve a entrar y da muestras de condolencia. Se llevan el cadaver. El envenenador corteja a la reina con regalos. Al principio, ella parece reacia y opuesta, pero alfinal acepta su amor.
+
+Salen.
+
+OFELIA
+¿Que significa eso, senor?
+HAMLET
+Es un malhecho al acecho, que quiere decir desastre.
+OFELIA
+Tal vez la pantomima exprese el argumento de la obra.
+
+Entra el FARAUTE.
+
+HAMLET
+este nos lo dira. Los comicos no saben guardar secretos; lo cuentan todo. 
+OFELIA 
+¿Explicara lo que hemos visto? 
+HAMLET 
+Eso o lo que querais ensenarle. Si no os da reparo que mire, a el tampoco le dara deciros que significa. 
+OFELIA 
+¡Que malo, que malo sois! Voy a seguir la obra. 
+FARAUTE
+Al presentar la tragedia 
+rogamos vuestra clemencia 
+y vuestra atenta paciencia.
+
+[Sale.]
+
+HAMLET
+¿Que es esto, un prologo o un lema de sortija?
+OFELIA
+Ha sido breve, senor.
+HAMLET
+Como amor de mujer.
+
+Entran [dos ACTORES], REY y REINA.
+
+ACTOR REY
+El carro de Febo ya dio treinta vueltas 
+al mar de Neptuno y al orbe de Gea, 
+y al mundo han banado treinta veces doce 
+lunas rutilantes otras tantas noches 
+desde que Himeneo y Amor nos juntaron 
+las manos y almas en vinculo santo. 
+ACTOR REINA 
+Haya tantos giros de luna y de sol 
+antes que se pierda nuestro inmenso amor. 
+Mas, ¡pobre de mi! Te veo tan doliente 
+y sin la alegria que has gozado siempre, 
+que estoy alarmada. Mas, aunque este inquieta, 
+senor, tu no debes sentir impaciencia, 
+pues ansia y amor de mujer cambian juntos: 
+ambos en exceso o nada ninguno. 
+Ya te he demostrado cuan grande es mi amor, 
+y de esa medida ahora es mi temor.
+ACTOR REY 
+Muy pronto, mi amor, habre de dejarte, 
+pues ya no soy dueno de mis facultades.
+Honrada y amada, sola quedaras 
+en el bello mundo; y esposo, quiza, 
+con igual carifio... 
+ACTOR REINA
+¡No sigas, no sigas! 
+Traicion a mi alma tal amor seria. 
+Si tomo otro esposo, el sea mi infierno, 
+pues quiere un segundo quien mato al primero. 
+HAMLET
+¡Ajenjo, ajenjo!
+ACTOR REINA
+A otro matrimonio nunca dan lugar 
+razones de amor, mas de utilidad. 
+A mi esposo muerto mataria otra vez 
+si en el lecho a otro yo fuese a ceder. 
+ACTOR REY 
+No dudo que sientas lo que ahora me dices, 
+mas muchos designios no suelen cumplirse; 
+pues son los esclavos de nuestra memoria: 
+fuertes cuando nacen, mas su fuerza es corta. 
+Como el fruto verde, se aferran al arbol; 
+cuando estan maduros, caen sin tocarlos. 
+Todos olvidamos, y por conveniencia, 
+pagarnos nosotros nuestras propias deudas. 
+Si nos proponemos algo con pasion, 
+veremos que muere pasado el ardor; 
+pues, cuando es violenta, la pena o la dicha 
+en sus propios actos se mata a si misma. 
+Donde hay grande dicha, la pena mas dana: 
+la dicha y la pena oscilan por nada. 
+El mundo es fugaz, y extranar no debe 
+que nuestro amor mismo cambie con la suerte, 
+pues al juicio nuestro queda la cuestion: 
+si amor guia a fortuna o fortuna a amor. 
+Cuando el grande cae, sus intimos huyen; 
+no tendra enemigos el pobre que sube.
+El amor, por tanto, sirve a la fortuna, 
+y para el pudiente amigos abundan; 
+pruebe a un falso amigo quien sufra escasez 
+y un gran enemigo pronto ha de tener. 
+Mas, para acabar donde he comenzado, 
+deseo y destino corren tan contrarios 
+que nuestros designios siempre se deshacen: 
+la intencion es nuestra, mas no el desenlace. 
+Dices que no piensas casarte con otro; 
+morira tu idea tras morir tu esposo. 
+ACTOR REINA 
+Ni frutos la tierra, ni luz me de el cielo, 
+ni solaz el dia, ni la noche el sueno. 
+¡Que todo contrario que enturbie la dicha 
+destruya los grandes deseos de mi vida! 
+¡Que aqui y mas alla me acose la angustia 
+si vuelvo a casarme cuando yo sea viuda! 
+HAMLET
+¡Como no lo cumpla...! 
+ACTOR REY 
+Solemne promesa. Y ahora dejame: 
+el sueno me vence y deseo distraer 
+el tiempo durmiendo.
+
+Se duerme.
+
+ACTOR REINA
+Tu mente descanse, 
+y que la desgracia jamas nos separe.
+
+Sale.
+
+HAMLET
+Senora, ¿que os parece la obra? 
+REINA
+Creo que la dama promete demasiado. 
+HAMLET
+Mas cumplira su palabra.
+REY
+¿Conoces el argumento? ¿No hay nada que ofenda? 
+HAMLET
+No, no. Todo es simulado, incluso el veneno. No hay nada que ofenda.
+REY
+¿Como se llama la obra? 
+HAMLET
+«La ratonera.» ¿Que por que? Es metaforico. La pieza representa un crimen cometido en Viena. El duque se llama Gonzago; su esposa, Baptista. Ya vereis. Una canallada, pero, ¿que mas da? A Vuestra Majestad y a los libres de culpa no nos toca. El jamelgo, que respingue, que nuestros lomos no pican.
+
+Entra LUCIANO.
+
+Este es un tal Luciano, sobrino del rey. 
+OFELIA 
+Haceis muy bien de coro, Alteza. 
+HAMLET 
+Podria decir el dialogo entre vos y vuestro amado si viera a los titeres en danza. OFELIA 
+Estais muy mordaz, senor. 
+HAMLET 
+Quitarme el hambre os costara un buen suspiro. 
+OFELIA 
+Cuanto mejor, peor. 
+HAMLET 
+Asi confundis a los maridos.   Empieza, criminal. ¡Venga! Dejate de muecas y empieza. Vamos, que el cuervo ha graznado en son de venganza.
+LUCIANO 
+Negros pensamientos, pocion, manos prestas, 
+sazon favorable, nadie que lo vea; 
+ponzona de hierbas en sombras cogidas, 
+tres veces por Hecate infecta y maldita, 
+tu natural magia e influjo malefico, 
+la salud y vida robenle al momento.
+
+Le vierte el veneno en el oido.
+
+HAMLET
+Le envenena en el jardin para quitarle el reino. Se llama Gonzago. La historia se conserva y esta escrita en esplendido italiano. Ahora vereis como el asesino se gana el amor de la esposa de Gonzago.
+OFELIA
+	El rey se levanta.
+HAMLET
+	¡Como! ¿Le asusta el fogueo?.
+REINA
+	Mi senor, ¿que os pasa?
+POLONIO
+	¡Cese la funcion!
+REY
+	Traedme luz. Vamonos.
+NOBLES
+¡Luces, luces, luces!
+
+Salen todos menos HAMLET y HORACIO.
+
+HAMLET
+
+Dejad que, herido, llore el corzo 
+y brinque el gamo ileso, 
+pues, si unos duermen, velan otros 
+y el mundo sigue entero.
+Amigo, si la suerte fuese a abandonarme, con esto, un penacho de plumas y dos rosetas de Provenza en mis zapatos calados, ¿verdad que entraria de socio en una tropa de actores?
+HORACIO
+	Con media participacion.
+HAMLET
+No, una entera. 
+Mi buen Damon, ya te he contado 
+que el reino fue muy pronto 
+de nuestro Jove despojado 
+y ahora reina un... mico. 
+HoRACIO
+	Asi no hay rima.
+HAMLET
+	¡Ah, Horacio! Mil libras a que el espectro no mintio.
+	¿Te has fijado?
+HORACIO
+	Perfectamente, Alteza.
+HAMLET
+¿Al mencionarse el veneno?
+HORACIO
+Le observe muy bien.
+
+Entran ROSENCRANTZ y GUILDENSTERN.
+
+HAMLET
+¡Aja! ¡Vamos, musica! ¡Venga, las flautas! 
+Pues si al rey no le gusta la funcion, 
+sera que no le gusta, y se acabo.
+¡Vamos, musica!
+GUILDENSTERN
+Senor, concededme un momento.
+HAMLET
+Todo un siglo.
+GUILDENSTERN
+	El rey...
+HAMLET
+Ah, si, ¿que le pasa?
+GUILDENSTERN
+Esta en sus aposentos y alterado.
+HAMLET
+¿Por el vino?
+GUILDENSTERN
+No, Alteza, de colera.
+HAMLET
+Tenias que haber sido mas sensato y decirselo a su medico, pues, si de mi depende el que se purgue, quiza se agrave su colera.
+GUILDENSTERN
+	Mi senor, poned en orden las palabras y no os aparteis tan bruscamente de mi asunto.
+HAMLET
+Estoy suave. Declama.
+GUILDENSTERN
+	Vuestra madre la reina, con el animo angustiado, me envia a vos.
+HAMLET
+Se bienvenido.
+GUILDENSTERN
+No, Alteza; esta clase de cumplido no es de buena ley. Si teneis a bien darme una respuesta sana, cumplire el encargo de vuestra madre. Si no, vuestro permiso y mi vuelta pondran fin a este asunto.
+HAMLET
+No puedo.
+GUILDENSTERN
+¿No podeis que, senor?
+HAMLET
+Darte una respuesta sana: mi cabeza esta enferma. Pero, en fin, cuantas respuestas pueda darte seran tuyas o, como dices, mas bien de mi madre. Conque basta y al grano. Mi madre, dices...
+ROSENCRANTZ
+Dice que vuestra conducta la ha sumido en el pasmo y desconcierto.
+HAMLET
+¡Que maravilla de hijo, que tanto asombra a su madre! Pero, ¿que cola trae la materna admiracion?
+ROSENCRANTZ
+Antes que os acosteis desea hablar con vos en su aposento.
+HAMLET
+Sera obedecida, asi fuera diez veces mi madre. ¿Alguna otra cosa?
+ROSENCRANTZ
+Senor, antes me apreciabais.
+HAMLET
+Y ahora tambien, por mis manos pecadoras.
+ROSENCRANTZ
+Senor, ¿a que se debe vuestro mal? Os empenais en negaros vuestra propia libertad al no confiar vuestras penas a un amigo.
+HAMLET
+Senor, no puedo medrar.
+ROSENCRANTZ
+¿Como es posible, si teneis el voto del rey para sucederle en Dinamarca? 
+HAMLET 
+Si, pero, entre tanto, «el que espera ... ». El refran ya esta pasado.
+
+Entra uno con una flauta.
+
+¡Ah, la flauta! A ver.   En confianza, ¿por que dais tantas vueltas y me ahuyentais como si me empujarais a una trampa?
+
+GUILDENSTERN
+Mi senor, si mi lealtad es tan osada, mi afecto es descortes.
+HAMLET
+No entiendo bien eso. ¿Quieres tocar esta flauta?
+GUILDENSTERN
+Senor, no se.
+HAMLET
+Te lo ruego.
+GUILDENSTERN
+Creedme, no se.
+HAMLET
+Te lo suplico.
+GUILDENSTERN
+Senor, no se tocarla.
+HAMLET
+Tan facil es como mentir. Tapa estos agujeros con los dedos y el pulgar, dale aliento con la boca y emitira una musica muy elocuente. Mira, estos son los agujeros.
+GUILDENSTERN
+Pero no sabre sacarles ninguna melodia. Me falta el arte.
+HAMLET
+Vaya, mira en que poco me tienes. Quieres hacerme sonar, parece que conoces mis registros, quieres arrancarme el corazon de mi secreto, quieres tantearme en toda la extension de mi voz; y, habiendo tanta musica y tan buen sonido en este corto instrumento, no sabes hacerle hablar. ¡Voto a ... ! ¿Crees que yo soy mas facil de tocar que esta flauta? Ponedme el nombre de cualquier instrumento; aunque me destempleis, no soltare nota.
+
+Entra POLONIO.
+
+	Dios os guarde, senor.
+POLONIO
+Senor, la reina quiere hablar con vos en seguida.
+HAMLET
+¿Veis esa nube que tanto se parece a un camello?
+POLONIO
+Por Dios que es igual que un camello.
+HAMLET
+Parece una comadreja.
+POLONIO
+El lomo es de comadreja.
+HAMLET
+¿No parece una ballena?
+POLONIO
+Igual que una ballena.
+HAMLET
+Entonces ire pronto con mi madre.   [Aparte] Me agotan el histrionismo.   Ire pronto.
+POLONIO
+Se lo dire.
+
+Sale.
+
+HAMLET
+«Pronto» se dice pronto.   Y ahora, dejadme, amigos.
+
+[Salen todos menos HAMLET.1
+
+Ya es la hora embrujada de la noche 
+en que se abren los sepulcros y el infierno 
+exhala al mundo su infeccion. Ahora beberia 
+sangre caliente y cometeria atrocidades 
+que, al verlas, el dia se estremeciera. 
+Ya basta. Ahora, con mi madre. No te corrompas, 
+corazon. Que el alma de Neron no invada mi animo 
+Pierda yo bondad, mas no sentimiento. 
+Le dire venablos, pero sin herirla. 
+Haya hipocresia entre mi alma y mi lengua. 
+Aunque la repruebe con duras palabras, 
+ponerlas por obra no quiera mi alma.
+
+Sale.
+
+III.iii Entran el REY, ROSENCRANTZ y GUILDENSTERN.
+
+REY
+No me gusta su actitud, ni conviene 
+a mi seguridad dejar tan libre su locura. 
+Asi que preparaos: os expido el nombramiento 
+y el parte a Inglaterra con vosotros. 
+Mi condicion no puede tolerar 
+un peligro tan cercano como el que engendra 
+de hora en hora su delirio. 
+GUILDENSTERN 
+Estaremos aprestados. 
+Es un desvelo sagrado y piadoso 
+proteger al sinnumero de subditos 
+que viven y se nutren de Vuestra Majestad. 
+ROSENCRANTZ 
+La vida personal esta obligada 
+a preservarse de los danos con la fuerza 
+y las armas de la mente; con mas razon 
+un espiritu de cuyo bienestar 
+dependen tantas vidas. Cuando muere un rey 
+no muere solo, sino que, cual remolino,
+arrastra cuanto le rodea. Es una rueda ingente, 
+colocada en la cima del monte mas alto, 
+en cuyos radios enormes se entallan diez mil 
+piezas menudas, de modo tal que, cuando cae, 
+todo aditamento, todo apendice acompana 
+a su ruina estrepitosa. Pues jamas 
+gimio un rey sin lamento general. 
+REY 
+Preparaos para la inminente travesia. 
+Le pondremos cadenas al peligro 
+que se mueve con tanta libertad. 
+ROSENCRANTZ y GUILDENSTERN 
+Nos apresuraremos.
+
+Salen. Entra POLONIO.
+
+POLONIO
+Senor, se dirige al aposento de su madre. 
+Yo me escondere tras los tapices 
+para oirlo. Seguro que le rine a fondo. 
+Y, como dijisteis, y dijisteis sabiamente, 
+conviene que alguien mas que una madre, 
+pues ellas son parciales por naturaleza, 
+escuche la platica a escondidas. Adios, Majestad. 
+Antes que os acosteis, pasare a veros 
+y contaros lo que sepa. 
+REY 
+Gracias, senor.
+
+Sale POLONIO.
+
+¡Ah, inmundo es mi delito, su hedor llega hasta el cielo! 
+Lleva la primera y primitiva maldicion 
+el fratricidio. Rezar no puedo.
+Fuertes son inclinacion y voluntad, 
+pero mas fuerte es la culpa, y las derrota. 
+Como un hombre enfrentado a un doble objeto, 
+dudo por cual he de empezar 
+y no emprendo ninguno. ¿Y si esta mano maldita 
+se agrandara con la sangre de un hermano, 
+no habria lluvia en los cielos piadosos 
+para dejarla mas blanca que la nieve? 
+¿Para que sirve la gracia si no es para mirar 
+al pecado cara a cara? ¿Y que hay en la oracion 
+sino el doble poder de impedirnos obrar mal 
+o perdonarnos si caemos?. Tendre animo. 
+El dano esta hecho, mas, ¿que suerte de oracion 
+me serviria? ¿«Perdona mi inmundo asesinato»? 
+Imposible, pues aun gozo de los frutos 
+por los que cometi el asesinato: 
+la corona, la reina, mi ambicion. 
+¿Nos pueden perdonar sin quitarnos el provecho? 
+En la usanza corrupta de este mundo 
+la mano dadivosa del culpable 
+desplaza a la justicia; y es sabido 
+que el propio botin compra a la ley. Mas no en el cielo: 
+alli no hay fraude, alli el acto muestra 
+su color verdadero, y nos obligan, 
+habiendo de hacer frente a nuestras faltas, 
+a declarar contra nosotros. Entonces, ¿que me resta? 
+Ver que puede el arrepentimiento. ¿Que no podra? 
+Mas, ¿que puede cuando uno ya no puede arrepentirse? 
+¡Misero estado! ¡Corazon mas negro que la muerte! 
+¡Oh, alma atrapada, que luchando por librarse 
+mas se enreda! ¡Amparadme, angeles, queredlo! 
+Doblaos, rigidas rodillas, y tu, pecho de acero, 
+se tierno como un recien nacido. 
+Tal vez sea posible.
+
+Se arrodilla
+Entra HAMLET.
+
+HAMLET
+Ahora es buen momento, esta rezando; voy a hacerlo ya.
+
+[Desenvaina.]
+
+Entonces sube al cielo 
+y esa es mi venganza. Esto hay que razonarlo. 
+Un ruin mata a mi padre, y yo, 
+su unico hijo, por ello mando al cielo 
+a ese ruin. 
+Ah, esto es paga y recompensa, no venganza. 
+Mato a mi padre en la impureza, saciado, 
+en la flor de sus culpas, en plena lozania. 
+¿Quien sabe como estan sus cuentas, salvo el cielo? 
+Mas, segun nuestro saber y modo de pensar, 
+su caso es grave. ¿Me habre vengado 
+matandole mientras el purga su alma, 
+cuando esta preparado para el transito? No. 
+Adentro, espada, y conoce sazon mas horrorosa. 
+Cuando duerma borracho o este ardiente, 
+o en el lecho del placer incestuoso, 
+blasfemando en el juego o en un acto 
+que no tenga senal de salvacion, 
+entonces le derribas; que de coces al cielo 
+y su alma sea mas negra y mas maldita 
+que el infierno adonde va. Mi madre aguarda. 
+Tu rezo los dias enfermos te alarga.
+
+Sale.
+
+REY
+Vuelan mis palabras, queda el pensamiento. 
+Palabras vacias no suben al cielo.
+
+III.iv Entran la REINA y POLONIO.
+
+POLONIO
+Viene en seguida. Censuradle a fondo. 
+Decid que sus excesos ya son insufribles 
+y que Vuestra Majestad le ha protegido 
+de las iras. No voy a hablar mas. 
+Os lo ruego, sed clara con el. 
+HAMLET [dentro] 
+¡Madre, madre, madre! 
+REINA 
+Asi lo hare. Perded cuidado. Escondeos, que ya viene.
+
+Entra HAMLET.
+
+HAMLET
+Y bien, madre, ¿que ocurre?
+REINA
+Hamlet, has ofendido mucho a tu padre.
+HAMLET
+Madre, tu has ofendido mucho a mi padre.
+REINA
+Vamos, vamos, replicas con lengua muy suelta.
+HAMLET
+Venga, venga, preguntas con lengua perversa.
+REINA
+¿Que es esto, Hamlet?
+HAMLET
+¿Que ocurre ahora?
+REINA
+¿Olvidas quien soy?
+HAMLET
+	Por la cruz, nada de eso. Eres la reina,
+	esposa del hermano de tu esposo
+y, ojala no lo fueras, pero eres mi madre.
+REINA
+Muy bien. Te mandare a quien sepa hablarte.
+HAMLET
+	Vamos, vamos, sientate. Tu no te mueves
+	ni te vas hasta que ponga frente a ti
+un espejo que te ensene tus adentros.
+REINA
+¿Que vas a hacer? ¿No iras a matarme?
+¡Ah, socorro, socorro!
+POLONIO [detras del tapiz]
+¡Ah, socorro, socorro, socorro!
+HAMLET
+¡Como! ¿Una rata? ¡Por un ducado la mato!
+
+Mata a POLONIO [atravesando el tapiz].
+
+POLONIO
+¡Ah, me han matado!
+REINA
+¡Ay de mi! ¿Que has hecho?
+HAMLET
+Pues no se. ¿Es el rey?
+REINA
+¡Ah, que locura criminal es esta!
+HAMLET
+	¿Criminal? Casi tanto, buena madre,
+como matar a un rey y casarse con su hermano.
+REINA  
+¿Matar a un rey?
+HAMLET
+Si, senora, eso he dicho.  
+Y tu, bobo, imprudente, entrometido, adios.
+Te crei tu superior. Acepta tu suerte.
+Pasarse de curioso trae peligro.  
+No te retuerzas mas las manos. Calma, sientate;
+yo sere quien te retuerza el corazon 
+si esta hecho de materia permeable 
+y la ruin costumbre no lo ha vuelto tan duro 
+que no pueda expugnarlo el sentimiento. 
+REINA 
+¿Que he hecho yo para que me hables asi 
+con lengua tan ruidosa y ofensiva? 
+HAMLET 
+Una accion tal que empana 
+el candido rubor de la decencia, 
+llama hipocresia a la virtud, quita 
+la rosa de la frente al amor puro 
+dejandole un estigma, vuelve los esponsales 
+tan falsos como juramentos de tahur. 
+Ah, tal accion que del sagrado contrato 
+arranca el alma, cambiando en palabreria 
+la santa religion. El cielo enrojece 
+sobre esta solida esfera y, con triste semblante, 
+como si aguardara el Dia del Juicio, 
+esta angustiado por tu accion. 
+REINA 
+¡Ay de mi! ¿Que accion, 
+que se anuncia tronando y rugiendo? 
+HAMLET 
+Mira este retrato, y ahora este; 
+imagenes son de dos hermanos. 
+Ve la gallardia de este rostro, 
+los rizos de Hiperion, la frente de Jupiter, 
+los ojos de Marte, que ordenan o amenazan; 
+el porte de Mercurio el mensajero 
+posandose en una montana sublime.
+En verdad, una alianza y una forma 
+en que los dioses dejaron su sello 
+para ratificar lo que es un hombre. 
+el fue tu marido. Mira lo que sigue. 
+Este es tu marido, espiga podrida 
+que infecta a su hermano. ¿Tienes ojos? 
+¿Dejaste de pastar en tan hermoso monte 
+para cebarte en este paramo? ¿Eh? ¿Tienes ojos? 
+No lo llames amor, pues a tu edad 
+el ardor de la sangre esta amansado 
+y se somete al juicio. ¿Y que juicio 
+llevaria de este a este? ¿Que demonio 
+te ha enganado a la gallina ciega? 
+¡Ah, vergüenza! ¿Y tu rubor? Ardiente infierno, 
+si te inflamas en cuerpo de matrona, 
+en la fogosa juventud la castidad 
+sea como cera y en su fuego se derrita. 
+No hables de impudicia si se enciende 
+la indomita pasion cuando el hielo tambien arde 
+y la razon sirve al deseo. 
+REINA 
+¡Ah, Hamlet, no sigas! Me vuelves 
+los ojos hacia el fondo de mi alma, 
+y en ella veo manchas negras y profundas 
+que no pueden borrarse. 
+HAMLET 
+No, viviran 
+en la nausea y el sudor de una cama pringosa, 
+cociendose en el vicio y la inmundicia 
+entre arrullos y ternezas. 
+REINA . 
+¡No sigas hablando! Cual punales 
+tus palabras me traspasan los oidos. 
+¡Basta, buen Hamlet! 
+HAMLET
+Un asesino, un infame; 
+un canalla que no llega a los talones 
+del que fue tu marido; un payaso de rey, 
+el ratero del reino y el poder, 
+que robo la corona del estante 
+para echarsela al bolsillo...
+REINA 
+¡Basta! 
+HAMLET 
+Un rey de parches y pingajos...
+
+Entra el ESPECTRO en ropa de noche
+
+¡Salvadme y envolvedme en vuestras alas, 
+angeles del cielo! ¿Que deseas, noble figura? 
+REINA 
+¡Ay, esta loco! 
+HAMLET 
+¿Vienes a renirle a tu hijo indolente 
+que, dejando pasar tiempo y fervor, 
+no pone por obra tu fiero mandato? ¡Habla! 
+ESPECTRO 
+No lo olvides. Esta aparicion 
+solo quiere aguzar tu embotado proposito. 
+Pero mira el desconcierto de tu madre. 
+Interponte entre ella y su alma en lucha. 
+La imaginacion de los mas debiles 
+opera con mas fuerza. Hablale, Hamlet. 
+HAMLET 
+¿Como estas, madre? 
+REINA 
+¡Ah! ¿Como estas tu, 
+que clavas la mirada en el vacio 
+y conversas con el aire incorporeo? 
+Por tus ojos asoma tu animo agitado
+y, como guerreros despertados por la alarma, 
+tu liso cabello se levanta cual si fuera 
+una excrecencia viviente. ¡Ah, hijo mio! 
+Rocia el fuego y ardor de tu mal 
+con la fria quietud. ¿Que es lo que miras? 
+HAMLET 
+¡A el, a el! ¡Mira que semblante demacrado! 
+Si predicase a las piedras, su causa 
+y su figura las ablandaria.   No me mires, 
+no sea que tu acto compasivo 
+cambie mi duro proposito. Mi objeto 
+perderia su color: llanto en vez de sangre. 
+REINA 
+¿A quien le dices eso? 
+HAMLET 
+¿No ves nada ahi? 
+REINA 
+No, nada; aunque veo todo lo que hay. 
+HAMLET 
+¿Ni has oido nada? 
+REINA 
+No, solo nuestras voces. 
+HAMLET 
+¡Ah, mira! ¡Ve como se aleja! 
+¡Mi padre, vestido como en vida! 
+¡Mira como sale por la puerta!
+
+Sale el ESPECTRO.
+
+REINA 
+No es mas que un ensueno de tu mente. 
+El delirio es muy habil 
+en crear apariciones. 
+HAMLET 
+¿Delirio?
+Mi pulso late acompasado como el tuyo 
+y da una musica tan sana. No es locura 
+lo que he dicho. Ponme a prueba y yo 
+repetire mis palabras, de lo cual 
+huiria la locura. Madre, por el cielo, 
+no pongas un balsamo a tu alma 
+que muestre mi demencia y no tu culpa. 
+Sera una fina piel sobre la llaga, 
+mientras, invisible, la inmunda podredumbre 
+por dentro todo infecta. Confiesate al cielo, 
+llora el pasado, evita tentaciones; 
+no quieras abonar la mala hierba 
+y hacerla mas frondosa. Perdona mi virtud, 
+pero en estos tiempos de molicie y saciedad 
+la virtud ha de excusarse con el vicio 
+e implorar que le deje socorrerle. 
+REINA 
+¡Ah, Hamlet! Me has partido en dos el corazon. 
+HAMLET 
+Pues tira la peor parte 
+y con la otra mitad vive mas pura. 
+Buenas noches. No vayas al lecho de mi tio. 
+Aparenta virtud, aunque no tengas. 
+Esta noche abstente; 
+eso dara mayor facilidad 
+a la proxima abstinencia. Buenas noches otra vez. 
+Cuando ruegues la divina bendicion, 
+yo te pedire la tuya.   En cuanto a este caballero, 
+lo siento de veras. Pero el cielo ha querido, 
+haciendome su azote y su verdugo, 
+castigarme a mi con el y a el conmigo. 
+Le sacare de aqui y respondere 
+de su muerte. Una vez mas, buenas noches. 
+Tengo que ser cruel solo por afecto. 
+Lo peor vendra; esto es el comienzo.
+REINA 
+¿Que puedo hacer?
+HAMLET
+De ningun modo lo que yo te diga: 
+dejar que el flaccido rey te atraiga a su lecho, 
+te pellizque la cara, te llame paloma 
+y que, por un par de besos inmundos, 
+o sobandote el cuello con sus dedos malditos, 
+consiga que le aclares el enigma: 
+que, en realidad, toda mi locura 
+es fingimiento. Estaria bien decirselo. 
+¿Podria una reina gentil, modosa, prudente, 
+ocultarle cuestiones de tal entidad 
+a un sapo, un murcielago, un morrongo? 
+¿Podria? No: a despecho de juicio y reserva, 
+abre la jaula en el tejado, deja volar 
+a los pajaros y, como el celebre mono, 
+haz la prueba metiendote en la jaula 
+y estrellate al caer. 
+REINA 
+Si el habla es aliento, y el aliento, vida, 
+te aseguro que vida no tendre 
+para contar lo que has dicho. 
+HAMLET 
+He de ir a Inglaterra. ¿Lo sabias? 
+REINA 
+¡Ah, lo habia olvidado! Esta decidido.
+HAMLET 
+este va a adelantarme el viaje. 
+Le arrastrare el pellejo a la otra estancia. 
+Madre, buenas noches ya. Este dignatario, 
+que en vida fue un torpe y servil palabrero, 
+ahora es un sepulcro callado y secreto. –
+Vamos, senor, acabemos el asunto. –
+Buenas noches, madre.
+
+Sale arrastrando a POLONIO.
+
+
+IV.i Entra el REY.
+
+REY
+Algo hay en tus suspiros y sollozos. 
+Tienes que explicarmelo. Es propio que lo sepa. 
+¿Donde esta tu hijo? 
+REINA 
+¡Ay, esposo, lo que he visto esta noche! 
+REY 
+¡Pobre Gertrudis! ¿Como esta Hamlet? 
+REINA 
+Mas loco que el viento y el mar cuando ambos 
+luchan a porfia. En su paroxismo, 
+al ver que algo se movia tras el tapiz, 
+desenvaina gritando «¡Una rata, una rata!» 
+y en su frenetica ilusion ha matado 
+al pobre anciano alli escondido. 
+REY 
+¡Ah, grave accion! 
+De haber estado alli, habria sido mi muerte. 
+Su libertad es una amenaza: 
+para ti, para mi, para todos. 
+¿Y como defender tal acto de violencia? 
+Yo sere el responsable: por prevision 
+tenia que haber atado corto y recluido 
+al joven demente. Mas tanto era mi afecto 
+que no quise entender lo inexcusable 
+y, como el que padece una inmunda dolencia, 
+por no divulgarlo, he dejado 
+que corrompa hasta el tuetano. ¿Adonde ha ido? 
+REINA 
+A llevarse el cadaver de su victima, 
+con quien su demencia, como veta de oro 
+en una mina de viles metales, 
+se muestra pura y llora lo ocurrido.
+
+REY
+Ven, Getrudis, 
+Antes de que el sol toque la montana 
+ya le habre embarcado. A este acto vil 
+habre de hacerle frente y excusarlo 
+con toda majestad y diplomacia.   ¡Guildenstern!
+
+Entran ROSENCRANTZ y GUILDENSTERN.
+
+Amigos, procuraos mas ayuda. 
+En su demencia, Hamlet ha matado a Polonio 
+y le ha sacado a rastras del cuarto de su madre. 
+Buscadle, habladle cortesmente y llevad 
+el cuerpo a la capilla. Os lo ruego, daos prisa.
+
+Salen ROSENCRANTZ y GUILDENSTERN.
+
+Ven, Gertrudis; reunamos a los sabios amigos 
+e informemosles de esta desgracia 
+y de nuestras decisiones. ¡Ven ya, vamos! 
+Mi alma esta llena de angustia y desanimo.
+
+Salen.
+
+IV.ii Entra HAMLET.
+
+HAMLET
+A buen recaudo.
+ROSENCRANTZ y GUILDENSTERN [dentro] 
+¡Hamlet! ¡Principe Hamlet!
+HAMLET
+¿Que ruido es ese? ¿Quien llama a Hamlet? ¡Ah, aqui estan!
+
+Entran ROSENCRANTZ y GUILDENSTERN.
+
+ROSENCRANTZ
+Senor, ¿que habeis hecho con el cadaver?
+HAMLET
+Mezclarlo con el polvo, su pariente.
+ROSENCRANTZ
+Decidnos donde esta, para sacarlo
+y llevarlo a la capilla.
+HAMLET
+Ni lo creais.
+ROSENCRANTZ
+¿Creer que?
+HAMLET
+Que puedo guardar vuestro secreto y no el mio. Ademas, si me interroga una esponja, ¿que respuesta puede dar el hijo de un rey?
+ROSENCRANTZ
+¿Me tomais por una esponja, senor?
+HAMLET
+Si, que chupa el favor del rey, sus recompensas, sus poderes. Al final, quien mejor sirve al rey sois vosotros; como un mono, el os guarda en un rincon de su mandibula: primero os saborea y luego os traga. Cuando necesite lo que hayas indagado, te exprime y la esponja vuelve a quedar seca.
+ROSENCRANTZ
+No os entiendo, senor.
+HAMLET
+Me alegro. Palabra punzante no entra en oido de necio.
+ROSENCRANTZ
+Senor, teneis que decirnos donde esta el cuerpo y venir con nosotros ante el rey.
+HAMLET
+El cuerpo esta con el rey, pero el rey no esta con el cuerpo. El rey es una cosa.
+GUILDENSTERN 
+Senor, ¿una cosa? 
+HAMLET 
+Una cosa de nada. Llevadme a el. ¡Que te pillo, escondete!.
+
+Salen.
+
+IV.iii Entra el REY.
+
+REY
+He mandado buscarle y hallar el cadaver. 
+Es un peligro dejar que siga libre. 
+Mas no conviene que le caiga todo el peso 
+de la ley: le quiere la confusa multitud, 
+que no ama con el juicio, sino con los ojos, 
+y atiende al sufrimiento del culpable, 
+no a la culpa. Para evitar sobresaltos, 
+su marcha repentina debe parecer 
+decision bien ponderada. Dolencias extremas 
+exigen remedios extremos o jamas se curan.
+
+Entra ROSENCRANTZ.
+
+¿Que hay? ¿Que ha ocurrido?
+ROSENCRANTZ
+Senor, se niega a decirnos
+donde ha dejado el cadaver.
+REY
+	¿Y el donde esta?
+ROSENCRANTZ
+Fuera, vigilado y esperando vuestra orden.
+REY
+Traedle a mi presencia.
+ROSENCRANTZ
+¡Guildenstern! Trae al principe.
+
+Entran HAMLET, GUILDENSTERN [ y acompanamiento].
+
+REY
+Bien, Hamlet, ¿donde esta Polonio?
+HAMLET
+De cena.
+REY
+¿De cena? ¿Donde?
+HAMLET
+No donde come, sino donde es comido: tiene encima una asamblea de gusanos politicos. El gusano es el gran emperador de la dieta. Nosotros engordamos engordando animales, y asi estamos gordos para los gusanos. El rey gordo y el mendigo flaco son dos viandas posibles: dos platos, la misma mesa. Ahi se acaba.
+REY
+¿Que quieres decir con eso?
+HAMLET
+	Nada, solo mostraros como un rey puede viajar por las tripas de un mendigo.
+REY
+	¿Donde esta Polonio?
+HAMLET
+En el cielo. Mandad que le busquen. Si alli no le encuentra el mensajero, buscadle vos mismo en el otro sitio. Si no le encontrais de aqui a un mes, os llegara el olor al
+	subir a la galeria.
+REY
+	¡Buscadle alli!
+HAMLET
+	Os estara esperando.
+
+[Salen algunos del acompanamiento.]
+
+REY
+Hamlet, por tu propia seguridad,
+	que tanta inquietud me produce
+	como llanto lo que has hecho, tu accion
+	exige tu marcha inmediata. Preparate,
+	La nave esta presta, el viento acompana,
+	te aguarda la escolta y todo esta a punto
+	para ir a Inglaterra.
+HAMLET
+	¿Inglaterra?
+REY
+	Si, Hamlet.
+HAMLET
+Bueno.
+REY
+	Asi lo veras cuando sepas mi intencion.
+HAMLET
+	Veo un querubin que ya la ha visto.   Bueno, vamos.
+	¡A Inglaterra! Adios, querida madre.
+REY
+	Tu tierno padre, Hamlet.
+HAMLET
+	Madre. Padre y madre son marido y mujer, marido y mujer son una carne, asi que madre.   Vamos. ¡A Inglaterra!
+
+Sale.
+REY 
+Seguidle de cerca; embarcadle sin demora. 
+No os retraseis: le quiero fuera esta noche. 
+En marcha, que, en lo que atane a este asunto, 
+todo esta ultimado. Daos prisa.
+
+Salen todos menos el REY.
+
+Inglaterra, si mi afecto en algo tienes 
+(como tal vez te aconseje nuestra fuerza, 
+pues la cicatriz de nuestro acero danes 
+aun sigue roja, y nos pagas tributo 
+de buen grado), no puedes tratar con ligereza 
+mi real orden que, en carta especial 
+y por extenso, reclama encarecidamente 
+la muerte inmediata de Hamlet. Hazlo, Inglaterra, 
+pues el, como fiebre, me quema la sangre 
+y tu eres mi cura. Mientras no este hecho, 
+nada me traera dicha ni contento.
+
+Sale.
+
+IV.iv Entra FORTINBRaS con su ejercito.
+
+FORTINBRaS 
+Capitan, al rey danes presenta mis respetos. 
+Dile que, segun nos concedio, Fortinbras 
+reclama la escolta prometida 
+para cruzar su reino. Sabes donde nos reunimos. 
+Si Su Majestad quiere algo de mi, 
+le expresare mi lealtad en su presencia. 
+Hazselo saber. 
+CAPITaN 
+Asi lo hare, senor.
+FORTINBRaS 
+Marchad seguros.
+
+Salen. 
+
+IV.v Entran la REINA y HORACIO.
+
+REINA 
+No quiero hablar con ella. 
+HORACIO 
+Insiste en veros, desvaria. Su estado da pena. 
+REINA 
+¿Que quiere? 
+HORACIO 
+Habla mucho de su padre, de las trampas 
+de este mundo; balbucea y se da 
+golpes de pecho; se ofende por minucias; 
+habla sin concierto. Lo que dice es absurdo, 
+mas lleva a quien la oye a interpretar 
+su incoherencia. Se hacen conjeturas; 
+amoldan a su idea las palabras que juntan, 
+las cuales, a juzgar por los gestos y los guinos, 
+darian pie a sospechas que, aun siendo 
+infundadas, serian maliciosas. 
+REINA 
+Habra que hablar con ella, no sea que siembre 
+dudas peligrosas en mentes malevolas. 
+Hazla pasar.
+
+[HORACIO se dirige a la puerta.]
+
+[Aparte] En mi alma enferma, pues vive en pecado, 
+cualquier naderia predice un gran dano. 
+La culpa no sabe fingir su recelo 
+y al fin se traiciona queriendo esconderlo.
+
+Entra OFELIA tocando un laud, con el pelo suelto y cantando.
+
+OFELIA
+¿Donde esta la hermosa majestad de Dinamarca?
+REINA
+¿Que ocurre, Ofelia? 
+OFELIA [canta] 
+¿Como conocere a tu amor 
+entre los demas? 
+Con venera y con bordon 
+y sandalias va. 
+REINA
+¡Ah, pobre Ofelia! ¿A que viene esa cancion?
+OFELIA
+¿Deciais? Atended, os lo ruego.
+	[Canta]	Ya murio, senora, y se fue,
+			ya murio y se fue:
+			cesped a su cabecera
+			y piedra a sus pies.
+REINA
+Pero, Ofelia...
+OFELIA
+Atended, os lo ruego.
+[Canta] Su mortaja, blanquisima...
+
+Entra el REY.
+
+REINA
+¡Ah, mirala, esposo!
+OFELIA [canta] 
+... cubierta de flor, 
+a la tumba fue sin llevar 
+lagrimas de amor.
+
+REY 
+¿Como estas, linda Ofelia? 
+OFELIA 
+Bien, Dios os lo pague. Cuentan que la lechuza era la hija de un panadero. ¡Senor! Sabemos lo que somos, no lo que podemos ser. ¡Dios bendiga vuestra mesa! 
+REY 
+Fantasea sobre su padre. 
+OFELIA 
+Os lo ruego, no hablemos de esto. Cuando os pregunten que significa, decid: 
+[Canta] «Manana es el dia de San Valentin, 
+temprano, al amanecer, 
+y yo estare en tu balcon; 
+tu enamorada sere.»
+
+Entonces el se levanto y vistio 	
+y a la doncella hizo entrar 
+que de su alcoba doncella 
+ya nunca saldria jamas.
+
+REY
+Linda Ofelia...
+OFELIA
+Pues si, y sin blasfemar le pondre fin:
+[Canta]	¡Jesus, caridad cristiana! 
+Vergüenza le tiene que dar. 
+Si puede, un joven te goza: 
+¡Su potra, eso esta mal!
+«Juraste antes de tumbarme 
+hacer de mi tu mujer.» 
+«¡Y ya lo serias si en mi cama 
+no te llegas a meter!»
+
+REY
+¿Cuanto hace que esta asi?
+OFELIA
+Espero que todo ira bien. Hay que tener paciencia. Pero lloro sin remedio de pensar que lo enterraron en la fria tierra. Mi hermano ha de saberlo. Asi que gracias por el buen consejo. ¡Vamos, mi carruaje! Buenas noches, senoras, buenas noches, buenas noches.
+
+Sale.
+
+REY
+Siguela de cerca. Vigilala bien, te lo ruego.
+
+[Sale HORACIO.]
+
+Ah, este es el veneno de la honda tristeza; 
+todo viene de la muerte de su padre. ¡Ah, Gertrudis! 
+Las penas nunca vienen como espias de avanzada, 
+sino en batallones. Primero, su padre muerto; 
+despues, tu hijo ausente, el mas violento autor 
+de su propia partida; el pueblo, enturbiado, 
+revuelto con tantas sospechas y rumores 
+sobre la muerte de Polonio (y fue una ingenuidad 
+enterrarle bajo mano); la pobre Ofelia, 
+trastornada y privada de razon, 
+sin la cual todos somos pinturas o animales; 
+por ultimo, y peor que todo lo demas, 
+su hermano ha regresado de Francia en secreto, 
+se nutre de su asombro, vive en la penumbra 
+y no le faltan chismosos que le infectan 
+los oidos con infundios sobre la muerte de su padre.
+En tal apuro, y escaseando los hechos, 
+no dudaran en acusar a mi persona 
+en sus rumores. Querida Gertrudis, 
+todo esto, cual disparos de metralla, 
+me da muerte superflua en muchas partes.
+
+Ruido dentro. Entra un MENSAJERO.
+
+REINA
+¡Ah! ¿Que ruido es ese?
+REY
+¡Mi guardia suiza! ¡Que defiendan la puerta! 
+¿Que ocurre? 
+MENSAJERO 
+Salvaos, senor. 
+El oceano, rebasando sus orillas, 
+no sumerge los llanos con mas impetu 
+que Laertes, con sus amotinados, arrolla 
+a vuestra guardia. La chusma le llama senor 
+y, cual si el mundo fuese a empezar hoy 
+y no hubiera costumbres ni pasado 
+(garantia y sosten de las palabras), 
+gritan: «¡Elijamos nosotros!. ¡Laertes sera rey!» 
+Al cielo vuelan gorros, aplausos y vitores: 
+«¡Laertes sera rey, Laertes rey!» 
+REINA 
+¡Que alegres ladran tras la pista falsa! 
+¡Rastreais al reves, perros daneses!
+
+Ruido dentro.
+
+REY
+¡Han roto las puertas!
+
+Entra LAERTES con sus SECUACES.
+
+LAERTES
+¿Donde esta ese rey?   Quedaos todos fuera.
+SECUACES
+No, entremos.
+LAERTES
+Dejadme, os lo ruego.
+SECUACES
+Muy bien, senor.
+LAERTES
+Gracias. Guardad la puerta.
+
+[Salen loS SECUACES.]
+
+¡Ah, vil rey! ¡Dadme a mi padre!
+REINA
+Quieto, buen Laertes.
+LAERTES
+La gota de mi sangre que este quieta 
+me acusara de bastardo, gritara «cornudo» 
+a mi padre y pondra el estigma de ramera 
+en la frente casta y pura de mi madre. 
+REY 
+Laertes, ¿cual es el motivo 
+de esta rebelion tan gigantesca? –
+Sueltale, Gertrudis. No te inquiete mi persona. 
+Hay tal divinidad guardando a un rey 
+que la traicion apenas si vislumbra su objetivo 
+y no llega a actuar.   Laertes, dime 
+lo que tanto te ha inflamado.   Sueltale, Gertrudis. –
+Habla ya. 
+LAERTES 
+¿Donde esta mi padre? 
+REY 
+Muerto. 
+REINA 
+Pero no a sus manos. 
+REY 
+Que pregunte a placer.
+LAERTES
+¿Como murio? Nada de trampas. 
+¡Al infierno la lealtad! ¡Al mas negro diablo 
+juramentos! ¡Al mas profundo abismo 
+la gracia y la conciencia! No temo condenarme. 
+A tal punto he llegado que no me importa nada 
+esta vida, la otra, cualquier cosa: 
+tomare plena venganza por mi padre. 
+REY 
+¿Quien te frenara? 
+LAERTES 
+Juro que ni el mundo entero. 
+Y mis medios voy a administrarlos 
+de modo que lo poco rinda mucho. 
+REY 
+Buen Laertes, si deseas conocer 
+la verdad de la muerte de tu padre, 
+¿esta escrito en tu venganza que tu juego 
+barra de monton a amigo y enemigo, 
+al que gane y al que pierda? 
+LAERTES 
+Solo a sus enemigos. 
+REY 
+¿Quieres conocerlos? 
+LAERTES 
+A sus amigos les abro los brazos 
+y, como el pelicano, generoso les dare 
+vida y alimento con mi sangre. 
+REY 
+Ahora hablas 
+como un buen hijo y todo un caballero. 
+Que soy inocente de la muerte de tu padre 
+y la he llorado con honda tristeza
+entrara tan de lleno en tu razon 
+como el dia en tus ojos.
+
+Ruido dentro.
+
+VOCES [dentro] 
+¡Dejadla pasar! 
+LAERTES 
+¿Eh? ¿Que ruido es ese?
+
+Entra OFELIA como antes.
+
+¡Fiebre, secame el cerebro! ¡Lagrimas amargas, 
+quemadme el sentido y poder de mis ojos! 
+Juro que tu demencia sera pagada en peso 
+hasta que la balanza se incline de mi lado. 
+¡Rosa de mayo, querida doncella, hermana, Ofelia! 
+¡Dios! ¿Es posible que un juicio tan tierno 
+sea tan mortal como la vida de un anciano? 
+El amor nos perfecciona, y nos hace 
+enviar una valiosa parte nuestra 
+tras el ser al que amamos. 
+OFELIA [canta]
+Su ataud descubierto va, 
+ay, nony, nony, no, nony, no, 
+y en la tumba le lloran ya. 
+Adios, mi paloma. 
+LAERTES 
+Si estuvieras en tu juicio y clamases venganza, 
+no conmoverias tanto. 
+OFELIA 
+Vos cantad «Do re do», y vos «Do re fa». ¡Ah, que bien le va el estribillo! El perfido mayordomo rapto a la hija del amo.
+LAERTES
+Ese absurdo dice mucho.
+OFELIA
+Esto es romero, para recordar. Acuerdate, amor. Y esto pensamientos, para pensar.
+LAERTES
+La leccion de la locura: ajusta el pensamiento y el recuerdo.
+OFELIA
+Esto es hinojo, para vos, y aguilena. Y esto ruda, para vos; y una poca para mi. Los domingos la llamamos hierba de la gracia. ¡Ah, vos llevad la ruda por otro motivo! Esto es una margarita. Os daria violetas, pero todas se mustiaron al morir mi padre; dicen que tuvo buena muerte.
+[Canta] Pues Robin el guapo es mi ilusion. 
+LAERTES
+Pesadumbre y tristeza, dolor, el infierno, 
+ella los convierte en dulzura y encanto.
+
+OFELIA [canta]
+¿Y ya nunca volvera? 
+¿Y ya nunca volvera? 
+No, no, no, muerto esta, 
+y tu muere ya,
+pues el jamas volvera.
+
+La barba, niveo blancor, 
+el pelo, rubio color; 
+Ya murio, ya murio. 
+¿A que mas dolor? 
+Acoja su alma Dios. Y todas las almas cristianas, si Dios quiere. Adios.
+
+Sale.
+
+LAERTES 
+¿Ves esto, Dios? 
+REY 
+Laertes, debo compartir tu pena; 
+no me niegues mi derecho. Ahora sal 
+y escoge a tus amigos mas juiciosos 
+para que oigan y arbitren entre tu y yo. 
+Si me creen implicado, de manera 
+personal o coligada, yo, en desagravio, 
+te dare mi reino, mi vida, mi corona 
+y todo lo que es mio. Mas, si no es asi, 
+accede a dispensarme tu paciencia 
+y obrare en alianza con tu alma 
+por dejarte satisfecho. 
+LAERTES 
+Conforme. El modo 
+en que murio, su oscuro entierro (sin emblema, 
+espada, ni blason sobre sus restos, 
+rito noble o ceremonia funeral); 
+todo esto clama tanto del cielo a la tierra 
+que exijo que se indague. 
+REY
+Asi se hara; 
+y donde haya crimen, el hacha caera. 
+Te lo ruego, ven conmigo.
+
+Salen.
+
+IV.vi Entra HORACIO con un CRIADO.
+
+HORACIO
+¿Quienes son los que quieren hablarme? 
+CRIADOS
+Marineros, senor. Dicen que os traen una carta. 
+HORACIO
+Que pasen.
+
+[Sale el CRIADO.]
+
+No se quien en todo el mundo 
+va a escribirme, si no es el propio Hamlet.
+
+Entran loS MARINEROS.
+
+MARINERO 1.0
+Dios os guarde, senor.
+HORACIO 
+Igualmente.
+MARINERO 1.0
+el os oiga. Senor, os traigo esta carta de parte del embajador que iba a Inglaterra, si, como me han hecho saber, vuestro nombre es Horacio.
+HORACIO [lee]
+«Horacio: Cuando hayas leido esto, haz que estos hombres tengan acceso al rey. Traen carta para el. No llevabamos dos dias en el mar cuando un barco pirata bien armado nos dio caza. Al ser lentas nuestras velas, hubimos de mostrarnos animosos, y en el choque lo aborde. Al instante se soltaron de nuestro barco, y yo quede su solo prisionero. Me han tratado cual ladrones compasivos. Pero saben lo que hacen: tengo que pagarles el favor. Que el rey lea la carta que le mando, y reunete conmigo tan deprisa como huirias de la muerte. Te dire algo al oido que, aunque sea muy leve para el calibre del hecho, te va a dejar sin habla. Estos buenos hombres te llevaran donde estoy. Rosencrantz y Guildenstern siguen con rumbo a Inglaterra. De ellos tengo mucho que contarte. Adios.
+
+Siempre tuyo,
+																Hamlet.»
+
+Venid, dare curso a vuestra carta 
+y, por cierto, a toda prisa, pues habeis 
+de llevarme al que os la dio.
+
+Salen.
+
+IV.vii Entran el REY y LAERTES.
+
+REY
+Tu conciencia debe ahora sancionar 
+mi absolucion, y tu pecho acogerme como amigo, 
+pues has podido oir y comprobar 
+que el hombre que mato a tu noble padre 
+atentaba contra mi. 
+LAERTES 
+
+Es evidente. Mas decidme 
+por que no procedisteis contra hechos 
+tan graves y tan ciertos de pena capital, 
+cuando a ello tanto os obligaban 
+vuestra seguridad, prudencia y mas motivos. 
+REY 
+Por dos razones especiales 
+que, aunque a ti te parezcan harto endebles, 
+tienen fuerza para mi. Su madre, la reina, 
+le idolatra y, en lo que a mi respecta 
+(sea mi suerte o mi desgracia, no se cual), 
+tal es mi conjuncion con ella en cuerpo y alma 
+que, cual astro que solo gira dentro de su esfera, 
+yo fuera de ella no existo. La otra razon 
+para no haber hecho cargos publicos 
+es el carino que las gentes le profesan: 
+un afecto que, sumergiendo sus delitos,
+cambiaria sus culpas en virtudes 
+cual la fuente que transmuta en piedra la madera. 
+Asi, mis flechas, de ingravida vara 
+para viento tan fuerte, habrian regresado 
+a mi arco sin hacer diana. 
+LAERTES 
+Y yo me encuentro sin mi noble padre 
+y a mi hermana en condiciones angustiosas, 
+que, si elogio lo que fue, desde una cumbre 
+podia haber retado al mundo entero 
+a emular sus perfecciones. Mas ya me vengare. 
+REY 
+Por eso no pierdas el sueno. No creas 
+que estoy hecho de sustancia tan inerte 
+que dejo que el peligro me tire de la barba 
+y lo tomo a simple juego. Pronto has de oir mas. 
+Yo queria a tu padre, y me quiero a mi mismo, 
+y esto espero que te ensene a imaginar...
+
+Entra un MENSAJERO.
+
+	¿Que pasa? ¿Hay noticias?
+MENSAJERO
+Senor, cartas de Hamlet.
+	esta para Vuestra Majestad, esta para la reina.
+REY
+	¿De Hamlet? ¿Quien las ha traido?
+MENSAJERO
+Senor, dicen que marineros. Yo no los vi.
+	Me las dio Claudio; el las recibio.
+REY
+Laertes, tu has de oirlo.  
+Dejanos.
+
+Sale el MENSAJERO.
+
+[Lee] «Excelsa Majestad: Sabed que, despojado, he puesto pie en vuestro reino. Manana he de pediros licencia para presentarme ante vos y, con vuestra venia, exponeros las razones de mi pronto e insolito regreso.
+Hamlet.» 
+¿Que significa esto? ¿Han vuelto los demas? 
+¿O es alguna trampa y todo es falso? 
+LAERTES 
+¿Conoceis la letra? 
+REY 
+Es la de Hamlet. «Despojado.» 
+Y en posdata dice «solo». ¿Te lo explicas? 
+LAERTES 
+Senor, no entiendo nada. Pero que venga. 
+Alivia la dolencia de mi pecho 
+pensar que vivire para decirle a la cara: 
+«¡Asi mataste!» 
+REY 
+Laertes, en tal caso (y parece extrano, pero cierto), 
+¿dejaras que yo te guie? 
+LAERTES 
+Si, mientras no me desvieis hacia la paz. 
+REY 
+Hacia tu paz. Si ahora ha regresado 
+tras cortar su travesia y no piensa 
+reemprenderla, le inducire 
+a un encuentro cuya trama esta madura 
+y en el cual sin remedio ha de caer. 
+Por su muerte no habra un halito de culpa: 
+ni su madre advertira la mana 
+y la creera un accidente. Hace unos dos meses 
+estuvo aqui un caballero normando. 
+Yo he visto a los franceses, he luchado contra ellos, 
+y son diestros a caballo, pero este valiente 
+tenia magia. Clavado a la silla, 
+conseguia del animal tales prodigios 
+cual si fuese un solo cuerpo con la bestia
+y de su especie por mitad. Tanto rebasaba 
+mi inventiva que yo, imaginando piruetas, 
+quedaba atras de las suyas. 
+LAERTES 
+¿Normando deciais? 
+REY 
+Normando. 
+LAERTES 
+Seguro que Lamord. 
+REY 
+El mismo. 
+LAERTES 
+Le conozco bien. Es la gala y la gema de su tierra. 
+REY 
+Dio testimonio de ti 
+y alabo de tal modo tu destreza 
+en el arte y ejercicio de la esgrima, 
+sobre todo tu dominio del estoque, 
+que exclamo: «¡Que espectaculo seria 
+si el tuviera un rival!» Este elogio 
+enveneno de envidia a Hamlet, a tal punto 
+que no hacia sino pedir y desear 
+tu rapido regreso por luchar contra ti. 
+De todo esto... 
+LAERTES 
+De todo esto, ¿que, senor? 
+REY 
+Laertes, ¿no querias a tu padre? 
+¿O eres como imagen del dolor, 
+como un rostro sin alma? 
+LAERTES 
+¿Por que lo preguntais?
+REY
+No es que crea que no querias a tu padre; 
+es que se que el amor esta sujeto al tiempo 
+y veo, pues lo prueba la experiencia, 
+que el tiempo le resta su fuego y ardor. 
+Hamlet regresa. ¿A que estarias dispuesto 
+por mostrar, mas en hechos que en palabras, 
+que eres digno de tu padre? 
+LAERTES 
+A degollarlo en la iglesia. 
+REY 
+Ni al crimen debe darse refugio en sagrado, 
+ni poner freno a la venganza. Mas, buen Laertes, 
+si piensas actuar, permanece en tu aposento. 
+Hamlet sabra que has regresado. 
+Hare que algunos elogien tu excelencia 
+y den doble barniz al gran renombre 
+que el frances te dispenso, os junten finalmente 
+y arreglen las apuestas sobre ambos. 
+El, como es despreocupado, noble e incapaz 
+de estratagemas, no mirara las armas; asi, 
+con sutileza de manos, te sera facil 
+escoger una espada con punta
+y, de una artera estocada, desquitarte. 
+LAERTES 
+Lo hare; y a ese fin 
+untare mi espada de veneno. 
+Le compre un ungüento a un charlatan, 
+tan mortal que un cuchillo en el mojado 
+donde hiere no hay emplasto milagroso 
+compuesto con las hierbas mas energicas 
+del mundo que salve de la muerte 
+a quien solo haya aranado. Pondre el veneno
+en la punta y bastara con que le roce 
+para que sea su muerte. 
+REY 
+Lo estudiaremos. Pondera 
+que momento y que medios favorecen 
+nuestro objeto. Si este fracasara 
+y nuestra mala actuacion mostrase el plan, 
+mas valdria no intentarlo. Por tanto, a tu proyecto 
+hay que anadirle otro de reserva 
+por si fuera a malograrse. Espera, a ver. 
+Hare una apuesta solemne por vuestra maestria. 
+Eso es. Cuando el esfuerzo os de calor y sed 
+(y habras de hacer mas violentos los asaltos), 
+y el pida de beber, le tendre preparada 
+una copa a proposito; con que la sorba, 
+aunque escape a tu golpe envenenado, 
+nuestro plan se habra cumplido.
+
+Entra la REINA.
+
+¿Que hay, querida esposa?
+
+REINA
+Una pena le pisa los talones a la otra; 
+tan rapido se siguen.   Laertes, tu hermana se ha ahogado 
+LAERTES 
+¿Ahogado? ¿Donde? 
+REINA 
+Sobre un arroyo, inclinado crece un sauce 
+que muestra su palido verdor en el cristal. 
+Con sus ramas hizo ella coronas caprichosas 
+de ranunculos, ortigas, margaritas, y orquideas 
+a las que el llano pastor da un nombre grosero 
+y las jovenes castas llaman «dedos de difunto». 
+Estaba trepando para colgar las guirnaldas 
+en las ramas pendientes, cuando un perfido mimbre 
+cedio y los aros de flores cayeron con ella 
+al rio lloroso. Sus ropas se extendieron,
+llevandola a flote como una sirena; 
+ella, mientras tanto, cantaba fragmentos 
+de viejas tonadas como ajena a su trance 
+o cual si fuera un ser nacido y dotado 
+para ese elemento. Pero sus vestidos, 
+cargados de agua, no tardaron mucho 
+en arrastrar a la pobre con sus melodias 
+a un fango de muerte. 
+LAERTES 
+Ah, asi que esta ahogada. 
+REINA 
+Ahogada, ahogada. 
+LAERTES 
+Pobre Ofelia, bastante agua has tenido: 
+me prohibo llorar. Y sin embargo, 
+es humano; se impone la naturaleza, 
+aunque sea vergonzoso. Cuando cese mi llanto, 
+ya no habra mujer.   Adios, senor. 
+Tengo palabras de fuego queriendo encenderse, 
+pero este desliz las apaga.
+
+Sale.
+
+REY
+Sigamosle, Gertrudis. 
+Mucho me ha costado aplacar su ira, 
+y ahora me temo que vuelve a empezar. 
+Sigamosle.
+
+Salen.
+
+V.i Entran dos RuSTICOS [el ENTERRADOR y su COMPAnERO].
+
+ENTERRADOR
+	¿Se va a dar cristiana sepultura a la que conscientemente busco su salvacion?
+COMPAnERO
+	Te digo que si, conque cava ya la fosa. El juez ha visto el caso y dice que cristiana.
+ENTERRADOR
+¿Como es posible si no se ahogo en defensa propia?
+COMPAnERO
+	Pues eso ha decidido.
+ENTERRADOR
+Entonces habra sido se offendendo; no pudo ser otra cosa. La cuestion es esta: si yo me ahogo a sabiendas, esto arguye un acto; un acto tiene tres ramas: hacer, obrar, realizar. Ergu ella se ahogo a sabiendas. 
+COMPAnERO
+	Escucha, senor cavador...
+ENTERRADOR
+Perdona. Aqui esta el agua: bien. Aqui, el hombre: bien. Si el hombre va al agua y se ahoga, quieras que no, es el quien se va. ¿Te fijas? Pero si el agua viene a el y le ahoga, el no se ahoga a si mismo. Ergu quien no es culpable de su muerte no pudo acortar su vida. 
+COMPAnERO
+¿Esa es la ley?
+ENTERRADOR
+¡Pues claro! La ley que lo investiga.
+COMPAnERO
+¿Quieres saber la verdad? Si no es una senora, no le dan cristiana sepultura.
+
+ENTERRADOR
+Exacto. Y es una pena que los grandes tengan mas derecho a ahogarse o colgarse que sus hermanos cristianos. ¡Venga, la pala! En la antigüedad no habia mas senores que los jardineros, cavadores y sepultureros. Tenian el oficio de Adan.
+COMPAnERO
+¿Adan fue caballero?
+ENTERRADOR
+El primero en armarse.
+COMPAnERO
+¡Pero si no tenia armas!
+ENTERRADOR
+¿Tu es que eres pagano? ¿No dice la Biblia que Adan tuvo que labrar la Tierra? Luego se armo de paciencia. Voy a hacerte otra pregunta. Si no la contestas, confesion y...
+COMPAnERO
+Venga.
+ENTERRADOR
+Albanil, calafate o carpintero: ¿Quien construye mas fuerte que los tres?
+COMPAnERO
+El que hace la horca: el armazon sobrevive a mil ocupantes.
+ENTERRADOR
+Eso me ha gustado, de veras. Lo de la horca esta bien. Pero, ¿para quien? Esta bien para los que hacen mal. Entonces esta mal decir que una horca es mas fuerte que una iglesia; ergu la horca estara bien para ti. Otra vez, venga.
+COMPAnERO
+¿Que quien construye mas fuerte que albanil, calafate o carpintero?
+ENTERRADOR
+Vamos, dilo y a correr.
+COMPAnERO
+¡Ya lo tengo!
+ENTERRADOR
+Venga.
+COMPAnERO
+¡Dios, no lo se!
+
+Entran HAMLET y HORACIO a distancia.
+
+ENTERRADOR
+No te devanes los sesos, que, por mas que le pegues, tu burro no ira mas rapido. Cuando te vengan con esa pregunta, tu di que el sepulturero, porque las casas que hace duran hasta el Dia del Juicio. Vamos, corre a la taberna y traeme una jarra de aguardiente.
+
+[Sale el COMPAnERO.]
+
+	[Canta]		De joven yo ame, ame;
+		me parecio muy grato
+		menguar mis anos con placer;
+		igual no lo habia probado 
+HAMLET
+	¿Es que	este hombre no tiene sentido de su oficio, que cava tumbas cantando?
+HORACIO
+	Con la costumbre se vuelve una cuestion de indiferencia.
+HAMLET
+Cierto. La mano que poco labra tiene el sentido mas fino.
+ENTERRADOR [canta] 
+Mas con sigilo la vejez 
+ha hecho presa en mi 
+y me transporta a la region
+como al que no ha gozado asi.
+
+Arroja una calavera.
+
+HAMLET
+Esa calavera tenia lengua y podia cantar. Este bribon la estrella contra el suelo como si fuera la quijada de Cain, que cometio el primer crimen. Tal vez fuese la cabeza de un politico, ahora avasallado por un asno, capaz de enganar a Dios, ¿no crees?
+HORACIO
+Tal vez, senor.
+HAMLET
+O la de un cortesano, que diria: «Buenos dias, mi senor. ¿Como estais, mi buen senor?» Seria el senor don Tal, que elogiaba el caballo del senor don Cual cuando pensaba pedirselo, ¿verdad?
+HORACIO
+Si, mi senor.
+HAMLET
+Pues claro, y ahora es de don Gusano, sin mandibulas y con la crisma sacudida por el sepulturero. Bonita transmutacion, si supieramos verla. ¿Tan facil ha sido crear estos huesos que ahora solo sirven para jugar a los bolos? Los mios me duelen de pensarlo.
+ENTERRADOR [canta] 
+Un pico y una pala, pal, 
+envuelto en un sudario, 
+y un hoyo para huesped tal 
+sera lo necesario.
+
+[Arroja otra calavera.]
+
+HAMLET
+Otra mas. ¿No podria ser la de un abogado? ¿Donde estan ahora sus argucias, sus distingos, sus pleitos, sus titulos, sus manas? ¿Como deja que este bruto le sacuda el craneo con una pala sucia sin denunciarle por agresion? ¡Mmm ... ! Tal vez fuese en vida un gran comprador de tierras, con sus gravamenes, conocimientos, transmisiones, fianzas dobles, demandas. ¿Transmitio sus transmisiones y demando sus demandas para acabar con esta tierra en la cabeza? ¿Le negaran garantia sus garantes, aun siendo dos, para una compra que no excede el tamano de un contrato? Todas sus escrituras apenas caben en este hueco. ¿No tiene derecho a mas el hacendado?
+HORACIO
+Ni a una pizca mas, senor. 
+HAMLET
+Los pergaminos, ¿no son de piel de carnero? 
+HORACIO
+Si, Alteza, y de becerro. 
+HAMLET
+Carnero y becerro ha de ser quien crea que aseguran algo. Hablare con este hombre.   Tu, ¿de quien es esta fosa?
+ENTERRADOR 
+Mia, senor.
+[Canta]			... y un hoyo para huesped tal
+					sera lo necesario.
+HAMLET
+Sera tuya porque te has metido dentro.
+ENTERRADOR
+Y como vos estais fuera, no es vuestra. Yo en esto no me he metido, pero es mia.
+HAMLET
+	Te has metido y has mentido diciendo que es tuya. Es para un muerto, no para un vivo; asi que has mentido.
+ENTERRADOR
+	Senor, es una mentira viva y ahora vuelve con vos.
+HAMLET
+¿Para que hombre la cavas?
+ENTERRADOR
+Para ningun hombre, senor.
+HAMLET
+¿Para que mujer?
+ENTERRADOR
+Para ninguna, tampoco.
+HAMLET
+Pues, ¿a quien van a enterrar?
+ENTERRADOR
+A una que fue mujer, pero, que en paz descanse, esta muerta.
+HAMLET
+¡Que rotundo es el granuja! Como no hilemos delgado nos mataran los equivocos. De veras, Horacio; lo he notado en los ultimos tres anos: nos hemos vuelto tan finos que hasta el mas palurdo le pisa el talon al cortesano y le roza el sabanon.   ¿Desde cuando eres sepulturero?
+ENTERRADOR
+De todos los dias del ano, desde aquel en que nuestro difunto rey Hamlet vencio a Fortinbras.
+HAMLET
+Y de eso, ¿cuanto hace?
+ENTERRADOR
+	¿No lo sabeis? ¡Si hasta los tontos lo sabenl Fue el dia en que nacio el joven Hamlet, el que estaba loco y mandaron a Inglaterra.
+HAMLET
+	Si, claro. ¿Y por que le mandaron a Inglaterra?
+ENTERRADOR
+	Pues porque estaba loco. Alli recobrara el juicio y, si no, poco importa.
+HAMLET
+	¿Por que?
+ENTERRADOR
+	No se lo notaran: alli todos estan igual de locos.
+HAMLET
+	¿Como se volvio loco?
+ENTERRADOR
+	De un modo extrano.
+HAMLET
+	¿Como «extrano»?
+ENTERRADOR
+	Vaya, pues perdiendo el juicio.
+HAMLET
+	¿De donde salio su locura?
+ENTERRADOR
+Pues de aqui, de Dinamarca. Mozo y hombre, yo llevo aqui de sepulturero treinta anos.
+HAMLET
+	¿Cuanto tarda en pudrirse un muerto enterrado?
+ENTERRADOR
+Bueno, si no se ha podrido antes de morir (pues hoy en dia nos traen muchos venereos que apenas se pueden enterrar), os puede durar unos ocho o nueve anos. Un
+	curtidor os dura nueve anos.
+HAMLET
+¿Y el por que mas que otros?
+ENTERRADOR
+Pues, senor, porque tiene la piel tan curtida que el agua no la atraviesa en mucho tiempo, y el agua descompone bien a todo puto cadaver. Aqui hay una calavera; lleva enterrada veintitres anos.
+HAMLET 
+¿De quien es?
+ENTERRADOR 
+De un puto chiflado. ¿Quien creeis que era?
+HAMLET 
+No lo se.
+ENTERRADOR
+¡Mala peste de loco! Un dia me vacio en la cabeza una jarra de vino del Rin. Esta calavera, senor, es la de Yorick, el bufon del rey.
+HAMLET 
+¿esta?
+ENTERRADOR
+	La misma.
+HAMLET
+Deja que la vea. ¡Ay, pobre Yorick! Yo le conocia, Horacio: tenia un humor incansable, una agudeza asombrosa. Me llevo a cuestas mil veces. Y ahora, ¡como me repugna imaginarlo! Me revuelve el estomago. Aqui colgaban los labios que bese infinitas veces. Y ahora, ¿donde estan tus pullas, tus brincos, tus canciones, esas ocurrencias que hacian estallar de risa a toda la mesa? ¿Ya no tienes quien se ria de tus muecas? ¿Estas encogido? Vete a la estancia de tu senora y dile que, por mas que se embadurne, acabara con esta cara. Hazla reir con esto.   Horacio, dime una cosa.
+HORACIO
+Si, mi senor.
+HAMLET
+¿Tu crees que Alejandro tenia este aspecto bajo tierra?
+HORACIO
+El mismo.
+HAMLET
+¿Y olia asi? ¡Uf! 
+HORACIO
+Igual, senor. 
+HAMLET
+¡En que bajos usos podemos caer, Horacio! ¿No podria la imaginacion rastrear el noble polvo de Alejandro y encontrarlo taponando un barril?
+HORACIO
+Seria una busca demasiado rebuscada. 
+HAMLET
+No, nada de eso; habria que seguirle con mesura llevados de lo probable. Es decir: Alejandro murio, Alejandro fue enterrado, Alejandro se convirtio en polvo. El polvo es tierra, con la tierra se hace el barro, y con el barro en que se convirtio, ¿por que no se puede tapar un barril de cerveza?
+Muerto y hecho barro, el imperial Cesar 
+rellena un boquete y el aire intercepta.
+¡Ah, que aquella tierra que al mundo arredro 
+tape una pared y corte un ventarron!
+Pero, alto. Apartemonos: se acerca el rey,
+la reina, cortesanos.
+
+Entran, siguiendo un feretro, el REY, la REINA, LAERTES, otros CORTESANOS y un SACERDOTE.
+
+¿A quien siguen? ¿Por que un rito tan menguado? Eso indica que el difunto al que siguen, temerario se quito su propia vida. Y era de alto rango. Vamos a escondernos y mirar. 
+LAERTES 
+¿Que mas ceremonias? 
+HAMLET 
+Este es Laertes, un joven noble. Atiende.
+LAERTES
+¿Que mas ceremonias?
+SACERDOTE
+Sus exequias las hemos extendido 
+hasta el limite aprobado. Su muerte fue dudosa; 
+de no haberlo impedido una orden superior, 
+yaceria en lugar no consagrado 
+hasta el Dia del Juicio. En vez de plegarias, l
+e habrian arrojado cascotes, guijas y piedras. 
+Pero aqui se le permiten ritos virginales, 
+flores de doncella y entierro en sagrado 
+con toque de campana y funeral. 
+LAERTES 
+¿Sin hacer nada mas? 
+SACERDOTE 
+Nada mas. Profanariamos el oficio de difuntos 
+entonando un solemne responso y rezandole 
+como a las almas que mueren en paz. 
+LAERTES 
+Dadle sepultura 
+y que broten violetas de su carne 
+pura y sin mancha. Cruel sacerdote, yo te digo 
+que mi hermana sera un angel providente 
+cuando tu estes aullando en el averno. 
+HAMLET 
+¿Como? ¿La bella Ofelia? 
+REINA [esparciendo flores] 
+Flores a esta flor. Adios. 
+Confiaba en que serias la esposa de mi Hamlet. 
+Querida nina, crei que iba a engalanar 
+tu lecho de bodas, no tu sepultura. 
+LAERTES 
+¡Ah, que un triple dolor 
+diez veces triplicado caiga sobre ese maldito 
+cuyo crimen te privo de tu excelsa cordura! –
+Esperad, no la sepulteis hasta que yo 
+la tenga una vez mas entre mis brazos.
+
+Salta a la fosa.
+
+¡Apilad ahora tierra sobre vivos y muertos 
+hasta hacer de este llano una montana 
+que descuelle sobre el monte Pelion 
+o la cumbre celeste del Olimpo! 
+HAMLET [adelantandose] 
+¿Quien es este 
+que vocea su dolor con tanto impetu 
+y hechiza a los planetas con su angustia, 
+dejandolos suspensos como a oyentes asombrados? 
+Aqui esta Hamlet de Dinamarca.
+
+Salta dentro tras LAERTES.
+
+LAERTES
+	¡Que el diablo te lleve!
+HAMLET
+¡Que mal rezas!
+	Quitame esos dedos de la garganta,
+	pues, aunque no soy impulsivo ni colerico,
+	en mi hay algo peligroso
+	que mas te vale temer. ¡Quitame esa mano!
+REY
+	¡Separadlos!
+REINA
+	¡Hamlet, Hamlet!
+TODOS [LOS CORTESANOS ]
+	¡Senores!
+HORACIO
+Calmaos, Alteza.
+HAMLET 
+Por esta causa luchare con el 
+hasta que mis parpados dejen de moverse. 
+REINA 
+¿Que causa, hijo mio? 
+HAMLET 
+Yo queria a Ofelia. Ni todo el amor 
+de veinte mil hermanos juntos sumaria 
+la medida del mio.   ¿Que piensas hacer por ella? 
+REY 
+¡Ah, esta loco, Laertes! 
+REINA 
+¡Por el amor de Dios, no le oigas! 
+HAMLET 
+¡Voto a ... ! Dime lo que haras. 
+¿Piensas llorar, luchar, ayunar, desgarrarte? 
+¿O beber vinagre, comerte un cocodrilo? 
+Yo tambien. ¿Has venido aqui a lloriquear, 
+a rebajarme tirandote a la fosa? 
+Si te entierras con ella, yo tambien. 
+Y si hablas de montanas, que nos echen encima 
+fanegas a millones hasta que la tierra 
+se queme la cabeza en el circulo solar 
+y el Osa parezca una verruga. Si voceas, 
+yo hablare tan hinchado como tu. 
+REY 
+Esto es pura demencia; 
+el acceso no puede durarle mucho tiempo. 
+Muy pronto estara manso como una paloma 
+al salir del cascaron sus doradas parejas
+y se hundira en el silencio. 
+HAMLET 
+Oidme bien. ¿Por que me tratais asi? 
+Yo siempre os aprecie. Pero no importa.
+Que Hercules haga lo que se le antoje; 
+el gato maulla y el perro se impone.
+
+Sale.
+
+REY
+Acompanale, Horacio, te lo ruego.
+
+Sale HORACIO.
+
+Lo que hablamos anoche debe darte paciencia; 
+lo pondremos por obra de inmediato. 
+Gertrudis, haz que vigilen a tu hijo. 
+Esta tumba tendra su perenne monumento. 
+Muy pronto veremos la hora tranquila; 
+mientras, la paciencia sera nuestra guia.
+
+Salen.
+
+V.ii Entran HAMLET y HORACIO.
+
+HAMLET 
+De eso nada mas. En cuanto al resto, veamos. 
+¿Te acuerdas de todo mi relato? 
+HORACIO 
+¡Como no acordarme, senor! 
+HAMLET 
+Habia en mi alma una especie de lucha 
+que me tenia despierto. Me senti peor 
+que un amotinado en los grilletes. 
+En un rapto... Benditos los arrebatos: 
+admitamos que a veces el impulso 
+nos es mas util que el calculo, lo que nos muestra
+que hay una divinidad que modela nuestros fines, 
+cualquiera que haya sido nuestro esbozo. 
+HORACIO
+Asi es. 
+HAMLET 
+Sali del camarote y, envuelto 
+en mi tabardo marinero, anduve 
+a tientas en las sombras hasta hallarlos 
+les quite los documentos y volvi 
+finalmente al camarote, permitiendome 
+abrir el real comunicado, mis temores 
+venciendo mis modales. Horacio, en el lei
+(¡ah, regia canallada!) la orden expresa, 
+guarnecida de razones muy variadas 
+sobre el bien de Dinamarca e Inglaterra, 
+con, ¡ah!, todos los duendes que me hacen peligroso, 
+de que, a su lectura y en el acto, 
+sin esperar a que afilasen el hacha, 
+me cortaran la cabeza. 
+HORACIO
+¡No es posible! 
+HAMLET 
+Aqui esta el comunicado. Leelo sin prisa. 
+¿Quieres saber como procedi? 
+HORACIO
+Os lo ruego. 
+HAMLET V
+Vendome atrapado por infames 
+(antes que le diera un resumen al cerebro, 
+el ya veia la accion), me sente, proyecte 
+una nueva orden, la escribi con buena letra. 
+Al igual que los politicos, yo antes 
+menospreciaba la caligrafia 
+y me esforce en olvidarla, pero ahora 
+me ha prestado un fiel servicio. 
+¿Te digo el contenido de la orden?
+HORACIO 
+Si, Alteza. 
+HAMLET 
+Fue un ruego muy solemne de parte del rey: 
+Puesto que Inglaterra ha sido su leal tributaria 
+y sus lazos deben florecer cual la palmera, 
+puesto que la paz debe llevar siempre 
+su guirnalda de espigas y unirlos en su afecto, 
+con otros muchos «puestos» bien colmados, 
+que, a la vista y lectura del escrito, 
+sin debate y cumpliendolo a la letra, 
+se de a sus portadores la muerte inmediata 
+sin lugar a confesion. 
+HORACIO
+¿Y como lo sellasteis? 
+HAMLET 
+Hasta en eso fue el cielo providente: 
+llevaba en la bolsa el anillo de mi padre, 
+cuyo sello es identico al del rey; 
+doble el escrito a la manera del otro, 
+lo firme, selle y reemplace sin que nadie 
+advirtiera ningun cambio. Al otro dia 
+fue el combate naval; lo que sigue 
+ya lo sabes. 
+HORACIO
+Y Guildenstern y Rosencrantz fueron a su muerte 
+HAMLET 
+¡Pero si estaban prendados de su oficio! 
+No me rozan la conciencia. Su caida 
+resulta de su propia intromision. 
+El inferior corre peligro atravesandose 
+entre los fieros golpes y estocadas 
+de rivales poderosos. 
+HORACIO 
+¡Que rey es este! 
+HAMLET 
+¿No crees que ya es mi turno?
+Mata a mi padre, prostituye a mi madre, 
+se mete entre la eleccion y mi esperanza 
+y a mi propia vida le echa el anzuelo 
+con toda esa mana. ¿No seria de conciencia 
+pagarle con mi brazo? ¿Y no seria condenarse 
+permitir que esta ulcera se extienda 
+y siga corrompiendo? 
+HORACIO 
+Tendra pronto noticias de Inglaterra 
+informandole de todo lo ocurrido. 
+HAMLET 
+Muy pronto. Pero el intervalo es mio. 
+Una vida no dura mas que decir «uno». 
+Pero me ha dolido mucho, buen Horacio, 
+haberme propasado con Laertes, 
+pues en el rostro de mi causa puedo ver 
+el reflejo de la suya. Me ganare su favor. 
+Sin embargo, sus alardes de angustia 
+dispararon mi arrebato. 
+HORACIO
+¡Chsss! ¿Quien viene?
+
+Entra el joven OSRIC.
+
+OSRIC
+Alteza, sed muy bienvenido a Dinamarca.
+HAMLET
+Con humildad os lo agradezco.   ¿Conoces a esta libelula? 
+HORACIO 
+No, mi senor. 
+HAMLET 
+Mas gracia para tu alma, que conocerle es pecado. Posee tierras, muchas y fertiles. Con que un animal sea dueno de animales, ya tiene el pesebre en la mesa del rey. Este es un rustico, pero, como digo, con grandes extensiones de estiercol.
+OSRIC
+Mi querido senor, si vuestra gentileza se hallara ociosa, os transmitiria un mensaje de Su Majestad.
+HAMLET
+Senor, le prestare oidos con toda entrega de espiritu. Dadle a vuestro gorro el uso debido: es para la cabeza.
+OSRIC
+	Gracias, Alteza. Hace mucho calor.
+HAMLET
+No, creedme: hace mucho frio. El viento es del norte.
+OSRIC
+	En efecto, senor; hace bastante frio.
+HAMLET
+	Para mi complexion hace un calor sofocante.
+OSRIC
+Sobre manera, Alteza. Hace mucho bochorno, como quien dice... ¿Como decirlo? Pero, senor, Su Majestad me manda participaros que ha hecho una gran apuesta en favor vuestro. Senor, se trata de...
+HAMLET
+	Acordaos de cubriros.
+OSRIC
+No, mi buen senor, de veras; por respeto. Alteza, no ignorais la excelencia de Laertes con su arma.
+HAMLET
+	¿Y cual es?
+OSRIC
+Estoque y daga.
+HAMLET
+Son dos armas. Pero, en fin...
+OSRIC
+Senor, el rey ha apostado seis corceles berberiscos, a los cuales, segun creo, Laertes ha contrapuesto seis estoques y punales franceses con todos sus adherentes, tales como el cinto, los tahalies, etcetera. En verdad, tres de las portaderas son muy gratas al gusto, muy acordes con la empunadura, un autentico primor y de extremada fantasia.
+HAMLET
+¿A que llamais «portaderas»? 
+ORISC
+Senor, las portaderas son las correas. 
+HAMLET
+El termino seria mas propio si pudieramos cenirnos un canon. Entre tanto, llamense correas. Mas sigamos. Seis caballos berberiscos contra seis espadas francesas, con sus adherentes y tres portaderas de extremada fantasia. Es la apuesta francesa contra la danesa. ¿Por que se ha «contrapuesto», como vos decis?
+OSRIC
+Senor, el rey ha apostado que en doce asaltos entre vos y Laertes, el no os ganara por mas de tres. Laertes ha apostado por nueve de los doce. Podria ponerse a prueba de inmediato si Vuestra Alteza se dignase responder.
+HAMLET
+¿Y si respondo que no?
+OSRIC
+Senor, quiero decir si accedierais a enfrentaros.
+HAMLET 
+Senor, paseare por este salon. Si le place a Su Majestad, es mi hora de ejercicios. Si traen las armas, y esta dispuesto el caballero, y el rey mantiene su apuesta, hare que gane si puedo. Si no, me ganare la deshonra y los golpes en cuestion. 
+OSRIC. 
+¿Transmito asi vuestra respuesta? 
+HAMLET 
+En tal sentido, senor, con los floreos que os dicte vuestro estilo. 
+OSRIC 
+Me recomiendo con lealtad a Vuestra Alteza. 
+HAMLET 
+Todo vuestro.
+
+Sale OSRIC.
+
+Hace bien en recomendarse, pues nadie lo hara por el. 
+HORACIO
+Este chorlito se va con el cascaron en la cabeza. 
+HAMLET
+Le hacia ceremonias a la teta antes de mamar. este y otros muchos de su cuerda, que tanto cautivan a nuestro frivolo mundo, solo han pescado la jerga de moda y las formulas externas: un surtido de pamemas que los saca adelante entre las mentes mas cultas; pero prueba a soplarles y les revientas las pompas.
+HORACIO
+Perdereis este encuentro, senor. 
+HAMLET
+No lo creo. Desde que el marcho a Francia, no he dejado de practicar, y con tal apuesta ganare. Aunque no te imaginas el malestar que siento. Pero no importa. 
+HORACIO
+¿Que es, senor?
+HAMLET
+Una tonteria; uno de esos presentimientos que turbarian a una mujer
+HORACIO
+Si vuestro animo esta inquieto, obedecedlo. Hare que no vengan y dire que no estais listo.
+HAMLET
+Nada de eso; los augurios se rechazan. Hay singular providencia en la caida de un pajaro. Si viene ahora, no vendra luego. Si no viene luego, vendra ahora. Si no viene ahora, vendra un dia. Todo es estar preparado. Como nadie sabe nada de lo que deja, ¿que importa dejarlo antes? Ya basta.
+
+Entran el REY, la REINA, LAERTES, cortesanos, [OSRIC] y acompanamiento con trompetas, tambores, cojines, espadas de esgrima y manoplas,  una mesa con jarras de vino.
+
+REY
+Ven, Hamlet; ven y toma esta mano.
+
+[Pone la mano de LAERTES en la de HAMLET.]
+HAMLET 
+Perdonadme, senor. Os he agraviado. 
+Perdonad como caballero. Los presentes 
+bien saben y a vos de cierto os han dicho 
+que estoy aquejado de un grave trastorno. 
+Si rudamente he provocado 
+vuestros sentimientos, honor y disgusto, 
+aqui proclamo que ha sido locura. 
+¿Fue Hamlet quien hirio a Laertes? Jamas. 
+Si Hamlet ha salido de si 
+y, no siendo el mismo, agravia a Laertes, 
+no es Hamlet quien obra; Hamlet lo niega. 
+Entonces, ¿quien obra? Su locura. Si es asi, 
+Hamlet es tambien de la parte agraviada 
+y la locura es su cruel enemiga. 
+Senor, ante esta asamblea: 
+que mi negacion de un mal pretendido 
+me absuelva en vuestro noble pensamiento, 
+como si mi flecha, volando por encima 
+de la casa, hubiera herido a mi hermano. 
+LAERTES 
+Lo admito en mis sentimientos, 
+que son los que mas deberian moverme 
+a la venganza. Respecto a mi honor 
+me reservo, y no deseo reconciliarme 
+hasta que voces de probada autoridad 
+emitan juicio y precedente de concordia 
+y mi buen nombre salga intacto. Hasta entonces 
+acojo como afecto el afecto declarado 
+y no lo menosprecio. 
+HAMLET 
+Lo acepto muy gustoso, y luchare 
+abiertamente en este encuentro fraternal. –
+Traed las espadas, vamos. 
+LAERTES 
+Venga, una para mi. 
+HAMLET 
+Laertes, os dare realce. Mi torpeza
+hara que vuestro arte brille tanto
+como un astro en la noche mas oscura.
+LAERTES
+Os burlais, senor.
+HAMLET
+No, os lo juro.
+REY
+Dales las espadas, joven Osric. Hamlet,
+¿conoces la apuesta?
+HAMLET
+Perfectamente, senor.
+Vuestra Majestad ha apostado por el debil.
+REY
+No me inquieta; os he visto a ambos.
+Mas, como el es un maestro, se te ha dado ventaja.
+LAERTES
+esta es muy pesada. A ver otra.
+HAMLET
+esta me gusta. ¿Son todas del mismo largo?
+OSRIC
+Si, Alteza.
+
+Se disponen a luchar.
+
+REY
+Poned las jarras de vino en esa mesa. 
+Si Hamlet da el primer golpe o el segundo, 
+o se desquita en el tercer asalto, 
+que en todas las almenas disparen los canones. 
+El rey bebera por el vigor de Hamlet 
+y en la copa echara una perla mas valiosa 
+que la que cuatro reyes sucesivos 
+en la corona danesa portaron. 
+Dadme las copas; el timbal hablara a la trompeta, 
+la trompeta al canon de la muralla, 
+el canon al cielo y el cielo a la tierra, diciendo: 
+«El rey bebe ahora por Hamlet.» Empezad. 
+Jueces, vosotros siempre vigilantes.
+HAMLET
+Vamos.
+LAERTES
+Vamos, senor.
+
+Luchan.
+
+HAMLET
+¡Uno!
+LAERTES
+¡No!
+HAMLET
+¿Jueces?
+OSRIC
+Un punto, un punto muy claro.
+LAERTES
+Bien, sigamos.
+REY
+Alto. Traed el vino. Hamlet, tuya es esta perla.
+Bebo a tu salud.
+
+Suenan tambores y trompetas, y disparan una salva.
+
+Dadle la copa.
+HAMLET
+Primero, este asalto. Dejadla a un lado.  
+Vamos.
+
+Vuelven a luchar.
+
+	Otro punto. ¿Que decis?
+LAERTES
+	Otro punto, lo confieso.
+REY
+Ganara nuestro hijo.
+REINA
+Esta sudando y sin aliento.
+Hamlet, toma mi panuelo, secate la frente.
+La reina bebe por tu suerte, Hamlet.
+HAMLET
+Gracias, madre.
+REY
+Gertrudis, no bebas.
+REINA
+Quiero beber, esposo; con permiso.
+
+Bebe [y ofrece la copa a HAMLET].
+
+REY [aparte]
+Es la copa envenenada. Ya es tarde.
+HAMLET
+Aun no me atrevo, senora. Bebere luego.
+REINA
+Ven, deja que te seque la cara.
+LAERTES
+Majestad, esta vez le toco.
+REY
+No lo creo.
+LAERTES [aparte]
+Esto va casi contra mi conciencia.
+HAMLET
+Vamos al tercero, Laertes. No dais en serio.
+Os lo ruego, atacad con mas ardor.
+Temo ser vuestro juguete.
+LAERTES
+¿Eso creeis? Vamos.
+
+Luchan.
+
+OSRIC
+Ningun punto para nadie.
+LAERTES
+¡En guardia!.
+
+Hiere a HAMLET. Hay un forcejeo y se cambian los estoques. HAMLET hiere a LAERTES.
+
+REY
+¡Separadlos! Estan furiosos.
+HAMLET
+No, sigamos.
+
+Cae la REINA.
+
+OSRIC
+¡Atended a la reina!
+HORACIO
+Sangran ambos.   ¿Como estais, Alteza? 
+OSRIC
+¿Como estais, Laertes? 
+LAERTES
+Como pajaro cogido en mi trampa, Osric.
+Mi propia traicion me da justa muerte.
+HAMLET
+¿Como esta la reina?
+
+REY
+Se ha desmayado al verlos sangrar. 
+REINA
+¡No, no, el vino, el vino! ¡Ah, mi buen Hamlet!
+¡El vino, el vino! ¡Me ha envenenado!
+
+Muere.
+
+HAMLET
+¡Ah, infamia! ¡Que cierren la puerta! 
+¡Traicion! ¡Descubridla!
+
+[Sale OSRIC.]
+
+LAERTES
+Esta aqui, Hamlet. Hamlet, estas muerto. 
+No hay medicina que pueda salvarte. 
+No te queda ni media hora de vida. 
+El arma traidora esta en tu mano, 
+con punta y envenenada. La vileza 
+se ha vuelto contra mi. Mira: yo, 
+caido para siempre, y tu madre, envenenada. 
+No puedo mas. ¡El rey, el rey es el cuipable! 
+HAMLET 
+¿Con punta y envenenada? ¡Pues a lo tuyo, veneno!
+
+Hiere al REY.
+
+TODOS [LOS CORTESANOS]
+	¡Traicion, traicion!
+REY
+	¡Amigos, defendedme! Solo estoy herido.
+HAMLET
+¡Toma, maldito danes, criminal, incestuoso!
+¡Bebete la pocima!
+
+[Obliga a beber al REY.]
+
+¿Esta ahi tu perla? Sigue a mi madre.
+
+Muere el REY.
+
+LAERTES
+Recibio su merecido: 
+es veneno que el mismo preparo.
+Perdonemonos, mi noble Hamlet. 
+¡No caigan sobre ti mi muerte ni la de mi padre, 
+ni la tuya sobre mi!
+
+Muere.
+
+HAMLET
+El ciclo te absuelva. Voy a seguirte. 
+Me muero, Horacio.   ¡Adios, pobre reina! 
+Vosotros, que palideceis y temblais 
+ante esta desdicha, comparsas o testigos 
+mudos de esta obra, si me quedara tiempo 
+(pues el esbirro de la muerte siempre arresta), 
+ah, os contaria... Ya basta. Horacio, me muero; 
+tu vives: relata mi historia y mi causa 
+a cuantos las ignoran. 
+HORACIO 
+Nada de eso. 
+Mas que danes soy antiguo romano. 
+Aun queda bebida. 
+HAMLET 
+Como hombre que eres, 
+dame esa copa. ¡Sueltala! ¡Por Dios, damelal 
+¡Ah, buen Horacio! Si todo queda oculto, 
+¡que nombre tan manchado dejare! 
+Si por mi sentiste algun carino, 
+abstente de la dicha por un tiempo 
+y vive con dolor en el cruel mundo 
+para contar mi historia.
+
+Marcha a lo lejos y canonazo.
+
+¿Que es ese ruido de guerra?
+
+Entra OSRIC.
+
+OSRIC.
+El joven Fortinbras, de vuelta victoriosa 
+de Polonia, dispara esta salva marcial 
+en honor de los embajadores de Inglaterra. 
+HAMLET 
+¡Ah, ya muero, Horacio! 
+El fuerte veneno senorea mi animo. 
+No vivire para oir las nuevas de Inglaterra, 
+pero adivino que sera elegido rey 
+Fortinbras. Le doy mi voto agonizante. 
+Diselo, junto con todos los sucesos 
+que me han llevado... El resto es silencio.
+
+[Lanza un hondo suspiro y ] muere.
+
+HORACIO
+Ha estallado un noble pecho. Buenas noches, 
+buen principe; que canticos de angeles 
+te lleven al reposo.   ¿Por que vienen los tambores?
+
+Entran FORTINBRaS y los EMBAJADORES de Inglaterra, con tambores, estandartes y acompanamiento.
+
+FORTINBRaS 
+¿Donde esta la escena? 
+HORACIO 
+¿Que quereis ver? Si es algo 
+de asombro o dolor, cese vuestra busca. 
+FORTINBRaS 
+Esta sangre pregona matanza. Muerte altiva, 
+¿que festin preparas en tu celda infernal, 
+que con tal violencia hieres a la vez 
+a tantos principes? 
+EMBAJADOR 
+El cuadro es angustioso y nuestra embajada de Inglaterra llega tarde.
+Sordos estan los oidos que nos deben 
+dar audiencia, pues su orden fue cumplida 
+y Rosencrantz y Guildenstern han muerto. 
+¿Quien nos dara las gracias? 
+HORACIO 
+Su boca, no, aunque en ella 
+hubiera vida para agradeceroslo; 
+el nunca dio la orden de matarlos. 
+Mas, puesto que llegais en hora tan sangrienta, 
+vos, de la guerra con Polonia, y vos, 
+de Inglaterra, disponed que los cadaveres 
+sean expuestos en alto a la vista de todos 
+y permitid que cuente al mundo, pues lo ignora, 
+todo cuanto sucedio. De este modo sabreis 
+de actos lascivos, sangrientos e inhumanos, 
+castigos fortuitos, muertes casuales 
+y otras que se deben a enganos y artificios; 
+y, por ultimo, de intrigas malogradas 
+vueltas contra sus autores. Todo esto 
+fielmente os contare. 
+FORTINBRaS 
+Apresuremonos a oirlo, 
+y que este presente toda la nobleza. 
+En cuanto a mi, acojo mi destino con dolor. 
+Sobre este reino tengo derechos historicos 
+y ahora es la sazon para reivindicarlos. 
+HORACIO
+Hablare tambien de ello 
+y del voto que otros muchos atraera. 
+Mas cumplamos sin tardanza lo propuesto, 
+ahora que los animos se encienden, no sea 
+que a estas tramas sucedan mas desdichas. 
+FORTINBRaS 
+Cuatro capitanes portaran 
+a Hamlet marcialmente al catafalco, 
+pues, de habersele brindado, habria sido 
+un gran rey. Su muerte sera honrada 
+con sones militares y ritos de guerrero. 
+Llevaos los cadaveres. Esta escena, 
+mas propia de batalla, aqui disuena. 
+Vamos, que disparen los soldados.
+
+Salen en marcha solemne, seguida de una salva de canon.

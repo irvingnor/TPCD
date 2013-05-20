@@ -6,7 +6,8 @@
 #include<string>
 #include<map>
 #include<vector>
-#define MAXELEMENTOS 500
+#include"adverb.h"
+#define MAXELEMENTOS 10000
 
 using namespace std;
 
@@ -16,17 +17,21 @@ class Adverbio
 		Adverbio(string);
 		~Adverbio();
 		void openFile();
+		void loadAdverbs();
 		string getNameFile();
 		int getNumLines();
-		void printBuffer();
+		void start();
 		bool delimitador(char);
 	private:
 		ifstream file;
+		ifstream listAdverbios;
 		string nameFile;
 		int numLines;
 		int numWords;
 		string buffer[MAXELEMENTOS];
 		map<string,int> dFile;
+		vector<Adverb> list;
 };
+
 
 #endif
