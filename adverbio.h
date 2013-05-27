@@ -6,6 +6,7 @@
 #include<string>
 #include<map>
 #include<vector>
+#include"tbb/parallel_for.h"
 #include"adverb.h"
 #define MAXELEMENTOS 10000
 
@@ -18,6 +19,7 @@ class Adverbio
 		~Adverbio();
 		void openFile();
 		void loadAdverbs();
+		void countAdverbs();
 		string getNameFile();
 		int getNumLines();
 		void start();
@@ -31,6 +33,7 @@ class Adverbio
 		string buffer[MAXELEMENTOS];
 		map<string,int> dFile;
 		vector<Adverb> list;
+		vector<int> nAdverbios;
 };
 
 
