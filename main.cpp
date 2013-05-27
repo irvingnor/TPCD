@@ -11,6 +11,15 @@ struct Average {
     }
 };
 
+void imprimeNAdverbios()
+{
+	int size = nAdverbios1.size();
+	for(int i=0;i<size;i++)
+	{
+		cout<<"Existen\t"<<nAdverbios1[i]<<"\tde tipo "<<i+1<<endl;
+	}
+}
+
 int main()
 {
 	task_scheduler_init init;
@@ -23,14 +32,11 @@ int main()
 	cout<<"Se leyeron: "<<adv.getNumLines()-1<<"\t lineas."<<endl;
 	adv.start();
 	adv.giveValues(dFile1,list1,nAdverbios1);
+	
 	Average avg;
 	parallel_for( blocked_range<int>( 1, list1.size() ), avg );
+	imprimeNAdverbios();
 	
-	int size = nAdverbios1.size();
-	for(int i=0;i<size;i++)
-	{
-		cout<<"Existen\t"<<nAdverbios1[i]<<"\tde tipo "<<i+1<<endl;
-	}
 	//adv.countAdverbs();
 	//adv.getNAdverbios();
 	return 0;

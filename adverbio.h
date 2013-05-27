@@ -43,5 +43,6 @@ class Adverbio
 		map<string,int> dFile;
 		vector<Adverb> list;
 		vector<int> nAdverbios;
+		struct Average;
 };
 #endif
